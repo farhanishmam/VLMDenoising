@@ -299,5 +299,3 @@ VLMDenoising/
 ├── config.template.json                      # Configuration template
 └── README.md
 ```
-
-**Note:** All 193+ redundant notebooks have been removed and replaced with 3 generalized, production-ready Python scripts. Additionally, over 1,100 lines of duplicate code in the augmentation utilities have been consolidated into a shared `common/` directory. The codebase is now significantly cleaner and more maintainable.
