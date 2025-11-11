@@ -30,4 +30,7 @@ logs/
 .vscode/
 .idea/
 
+# Config files with API keys
+config.json
+checkpoint*.json
 

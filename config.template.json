@@ -1,0 +1,28 @@
+{
+  "api_keys": {
+    "gemini": "YOUR_GEMINI_API_KEY_HERE",
+    "openai": "YOUR_OPENAI_API_KEY_HERE",
+    "anthropic": "YOUR_ANTHROPIC_API_KEY_HERE"
+  },
+  "paths": {
+    "clean_images": "path/to/clean/images",
+    "noisy_images": "path/to/noisy/images",
+    "denoised_images": "path/to/denoised/images",
+    "data_csv": "data/raw/Noisy-Denoised_QuestionPairs[new].csv",
+    "annotations": "annotations/filtered_answers.json",
+    "questions": "questions/filtered_questions.json"
+  },
+  "training": {
+    "batch_size": 30,
+    "num_epochs": 50,
+    "learning_rate": 0.0001,
+    "early_stop_patience": 10,
+    "train_split": 0.70,
+    "val_split": 0.15
+  },
+  "inference": {
+    "checkpoint_frequency": 50,
+    "batch_size": 1
+  }
+}
+
