@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Data and artifacts (keep structure, ignore contents)
+data/processed/
+data/external/
+outputs/
+checkpoints/
+logs/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.npy
+*.npz
+
+# IDE
+.vscode/
+.idea/
+
+

@@ -1,0 +1,968 @@
+,id,instance_id,question,answer,A,B,C,D,category,path
+0,count_1189,1189,How many boats have a red roof? ,['C'],there are zero,five are in the picture,there is one,there are three in the picture,count,000000442822.jpg
+1,count_2275,2275,How many yellow balls? ,['C'],there are 0 in the image,there are four of them,there is 1 in the picture,there are 3 of them,count,000000042296.jpg
+2,count_283,283,How many of the seats on the sofa have a book on them? ,['B'],3,1 is in the image,zero are in the picture,there are two in the image,count,000000128148.jpg
+3,count_2217,2217,How many salt grinders are pictured? ,['B'],there are three in the image,there is one of them in the image,there are two,there are 4 in the image,count,000000064084.jpg
+4,count_1100,1100,How many bean bags? ,['C'],there are 2,there are six in the picture,there are five of them in the image,there are 7 in the image,count,000000448076.jpg
+5,count_1906,1906,How many books are lying down?,['A'],7 are in the picture,there are 6,five are in the image,there are eight of them in the image,count,000000421923.jpg
+6,count_159,159,How many men are wearing shirts?,['D'],2 are in the image,there are three of them,there are 5,there is one of them in the image,count,000000121031.jpg
+7,count_2409,2409,How many people are crossing the road from right to left?,['A'],3 are in the picture,there are 5 in the image,there are two,there is 1 of them in the image,count,000000373353.jpg
+8,count_2577,2577,How many cakes have green grapes on them?,['C'],there are four in the image,there are three,there are 2 in the picture,zero are in the image,count,000000276434.jpg
+9,count_552,552,How many people are wearing blue coats?,['A'],there are two,there are 3 in the image,zero,one is in the image,count,000000505789.jpg
+10,count_1490,1490,How many windows are open on the right-hand large screen?,['D'],there are 0 of them,7 are in the picture,there are four in the picture,2 are in the picture,count,000000056344.jpg
+11,count_1619,1619,How many pink glasses can be seen in the photograph?,['B'],there are two,there is 1,there are four in the picture,there are three,count,000000372466.jpg
+12,count_1917,1917,How many yellow balloons can you see in the photo?,['A'],there are 3 of them in the image,there are zero of them,there is 1 of them,5 are in the picture,count,000000014038.jpg
+13,count_2588,2588,How many people are wearing glasses of any type?,['A'],2,there is one,6 are in the image,there are zero in the picture,count,000000440336.jpg
+14,count_1809,1809,How many gazebos are on the lawn?,['A'],there is one in the picture,there are 3 in the picture,there are four of them in the image,zero,count,000000117492.jpg
+15,count_2197,2197,How many windows are open in the truck?,['C'],there are 3 of them in the image,six are in the picture,there is one of them,0,count,000000469192.jpg
+16,count_2042,2042,How many living people can be seen in the image?,['D'],there are 3 of them,there are two in the image,six,one is in the picture,count,000000370711.jpg
+17,count_221,221,How many women are wearing hats?,['D'],there is one of them in the image,there are two,there are four in the picture,there are 0,count,000000459195.jpg
+18,count_1392,1392,How many green food items can you see in the image?,['C'],3 are in the image,there are 0 in the picture,there is 1 of them,4 are in the picture,count,000000300233.jpg
+19,count_1624,1624,What is the number of girls in this photo?,['A'],there are 4,there are three in the picture,there are 7 of them,there are 5,count,000000578489.jpg
+20,count_1330,1330,How many laptops are on?,['D'],there are 4,there is one in the picture,there are seven,there are two in the image,count,000000529148.jpg
+21,count_1884,1884,How many people can be seen sitting?,['A'],2,five are in the picture,4,three are in the image,count,000000229659.jpg
+22,count_2327,2327,How many zebras are standing?,['C'],there are four,there are five of them,six are in the image,seven are in the picture,count,000000298251.jpg
+23,count_919,919,how many people are wearing glasses,['A'],there are two in the picture,zero are in the image,there are 4 of them,there is one of them in the image,count,000000537270.jpg
+24,count_1326,1326,how many objects are made out of glass,['D'],there are 0 of them,five are in the picture,there are three of them in the image,there is one of them,count,000000096001.jpg
+25,count_1200,1200,how many visible computer screens are turned on,['A'],2 are in the image,there are 3,4 are in the image,1 is in the picture,count,000000172595.jpg
+26,count_361,361,how many doors are open,['A'],there are two,3 are in the image,there is 1 in the image,zero are in the picture,count,000000494913.jpg
+27,count_1753,1753,how many cups have water in them,['B'],zero are in the image,there is 1,3 are in the image,there are two in the image,count,000000080932.jpg
+28,count_1806,1806,how many plates have food on them,['A'],1 is in the image,there are three in the picture,2 are in the picture,there are five in the image,count,000000580294.jpg
+29,count_833,833,how many jars have pegs in them?,['A'],2 are in the image,there are 0 of them in the image,there are 3 in the picture,there are 4 of them,count,000000136600.jpg
+30,count_464,464,how many people are sat down,['B'],there are three in the image,there are four in the picture,two,there are eight in the picture,count,000000070254.jpg
+31,count_991,991,How many cardboard boxes are in the room?,['A'],there are 2 of them in the image,there are 3 in the picture,one is in the picture,there are four,count,000000366884.jpg
+32,count_757,757,How many people are in the screen?,['A'],there are three,there are 5 of them,1 is in the picture,there are 2 of them in the image,count,000000514508.jpg
+33,count_2321,2321,How many people are in the picture?,['D'],there are 8 in the picture,there are 7 of them in the image,there are two in the image,there are 6,count,000000130826.jpg
+34,count_1323,1323,How many pancakes can be cooked in the pan?,['D'],there are four of them,three are in the picture,there are six in the picture,five are in the picture,count,000000470773.jpg
+35,count_789,789,How many information cards can be seen in the photo?,['C'],six are in the picture,3,there are 4 of them in the image,eight are in the image,count,000000571804.jpg
+36,count_445,445,How many hanging stars are on the wall?,['C'],there are two in the image,there are 6 of them in the image,there is one in the image,3 are in the picture,count,000000024610.jpg
+37,count_2778,2778,How many surf boards are touching the ground?,['C'],0,three are in the picture,there is one of them in the image,there are 6 of them,count,000000326174.jpg
+38,count_2049,2049,How many white clock faces are shown?,['D'],there is 1 in the picture,there are 6 in the image,there are 0 in the image,there are two of them in the image,count,000000031118.jpg
+39,count_650,650,How many cats are sitting on the table?,['D'],there are zero in the picture,two,there are three in the picture,there is one in the image,count,000000520531.jpg
+40,count_1089,1089,How many book covers have the colour red on it?,['D'],there are four,there are seven in the image,one is in the image,there are three in the image,count,000000026564.jpg
+41,count_1681,1681,How many cushions show the number 3?,['B'],there are three in the image,there is one of them in the image,five are in the image,2 are in the image,count,000000453341.jpg
+42,count_1909,1909,How many figurines are on top of the toilet?,['C'],2 are in the image,there are 5 of them,there are 4 of them,there are 0 of them in the image,count,000000117914.jpg
+43,count_1853,1853,How many teddies are facing the camera?,['B'],there are six,there is 1 in the image,there are two of them in the image,3 are in the image,count,000000428867.jpg
+44,count_676,676,How many children are wearing an orange top?,['C'],six are in the image,2 are in the image,1 is in the image,0,count,000000474028.jpg
+45,count_1375,1375,How many people are wearing white clothing?,['B'],there are 3 of them in the image,there is 1 of them in the image,there are zero,there are 5 in the picture,count,000000435206.jpg
+46,count_28,28,How many of the footballers are touching the ball?,['B'],3 are in the image,there are 2 in the image,there are 5 in the image,there are four,count,000000162732.jpg
+47,count_797,797,How many skateboarders are in the air?,['B'],there are two of them in the image,1 is in the picture,there are 3,there are zero in the image,count,000000439854.jpg
+48,count_407,407,How many slices of apple are in the bowl?,['B'],6,there are four in the image,there are three of them in the image,two,count,000000322959.jpg
+49,count_2706,2706,How many juice pouches are laying flat on the table?,['C'],three are in the picture,there are 0,there is one of them,there are two in the image,count,000000122962.jpg
+50,count_1227,1227,How many tattoos are on the hairdresser's right arm?,['B'],there are 0 of them in the image,there is 1 of them in the image,there are 3 in the image,there are four,count,000000297562.jpg
+51,count_1861,1861,How many enamel pans are on the table?,['C'],there are four of them,there are three of them,two are in the picture,1 is in the picture,count,000000030213.jpg
+52,count_18,18,How many vendors' faces are visible?,['D'],there are 0,there are four in the image,there is one in the image,there are two in the picture,count,000000272566.jpg
+53,count_1239,1239,How many banners contain the number 7?,['C'],there is 1,there are 0 in the image,there are 2 in the image,there are 4 of them in the image,count,000000071711.jpg
+54,count_852,852,How many people between the vehicles are carrying bags?,['B'],there is one,three,0,there are four of them in the image,count,000000303818.jpg
+55,count_696,696,HOW MANY PEOPLE ARE IN THE FRIDGE?,['B'],3 are in the image,there is 1 in the picture,there are 4,two are in the image,count,000000215114.jpg
+56,count_1554,1554,HOW MANY PEOPLE ARE WEARING ORANGE TOPS,['D'],there are 3,there are 4 in the image,there are 7,2,count,000000014439.jpg
+57,count_1685,1685,HOW MANY FULLY SHOWN BLUE STARS ARE SHOWN ON THE LAPTOP SCREEN?,['A'],3,there are two in the image,there are zero in the image,there are 5 of them in the image,count,000000178469.jpg
+58,count_253,253,HOW MANY CUSTOMERS ARE WEARING STRIPED TOPS?,['D'],5,there are 3,there are zero,there is 1,count,000000156643.jpg
+59,count_169,169,HOW MANY IMAGES OF HEARTS ARE PRESENT?,['B'],there are 4 of them,there are 2 in the picture,there are six,there is 1 of them in the image,count,000000357888.jpg
+60,count_1771,1771,How many adults are in the picture?,['C'],there are 5 of them in the image,there are two of them in the image,3 are in the image,8 are in the picture,count,000000054593.jpg
+61,count_2532,2532,How many people are wearing red shorts?,['B'],six are in the picture,there is one in the picture,2 are in the picture,there are 3 of them,count,000000105264.jpg
+62,count_652,652,How many people are putting on a yellow cap?,['B'],there are 4,there is 1,two are in the picture,there are zero,count,000000323263.jpg
+63,count_1444,1444,How many red coaches are in the picture?,['B'],5 are in the picture,there are 2 of them in the image,there are four,one is in the picture,count,000000368038.jpg
+64,count_794,794,How many people are holding a tea cup in the picture?,['C'],there are six in the image,four,3,there is 1 in the picture,count,000000009590.jpg
+65,count_1018,1018,How many mirrors are on the walls?,['B'],there are six,there are 2 in the picture,1 is in the image,there are three in the picture,count,000000139684.jpg
+66,count_1629,1629,How many traffic cones are on the road?,['A'],there are 4 of them,there are six of them in the image,there are 7 in the image,there are 5 in the image,count,000000577976.jpg
+67,count_141,141,How many suitcases have a square print?,['D'],three are in the picture,there are 4 in the image,there is 1,there are 2 in the image,count,000000114049.jpg
+68,count_1364,1364,How many wooden chairs are in the picture?,['D'],there are seven in the picture,there are 0 of them,three,there are 2 of them in the image,count,000000428280.jpg
+69,count_872,872,How many people are in the picture whose face we can't see?,['A'],2 are in the image,there are 0 of them,there are five of them,there are 3 in the image,count,000000356428.jpg
+70,count_2641,2641,How many black plant pots are there?,['B'],there are zero of them in the image,there is one of them,two are in the picture,there are 6,count,000000086582.jpg
+71,count_2775,2775,How many orange umbrellas are there?,['C'],0 are in the image,one is in the picture,there are two of them in the image,four are in the image,count,000000549930.jpg
+72,count_1120,1120,How many skiers are at the front?,['C'],there are 2,four,there are three in the image,there is 1,count,000000463542.jpg
+73,count_1880,1880,How many people are at the front table?,['D'],8 are in the picture,there is one in the image,there are five of them in the image,there are 3 in the image,count,000000242946.jpg
+74,count_480,480,How many framed pictures are on the left wall?,['D'],six are in the image,nine are in the image,5,there are 8 in the image,count,000000296231.jpg
+75,count_1604,1604,How many slices have been taken from the pizza bottom right of the image?,['A'],there is one,there are 3 in the picture,there are six in the picture,there are zero in the picture,count,000000289415.jpg
+76,count_1631,1631,How many television screens are there?,['B'],there are three in the image,there is one of them,there are 0 of them,six,count,000000194832.jpg
+77,count_1636,1636,How many corkscrews are on the table next to the cake?,['C'],there are five in the image,there are zero of them,there are 2,there is one in the image,count,000000214720.jpg
+78,count_1557,1557,How many men are sitting under the parasol?,['A'],there are 2 of them in the image,there is one,7 are in the picture,there are 4,count,000000040083.jpg
+79,count_1774,1774,How many white raquets can be seen?,['B'],there are four,there are two in the image,7 are in the picture,there are 3 of them in the image,count,000000187734.jpg
+80,count_893,893,How many black triangles can be seen on the umberellas? ,['C'],there are 7 in the picture,3 are in the image,5 are in the picture,1 is in the picture,count,000000503855.jpg
+81,count_1440,1440,How many red straws are there?,['D'],there are six of them in the image,there are zero,there is one,there are 2,count,000000468505.jpg
+82,count_1921,1921,How many graters are on the table next to a block of cheese? ,['B'],six are in the picture,there is 1 of them in the image,2,there are 3 in the image,count,000000127394.jpg
+83,count_1776,1776,How many dogs are on the sofa?,['B'],there are 0 in the picture,there is one in the picture,there are 2,there are 4 in the picture,count,000000543581.jpg
+84,count_1007,1007,how many traffic cones laying on their sides are there? ,['D'],there are zero in the image,4 are in the image,2,there is one of them in the image,count,000000369751.jpg
+85,count_784,784,How many persons are in the kitchen?,['D'],one is in the picture,three are in the picture,there are 6 of them in the image,there are 2 of them,count,000000455597.jpg
+86,count_139,139,How many players wore blue clothes?,['A'],there are three of them,there are four,there are 2 of them in the image,there are 5 of them in the image,count,000000130699.jpg
+87,count_2386,2386,How many cups are there on the table?,['B'],there is 1,there are 2 of them in the image,4,three are in the picture,count,000000419312.jpg
+88,count_1704,1704,How many tricycle is visible?,['C'],there is 1 in the picture,four,3 are in the picture,there are five of them,count,000000184611.jpg
+89,count_2314,2314,How many blue striped candles are on the cake?,['A'],3,5,there are 8,4 are in the picture,count,000000180101.jpg
+90,count_1573,1573,How many toothbrushes can be seen in total - including the ones in the mirror?,['D'],there is one of them in the image,6 are in the image,five are in the picture,there are four in the picture,count,000000241319.jpg
+91,count_759,759,How many people are wearing sunglasses?,['A'],2 are in the image,three are in the image,there are four,there are six in the picture,count,000000334483.jpg
+92,count_2776,2776,How many wooden parts have been hammered down?,['A'],there are two of them,there are 3 of them in the image,1 is in the picture,4 are in the image,count,000000570169.jpg
+93,count_2003,2003,How many plastic tupperware with grey lids are in the image?,['C'],5,there are 2,there are 3 of them in the image,there is 1,count,000000512330.jpg
+94,count_1062,1062,How many suitcases have a coloured identification strap around them?,['C'],3,there are 4 in the picture,there are 5 of them in the image,there is one,count,000000475678.jpg
+95,count_645,645,How many animals can be seen in the image?,['A'],there is one of them,there are 2 of them in the image,six are in the image,there are 0 in the image,count,000000279145.jpg
+96,count_1336,1336,How many road signs can you see?,['A'],four are in the image,five are in the picture,there are 3 in the image,six are in the image,count,000000441586.jpg
+97,count_308,308,How many printed images can you see that contain cars?,['C'],there are 3 of them,there are six in the image,5 are in the image,there are ten,count,000000560474.jpg
+98,count_1870,1870,How many double-door fridges can you see?,['A'],there are two in the picture,there are 4 of them in the image,there are three in the picture,there are five of them,count,000000462629.jpg
+99,count_237,237,How many people in yellow shirts?,['C'],eight are in the picture,there is one of them,there are three of them,2,count,000000433204.jpg
+100,count_1520,1520,How many yellow plants?,['A'],there is 1 of them in the image,there are 5 in the picture,there are two in the image,there are 3 in the picture,count,000000398652.jpg
+101,count_1609,1609,How many white frisbees are there?,['B'],there are 4 of them,there are three of them,5,7 are in the image,count,000000521259.jpg
+102,count_2359,2359,How many people are smiling?,['A'],there is one of them in the image,there are five in the image,there are 0 of them,there are 3,count,000000386912.jpg
+103,count_654,654,How many people are crouching down?,['A'],2 are in the image,there is one in the image,four are in the image,five,count,000000378515.jpg
+104,count_693,693,How many green tubs can be seen?,['D'],there are 5 of them in the image,there are three of them in the image,0,two,count,000000540414.jpg
+105,count_1404,1404,How many people are wearing glasses?,['A'],there is 1 of them,there are 2,there are zero in the picture,there are 6 of them in the image,count,000000036936.jpg
+106,count_601,601,How many blue cushions are there?,['C'],there are seven in the image,0,there are 2 in the picture,there are 4 of them,count,000000294783.jpg
+107,count_1976,1976,How many mice are on a mouse mat?,['C'],there are 0 of them in the image,three are in the picture,there is 1 in the picture,four are in the image,count,000000046031.jpg
+108,count_2784,2784,How many people are holding a wine glass?,['B'],six,7 are in the image,there are five of them in the image,there are 3 of them,count,000000238410.jpg
+109,count_1765,1765,How may speakers are on top of the TV?,['B'],zero,there is one,there are 5 in the image,there are 3 of them in the image,count,000000166521.jpg
+110,count_1354,1354,How many cakes can be seen?,['A'],three are in the image,5 are in the picture,4 are in the picture,there is 1 of them,count,000000346703.jpg
+111,count_2221,2221,how many women are holding a white and black umbrella ?,['D'],there are 3,there are 6 of them,2 are in the image,there is one,count,000000212800.jpg
+112,count_2505,2505,how many riders are wearing a hat ?,['D'],2 are in the image,3,4 are in the picture,1 is in the picture,count,000000276024.jpg
+113,count_2361,2361,how many players are wearing a hat ?,['D'],three,there are five of them in the image,there are zero of them,there is one of them,count,000000424642.jpg
+114,count_1523,1523,how many buses are on the Left side of the road ?,['B'],6 are in the image,there are 2 of them in the image,one is in the image,three are in the image,count,000000226802.jpg
+115,count_2700,2700,How many people are sat at the table?,['D'],there are six of them,10 are in the picture,there are nine in the image,there are 7 of them in the image,count,000000306139.jpg
+116,count_318,318,How many pink doughnuts are there?,['A'],there are two of them,there are four of them in the image,there are three of them in the image,there is one of them in the image,count,000000035682.jpg
+117,count_2269,2269,How many people are wearing headphones?,['A'],there are four of them,there are 6 in the picture,there is one of them,there are five in the picture,count,000000450303.jpg
+118,count_1265,1265,How many water glasses are on the table?,['D'],there are five,there are four in the image,there are 0 of them in the image,2 are in the picture,count,000000017899.jpg
+119,count_1632,1632,How many steps are there?,['A'],there are three of them,7,there are five of them,there is 1 of them,count,000000168337.jpg
+120,count_1767,1767,How many black bags can you see?,['B'],there are two in the image,one is in the picture,there are 0 of them,there are 5,count,000000554002.jpg
+121,count_212,212,How many pictures on the wall can you see?,['B'],there is one,there are 2 in the picture,5,there are 3 in the image,count,000000195754.jpg
+122,count_4843,4843,How many people holding tennis bats?,['C'],there is one of them,3 are in the picture,there are 2 of them in the image,six are in the image,count,000000533816.jpg
+123,count_1894,1894,How many tennis players are shown,['A'],two are in the image,four are in the image,there is one in the image,there are five in the image,count,000000076468.jpg
+124,count_1549,1549,How many people are holding a stick?,['B'],zero are in the image,there is 1 of them,there are two of them in the image,there are 3 of them in the image,count,000000369442.jpg
+125,count_1923,1923,How many full visible horses?,['C'],there are three in the picture,there is 1,there are two in the image,there are 0 of them in the image,count,000000080659.jpg
+126,count_3273,3273,How many plates are on top of the table?,['C'],8 are in the image,7 are in the image,six are in the picture,there are zero in the picture,count,000000517056.jpg
+127,count_2365,2365,How many yellow bags are here?,['D'],there are zero of them,two are in the picture,3 are in the image,there is 1 of them in the image,count,000000383842.jpg
+128,count_4731,4731,How many people are preparing a wrap?,['B'],four,one is in the picture,there are 3 of them in the image,there are 0 of them,count,000000322163.jpg
+129,count_2637,2637,How many smiling people are here?,['D'],there are 4 of them in the image,there is 1 in the image,five are in the image,there are 2,count,000000482275.jpg
+130,count_1843,1843,How many red chairs?,['B'],zero,there are 3 of them,there are 4 of them,five,count,000000173302.jpg
+131,count_903,903,How many people are smoking?,['A'],there is one in the image,2,there are three in the picture,there are 0 of them in the image,count,000000114884.jpg
+132,count_2627,2627,How many forks are shown with one side?,['A'],there is 1 of them,there are four in the image,there are 3 in the picture,there are 2 in the image,count,000000075393.jpg
+133,count_521,521,How many little girls are in the picture?,['C'],3 are in the image,there are 0 in the image,one is in the image,5 are in the picture,count,000000381639.jpg
+134,count_3659,3659,How many bottles of wine are on the table?,['B'],there are 5 of them in the image,there is one of them,there are 0 in the image,there are two,count,000000405691.jpg
+135,count_861,861,How many men are reading clearly visible newspapers?,['C'],there are three,0 are in the image,there is 1,five,count,000000016249.jpg
+136,count_2449,2449,How many people in the image are wearing denim jeans?,['D'],4 are in the image,7,there are ten in the picture,there are five of them,count,000000323799.jpg
+137,count_3975,3975,How many multi-colour parasols are visible?,['D'],0,there is one in the picture,five are in the image,there are 3 of them in the image,count,000000066038.jpg
+138,count_1954,1954,How many cabinets hold books in the image?,['D'],there are 7 of them,there are 0 in the image,four,there are 2 in the image,count,000000509260.jpg
+139,count_2972,2972,How many cows are enclosed in a pen?,['C'],there are 3,there are 4,there is one of them,0 are in the image,count,000000231580.jpg
+140,count_966,966,How many people's faces are reflected in the train window?,['D'],there is 1 in the picture,4,0 are in the image,two,count,000000128372.jpg
+141,count_250,250,How many screens is the child in pink on?,['C'],there are two in the image,there are 4 in the picture,there are three of them,there is 1 of them,count,000000465718.jpg
+142,count_2849,2849,How many visible front-row seats are empty?,['C'],there are seven in the picture,there are eight of them in the image,there are 6,nine,count,000000481390.jpg
+143,count_4204,4204,How many wood-framed items are visible in the bath?,['C'],there are six in the picture,there are 8,7,there are 2 of them,count,000000342295.jpg
+144,count_1491,1491,How many types of vehicles are banned on this street?,['C'],five are in the picture,2,there are three,zero are in the picture,count,000000227511.jpg
+145,count_1722,1722,how many wetsuits are visible in this picture?,['C'],6,there is 1 in the image,there are four of them,5 are in the image,count,000000410456.jpg
+146,count_2553,2553,How many flowers are shown on the lower level of the cake?,['C'],there are 2,six are in the picture,there are three in the picture,five,count,000000277689.jpg
+147,count_2670,2670,how many glass bottles are in this photo?,['B'],there are six of them in the image,there are 2 of them,there is 1 of them,three,count,000000222299.jpg
+148,count_2870,2870,How many parasols are in the rivers reflection?,['A'],seventeen,19,zero,there are 18 of them in the image,count,000000416991.jpg
+149,count_1749,1749,How may chairs is the man walking towards?,['C'],three are in the image,there are 7 in the picture,there are 6 of them,five are in the picture,count,000000338624.jpg
+150,count_248,248,How many umbrellas are in the crowd?,['A'],5,4 are in the picture,0 are in the picture,there are 6 of them,count,000000439715.jpg
+151,count_402,402,How many chillis are on the screen?,['A'],there are five in the image,there are six of them in the image,two are in the picture,there are 4 of them,count,000000035279.jpg
+152,count_71,71,How many large carrot flowers are in the top most dish?,['A'],there are 6,three,8 are in the picture,there are four,count,000000567898.jpg
+153,count_2945,2945,How many grey cases are on the conveyor belt?,['B'],there are zero in the picture,one is in the picture,there are 3 in the picture,six are in the picture,count,000000308328.jpg
+154,count_112,112,How many people have their hands om their hips?,['A'],there is 1 in the picture,0 are in the image,there are 2 of them in the image,there are six of them in the image,count,000000308631.jpg
+155,count_2808,2808,How many surfers are standing on their boards?,['C'],there are three in the image,there are 0 in the image,there is one of them,there are 2 in the picture,count,000000021879.jpg
+156,count_3486,3486,how many layers does the cake on the white table contain?,['D'],there are 5 of them in the image,there are 3 of them,there are 6 of them,there are four of them in the image,count,000000146358.jpg
+157,count_4422,4422,how many people are sat on the bench?,['B'],four,there are 3 of them,there are two,zero,count,000000468965.jpg
+158,count_947,947,how many clock faces are present on the tower?,['A'],there is one,0,there are two in the image,4,count,000000384949.jpg
+159,count_3927,3927,how many people are wearing army uniform?,['B'],there are zero in the image,there are 2 in the image,there are 4,there is 1 in the image,count,000000052996.jpg
+160,count_746,746,how many red shoe boxes are there on top of the cabinet?,['C'],4 are in the picture,1 is in the image,2,there are three of them,count,000000416451.jpg
+161,count_896,896,How many vessels that could be used to hold liquids are there on the desk?,['B'],there are two in the picture,there are four of them in the image,3,there are six in the image,count,000000387098.jpg
+162,count_4739,4739,How many people are wearing hats?,['C'],there are zero in the image,there are five in the picture,7 are in the image,there are 9 of them,count,000000199771.jpg
+163,count_1419,1419,how many different coloured train lines are shown on the white cow?,['D'],zero are in the image,6 are in the image,there are three in the image,there are 5 of them in the image,count,000000507667.jpg
+164,count_1822,1822,how many children are sitting around the table?,['B'],there are 6,there are 7 in the picture,there are eight,there are 9 of them,count,000000405249.jpg
+165,count_2634,2634,how many teddy bears are on the blanket?,['A'],there are 3,five,there are 2 of them in the image,there are 4 in the image,count,000000211120.jpg
+166,count_1095,1095,how many people are. wearing a headband,['B'],there are four,1 is in the image,three are in the image,0,count,000000013291.jpg
+167,count_3387,3387,how many blue laptops are there,['B'],there are 3 of them,there is one in the picture,there are 6 in the image,there are 2 of them,count,000000348481.jpg
+168,count_1655,1655,How many fish have their heads at the top of the picture,['A'],there are 2,there are 0 in the image,there are six of them in the image,there are four of them in the image,count,000000130613.jpg
+169,count_2354,2354,how many men holding a stick ,['D'],2 are in the image,3 are in the image,there are 0 of them,there is 1 in the picture,count,000000414795.jpg
+170,count_2759,2759,how many cups are on the desk,['B'],there are 0 of them in the image,there is one in the picture,there are 2 in the image,3 are in the image,count,000000255165.jpg
+171,count_978,978,How many suitcases have a luggage label,['A'],1 is in the picture,there are zero of them in the image,there are 4,there are 3 of them in the image,count,000000451308.jpg
+172,count_2344,2344,How many letter 'A''s can you see on the wall sign?,['B'],4 are in the picture,there are two of them in the image,1 is in the image,3 are in the picture,count,000000331799.jpg
+173,count_336,336,How many cooks are in the above picture?,['C'],eleven are in the image,four,6 are in the image,there are 5,count,000000066231.jpg
+174,count_710,710,How many people are in shorts in the above picture?,['C'],4 are in the picture,there is 1 of them in the image,three are in the image,there are five of them in the image,count,000000288584.jpg
+175,count_2879,2879,How many screens can be seen turned on in this image?,['C'],there are 0 in the image,there are 6 of them in the image,there are two of them in the image,there is 1 in the image,count,000000455937.jpg
+176,count_1103,1103,How many plastic bottles are on the desk?,['B'],there are zero,two are in the image,one is in the picture,there are seven in the picture,count,000000278463.jpg
+177,count_486,486,How many patterned umbrellas are there?,['B'],three are in the picture,there are two of them,5 are in the picture,one is in the picture,count,000000281759.jpg
+178,count_3185,3185,How many phones can be seen in this image?,['A'],there are two in the image,there are four,six are in the image,there is 1 of them,count,000000363188.jpg
+179,count_1303,1303,How many blue cakes are there on a plate?,['C'],there are 2,7 are in the image,there are 4 of them,there are 6,count,000000318455.jpg
+180,count_388,388,How many pineapples can you see?,['A'],there is one of them,there are 2 of them,3 are in the picture,zero are in the picture,count,000000376307.jpg
+181,count_284,284,How many windows can you open?,['C'],there are 0 in the image,there are seven of them,there are 2 of them in the image,four are in the image,count,000000185802.jpg
+182,count_209,209,How many pairs of glasses can you seen being worn?,['A'],2 are in the picture,there is 1 in the image,there are zero,there are three in the picture,count,000000545594.jpg
+183,count_1462,1462,How many window posters are in the Billabong shop window?,['A'],there are 6 of them in the image,there are seven,4 are in the image,there are three of them in the image,count,000000163314.jpg
+184,count_1712,1712,How many people have their feet in the water?,['D'],there are three of them in the image,6 are in the image,there is one in the image,there are four in the picture,count,000000553221.jpg
+185,count_1434,1434,How many DVD stands are there?,['B'],there is one of them in the image,there are two in the picture,three are in the image,there are 5 of them,count,000000457078.jpg
+186,count_632,632,Number of purple cables,['D'],3,there are 2 of them,there are four in the picture,one is in the picture,count,000000416256.jpg
+187,count_2181,2181,Number of fully visible electrical devices?,['B'],5 are in the picture,there are 4,six are in the picture,2 are in the image,count,000000042889.jpg
+188,count_1439,1439,How many people behind the wall?,['A'],there are 3,there are 2 in the picture,there are 0 in the picture,there are 5 in the image,count,000000256868.jpg
+189,count_1552,1552,How many people in the air?,['A'],1 is in the picture,two,there are three of them in the image,there are four,count,000000249786.jpg
+190,count_313,313,How many keyboards are on the desk?,['D'],one is in the picture,there are 4 of them,there are 7,there are 2 in the image,count,000000135872.jpg
+191,count_1648,1648,Number of white spatulas?,['D'],there are 6,there is one,there are zero of them in the image,there are two of them,count,000000491216.jpg
+192,count_1084,1084,How many people dont have white hats on?,['B'],four are in the image,there is one of them in the image,there are 0 of them,there are 3,count,000000449432.jpg
+193,count_946,946,How many computer screens are turned on?,['C'],5 are in the image,there are 2 of them,there are 3 of them,there is one,count,000000516916.jpg
+194,count_2151,2151,How many cupboard doors are open in this image?,['A'],there are 2 of them in the image,there are seven,there are three of them,zero are in the picture,count,000000248111.jpg
+195,count_2874,2874,How many pullout drawers are in the main part of the fridge?,['C'],there are two in the picture,4,there are 3 in the picture,five are in the picture,count,000000073326.jpg
+196,count_121,121,How many animals have the color white on their head? ,['D'],there are five in the picture,there are 4,zero are in the image,there are 3 of them,count,000000061171.jpg
+197,count_150,150,How many people have helmets on?,['C'],eight,seven,there are 5 in the picture,six,count,000000259640.jpg
+198,count_200,200,How many small dinghies are in the photo?,['D'],there are five of them,there are 8,there are 4,there are three of them,count,000000328286.jpg
+199,count_374,374,How many moose are in front of the van?,['C'],there is one of them,three are in the picture,there are two of them in the image,there are four in the image,count,000000356612.jpg
+200,count_1730,1730,How many people have a plate of food in front of them?,['A'],there is 1 in the picture,there are 5 of them,there are 3 of them,there are 0,count,000000402720.jpg
+201,count_1721,1721,How many tiers,['C'],there are two of them in the image,1 is in the image,3,there are 6 of them,count,000000495448.jpg
+202,count_43,43,How many doors are open?,['C'],six,there are two in the picture,there is one in the image,0 are in the picture,count,000000137727.jpg
+203,count_354,354,How many red plates are sitting on the table,['C'],6 are in the image,there are 0,there are 2,there is one of them,count,000000298396.jpg
+204,count_2334,2334,How many lamps are in this room,['A'],there are 3 in the image,there are 2,0,there are 4 in the picture,count,000000440475.jpg
+205,count_4375,4375,How many road signs,['D'],there are 3 of them in the image,there are two in the picture,five,there is 1,count,000000153527.jpg
+206,count_2614,2614,How many tiers of cake is there,['A'],there are 4,there are zero in the picture,there are 5 of them in the image,there are three of them,count,000000363207.jpg
+207,count_2796,2796,How many face cloths is there,['A'],there are 8,there are zero of them,there are 9,six are in the picture,count,000000147518.jpg
+208,count_75,75,How may white flags are there,['D'],0 are in the image,there are 2 in the image,there are three,there is one of them,count,000000523957.jpg
+209,count_119,119,How many blue flags are there,['A'],2 are in the picture,zero are in the image,there are four of them in the image,there is 1 in the image,count,000000017959.jpg
+210,count_1212,1212,How many numbers are clearly visible in this image,['D'],there is one of them in the image,there are 5 of them,there are two in the picture,4 are in the picture,count,000000563653.jpg
+211,count_2431,2431,How many laptop screens are currently switched on,['B'],five are in the picture,1 is in the image,there are zero,there are 3,count,000000032610.jpg
+212,count_4530,4530,How many people are in this image,['C'],nine are in the picture,there are 0,there are 10,there are eight,count,000000194875.jpg
+213,count_1736,1736,How many flags are on the boat,['D'],two,4,seven are in the picture,there are 3 of them in the image,count,000000239274.jpg
+214,count_2400,2400,How many cakes have 2 swans on them,['D'],there are two in the image,there are 6 of them in the image,three,there are four in the image,count,000000128476.jpg
+215,count_1494,1494,How many cows are in this image,['D'],5 are in the picture,eight are in the picture,there are two in the picture,three are in the picture,count,000000166287.jpg
+216,count_1907,1907,How many people are currently walking up the stairs,['C'],there are 2 in the image,four,1 is in the image,three,count,000000417249.jpg
+217,count_2515,2515,How many donkeys are on the bridge,['A'],there are three,there are seven in the picture,1 is in the image,there are four in the picture,count,000000241677.jpg
+218,count_360,360,How many people are in the kitchen?,['C'],four are in the image,one is in the image,there are two of them in the image,there are 3 of them,count,000000044279.jpg
+219,count_1361,1361,How many panels does the desk have,['B'],there are two of them in the image,four are in the image,there is one of them in the image,six are in the image,count,000000124659.jpg
+220,count_776,776,How many panes does the window have?,['D'],ten are in the image,zero are in the image,there are 7,there are 8 in the image,count,000000045229.jpg
+221,count_343,343,How many huts are by the lake?,['D'],two are in the image,there are five of them,there are 0 in the image,there is 1 of them,count,000000082821.jpg
+222,count_878,878,How many sand cones are on the beach,['A'],one is in the image,there are 3 in the picture,there are zero of them in the image,five are in the image,count,000000570688.jpg
+223,count_4673,4673,How many mirrors are on the wall?,['C'],there are 0 of them in the image,there are two in the image,there is one of them,three are in the image,count,000000436617.jpg
+224,count_1040,1040,How many men are at the table?,['B'],there are 6 of them in the image,2 are in the image,there are 0,there are 3 in the picture,count,000000397303.jpg
+225,count_118,118,How many bottles with a green top are there?,['C'],there are 6 in the image,there are two,there is 1 of them,there are 0 of them,count,000000214224.jpg
+226,count_2283,2283,How many signs are on this lamp-post? ,['D'],there are 6 of them,there is 1 of them,there are three,there are 5 in the picture,count,000000514540.jpg
+227,count_4883,4883,What table number are the men in the picture sitting at? ,['D'],there are 5 in the picture,eight,there are 2 of them in the image,three,count,000000271116.jpg
+228,count_228,228,How many people in this picture are wearing a green T-shirt? ,['C'],there are three,there are zero in the picture,one is in the picture,there are 2,count,000000455624.jpg
+229,count_4199,4199,How many plates are there on the wall to the left of the image? ,['B'],there are 4 of them,6 are in the picture,there are 7 of them,8,count,000000419974.jpg
+230,count_3235,3235,How many different types of sauce are there in this picture? ,['B'],there are seven of them,there are three,2 are in the picture,four,count,000000213255.jpg
+231,count_4230,4230,How many pieces of paper are stuck to the wall above the man in the picture?,['A'],there are 7 in the image,six are in the picture,there are nine of them,there are eight of them in the image,count,000000330818.jpg
+232,count_1484,1484,How many cardboards boxes appear between the two screens?,['C'],there are 3 in the picture,there are four in the image,there are 5,two are in the picture,count,000000148620.jpg
+233,count_1529,1529,How many toilets are in the picture?,['D'],two are in the picture,three are in the picture,there are four of them,there is one,count,000000059920.jpg
+234,count_976,976,How many birds are pidgeons?,['C'],1 is in the image,0,there are two in the image,there are 5 of them,count,000000511076.jpg
+235,count_1661,1661,How many mugs are in the picture?,['D'],there are zero of them in the image,3 are in the image,two are in the image,there is 1 in the picture,count,000000367095.jpg
+236,count_623,623,How many people are not facing the camera?,['D'],3 are in the image,1 is in the picture,there are 5,there are four of them in the image,count,000000033221.jpg
+237,count_4993,4993,How many people are wearing hats or helmets?,['C'],there are four in the image,there are 7 of them,there are five of them,there are eight in the picture,count,000000005001.jpg
+238,count_243,243,How many zebras are facing right?,['D'],there are five in the image,there are 0 of them in the image,1 is in the picture,three,count,000000268729.jpg
+239,count_4748,4748,How many people are wearing sunglasses?,['D'],7 are in the image,there are 5 of them,there are 2,3,count,000000394206.jpg
+240,count_2548,2548,How many oranges can be seen in the reflection on the pouring jug?,['C'],there are two in the picture,1 is in the picture,3,there are five of them in the image,count,000000184791.jpg
+241,count_2752,2752,How many soap dispensers are black?,['B'],3 are in the picture,2 are in the image,there is 1 in the picture,there are zero of them in the image,count,000000557501.jpg
+242,count_2591,2591,How many unpackaged apples are visible?,['A'],twelve are in the image,there are 16 in the image,there are fourteen of them in the image,thirteen are in the image,count,000000217753.jpg
+243,count_4069,4069,How many people are wearing hats?,['C'],there are seven in the picture,six are in the picture,there are 5 of them,there are four of them in the image,count,000000139099.jpg
+244,count_2196,2196,How many visible blue items are inside the container?,['C'],there are three of them in the image,there are 2 in the image,there is one of them in the image,there are five in the image,count,000000285349.jpg
+245,count_1937,1937,How many people are using a mobile phone?,['C'],there are five in the picture,there are 2 in the picture,there is 1 in the image,0 are in the image,count,000000441543.jpg
+246,count_857,857,how many surfboards?,['D'],there are seven of them in the image,there are five,there are 6 in the image,4,count,000000274460.jpg
+247,count_804,804,How many cars have a spare wheel on the back?,['D'],zero are in the image,there is one of them in the image,there are three of them in the image,there are 2 of them,count,000000039484.jpg
+248,count_2806,2806,how many carriages are visible in the picture?,['D'],there are zero of them,there are five of them in the image,there are four of them,3 are in the picture,count,000000369675.jpg
+249,count_1621,1621,How many children sitting at the back of the bus?,['B'],4,there are 5 in the picture,seven,there are six in the picture,count,000000463730.jpg
+250,order_757,757,Where is the bowler hat?,['B'],"The lady on the left is wearing the bowler hat, ",The ladies inside the window do not have the bowler hat at it is on the man's head who is standing outside.,The cowboy hat was damaged so the bowler hat was given to the lady seated in the middle.,The man is looking at the person who is wearing the bowler hat on her head.,order,000000514508.jpg
+251,order_2113,2113,In which direction is the cow facing.,['D'],The pantomime cow is lying on its back. ,The cow is on the phone wearing a white shirt. ,The cow is standing on the right hand side of the yellow lamp post.  ,"The cow, who is very photogenic and camera friendly, is looking directly forward. ",order,000000334555.jpg
+252,order_1398,1398,Where are the headphones?,['D'],Do not look on the right side of the table but behind the laptop to find the headphones.,The headphones are kept in the bin.,If you stand on the right side of the table and look directly at the jar you will see a reflection of the headphones hanging from the ceiling.,On the table.,order,000000027620.jpg
+253,order_3738,3738,Where is the cook wearing the pink pyjamas?,['D'],The pink pyjamas will be found on the floor if you follow the directional path of the long white snake.,The two laughing cooks have hidden the pink pyjamas in the industrial dish washer out of spite of their hard working colleague.,Empty out the pan containing the broccoli and you will find the pink pyjamas.,The cook wearing the pink pyjamas will be standing with their back to you at the sink. ,order,000000084241.jpg
+254,order_1412,1412,On which side of the wall are the railway tracks.,['A'],The railway tracks are on the opposite of the left hand side of the wall.,The cars are parked on the railway tracks on the left side of the smallest tree.,The railway tracks are on the left hand side of the wall.,The railway tracks are coloured yellow.,order,000000100274.jpg
+255,order_308,308,Where are the toothbrushes?,['C'],Ignore the car but go to the tall man in the distance for it is he who has the toothbrushes.,The toothbrushes are being used by the dolls inside the car.,On the car.,The toothbrushes can be found under the blue and white striped market stall.,order,000000560474.jpg
+256,order_1621,1621,Where is the blue bus?,['D'],The blue bus is to the right of the brown and cream bus. ,The blue bus is under the man's hat who is crossing the street backwards.,The blue bus is inside the blue car on the passenger seat.,To the left of the beige and cream bus.,order,000000463730.jpg
+257,order_1661,1661,Where is the man wearing the blue top? ,['C'],You will not be able to see the man wearing the blue top until he moves off his blue chair located to the left of the room.,The man wearing the blue top has gone to the canteen to get his colleague more coffee.,The man wearing the blue top is sitting at the furthest computer screen on the right hand side.,The man not wearing a blue top is not sitting near the window. ,order,000000367095.jpg
+258,order_1520,1520,Where is the fern?,['A'],On the right hand side of the table.,It is a pitty there is only one fern plant positioned under the table as I suffer from Pteridomania.,No fern plants were hurt in this survey as they were stored safely behind the pillar on the left hand side of the photograph.,to the left side of the table facing the exit.,order,000000398652.jpg
+259,order_3934,3934,Where is the cake ?,['B'],The birthday cake is hidden in the microwave oven behind the picture which is underneath the table.,"The  cake is on the table, directly behind the man wearing the red jumper.",The inedible cake was put in the rubbish bin outside the backdoor.,The cake was taken from the table and is now in the sink.,order,000000438774.jpg
+260,order_3175,3175,Where is the TV?,['B'],There is no TV,Beside the vase with flowers in,On the floor,On the wall,order,000000322895.jpg
+261,order_1917,1917,What do you see on the floor?,['C'],There is nothing on the floor,The balloons,The Bed,There is a mess on the floor ,order,000000014038.jpg
+262,order_3995,3995,What is the lady wearing over her Tshirt?,['B'],A backpack,A blue sweater,A pack a mac,Nothing,order,000000136633.jpg
+263,order_284,284,Where is the banana?,['B'],On the shelf,On the deck chair,In the pool,Against the window,order,000000185802.jpg
+264,order_141,141,Where are the suitcases?,['C'],By the door,In a luggage rack,Halfway along the carriage,On the left,order,000000114049.jpg
+265,order_632,632,How close is the cat to the picture of the super heroes?,['A'],The cat is about half its body length away,The cat is touching it with its front paw,The cat is lying on the picture,The cat is above the keyboard and the picture is below it,order,000000416256.jpg
+266,order_1880,1880,Where are the spring rolls?,['A'],The second dish from the top beneath the girl with the chop sticks,On the table in the background of the picture,Under the table cloth,Hidden beneath the spring onions,order,000000242946.jpg
+267,order_2634,2634,Where is the bear with the lollipops?,['D'],In the middle of the three bears,Next to the white flowers,Behind the basket,Near the blue flower,order,000000211120.jpg
+268,order_3470,3470,Where are the shoes in the picture?,['A'],To the right of the wagon,On the wagon,Chained to the wheel on the far left,By the first bunch of bananas on the left,order,000000480275.jpg
+269,order_1007,1007,Where is the 'STOP' sign?,['B'],On the left of the road,In front of the car parked in the top right of the picture,The lowest of the three signs,Behind the trees,order,000000369751.jpg
+270,order_601,601,Where are the books?,['A'],On the four middle shelves,In a pile through the door,On the left hand wall,Under the yoga mat,order,000000294783.jpg
+271,order_1573,1573,Where are the toothbrushes?,['B'],Next to each other,By the mirror,In the sink,On the floor,order,000000241319.jpg
+272,order_1853,1853,Where is the pink bear?,['C'],In the child's hand,Halfway down the line,Next to the yellow bear,Between the red and green bears,order,000000428867.jpg
+273,order_3906,3906,Where are the earphones?,['B'],In the coat pocket,Going from the phone to the top of the laptop,Connected to the CD player,Under the television,order,000000553664.jpg
+274,order_693,693,Where is the red hat?,['B'],"On the top of the image, left of the tree and above the red umbrellas.","On the right, on the head of the man on the right with a vest.","On the left, inbetween the white striped shirted man and the water bottle at the bottom.","On the left of the image, and left of the middle person with the white striped shirts.",order,000000540414.jpg
+275,order_1750,1750,Where is the bike?,['C'],"On the right, above the parked cards and bin.","On the left of the image, inbetween the bus and the truck.","On the right, below the parked cars and the bin.",On the left of the pole and bus and above the billboard,order,000000476704.jpg
+276,order_1404,1404,Where is the tv?,['A'],On the left of the two people and above right of the stereo speaker in the cupboard.,On the right of the man and below the crisp packet.,"In the middle, inbetween the man and the woman","On the bottom left of the image, below the table and stereo speaker.",order,000000036936.jpg
+277,order_896,896,Where is the games controller pad?,['B'],Below the laptop and right of the mouse.,"In the middle, below the monitor and right of the games covers, and left of the laptop.",Above and left of the white monitor on the left of the image.,Right of the laptop and above the monitors.,order,000000387098.jpg
+278,order_2911,2911,Where is the ceiling light?,['A'],"At the top of the ceiling, middle of the image, higher than the window curtains. ","At the bottom of the image, on the floor, below the table.","At the bottom of the image and floor, inbweteen the fridge and table. ","At the bottom left of the image, next to fridge, and next to the cooker.",order,000000530836.jpg
+279,order_75,75,Where is the white cone?,['A'],"In the middle of the image, far right of all the other cones, on the floor bottom of the image.","On the top left of the image, left of the skateboarder and left of all the orange and green cones.","On the top of the rocks, and left of the skateboarder.","On the left of the image, on the left of all the cones and skateboarder.",order,000000523957.jpg
+280,order_1265,1265,Where are the two glasses?,['A'],"On the right bottom of the image, on the right of all the baked goods.","On the left of the alphabet chart, at the top of the image.","On the left, next to the woman's hands, and on the left of the baked goods.","In the middle of the image, middle of the table, and on the left of the baked goods.",order,000000017899.jpg
+281,order_3,3,Where is the baby?,['D'],"On the top left of the image, left of the TV and left of the bird cage.",On the left of the bird card and above the TV.,"On the right of the image, right of the woman and below the sofa.","On the left of the sofa and below the TV, inbetween the woman and the bird cage.",order,000000463618.jpg
+282,order_2862,2862,Where is the tape?,['B'],On the right of mini statue/bobble head and left of the keyboard. ,"On the far left bottom of the image, left of the monitor screens.",In between the mini statue / bobble head and the keyboard. ,On the right of the two monitor screens and on top of the keyboard.,order,000000127987.jpg
+283,order_4022,4022,Where is the newport text writing on the clock?,['C'],"Inbetween the 11 and 1, and above the 12.","At the top, next to the 1.",Inbetween the 6 and the Dutch text writing.,"At the top left, left of the 12 and above the 9.",order,000000164363.jpg
+284,order_1330,1330,Where is the computer mouse?,['C'],Being used by the girl,On the bookshelf,On a mousepad,On the notebook,order,000000529148.jpg
+285,order_3277,3277,Where is the flag?,['A'],In the sky,In the middle of the frame,In the lake,Near to the ground,order,000000134322.jpg
+286,order_1809,1809,Where is the green tent?,['A'],Behind the group of people walking,To the right of the building,In the front of the frame,In front of all of the people,order,000000117492.jpg
+287,order_2003,2003,Where are the peppers?,['B'],On a shelf ,Underneath the butter,On top of the bottles,In the door of the fridge,order,000000512330.jpg
+288,order_374,374,Where is the bike?,['B'],Behind the bus,On the road,On the grass,In the middle of the road,order,000000356612.jpg
+289,order_94,94,Where is the red bus?,['D'],On the right hand side of the road,Underneath the bridge,Driving towards the camera,On the left hand side of the road,order,000000148508.jpg
+290,order_3847,3847,Where is the glass of white wine?,['D'],To the right of the food,In front of the glass of red wine,Adjacent to the spoon ,To the left of the dessert,order,000000416885.jpg
+291,order_1610,1610,Where is the silver television remote?,['A'],In the television cabinet,On the ground,To the left of the television,To the right of the statue,order,000000154431.jpg
+292,order_32,32,Where is the extension lead?,['B'],On the ground,To the right of the boxes,In the background of the photo,To the right of the laptop,order,000000206218.jpg
+293,order_3151,3151,Where is the person in this picture?,['B'],Sat in a chair,To the left of the food display,To the right of the bird,In front of the table,order,000000082696.jpg
+294,order_2042,2042,Where is the figurine?,['C'],to the right of the mirror behind the umbrellas,in the hand of the person taking the photograph,immediately left of the sign,in front of the mirror behind the sign,order,000000370711.jpg
+295,order_3902,3902,Where is the picnic blanket?,['B'],in the bag in the foreground of the image,In the centre of the circle of friends,"to the left of all friends, folded up ",behind the friend to the right,order,000000145597.jpg
+296,order_1774,1774,Where are the tennis balls?,['B'],underneath the net behind the umpire chair,"to the right of the people sitting down, next to the bag in the centre",the balls are in the hands of the people,on top on the umpire chair,order,000000187734.jpg
+297,order_1392,1392,Where is the pepper grinder?,['D'],to the left of the bowl and in front of the leaves,in between the pine nuts and the garlic,at the bottom of the image in front of the bowl,To the left of the salt grinder ,order,000000300233.jpg
+298,order_2359,2359,Where is the cd rom?,['D'],on top of the paper directly in front of the woman,on the desk in from of the woman,on the top shelf to the left of the woman,Behind the woman to the right and on the self,order,000000386912.jpg
+299,order_159,159,Where is the man with the shirt on?,['A'],in the centre of the riders to the left of the man on the right,riding on top of same horse with the man at the front,to the far right of the riders underneath the water,behind all the riders without a horse,order,000000121031.jpg
+300,order_1721,1721,Where is the knife?,['C'],on the table to the left of the cake,on top of the cake ,On the table to the right of the cake,on the floor behind the cake,order,000000495448.jpg
+301,order_2197,2197,Where is the red animal kite?,['B'],underneath the truck,directly in line with the back wheels of the truck in the sky,To the far left of the truck,on the ground in front of the truck,order,000000469192.jpg
+302,order_1681,1681,Where is the computer?,['B'],right of the mirror and in front of the sofa,behind but left of the sofa,behind the mirror on the right,in the foreground and on the sofa,order,000000453341.jpg
+303,order_1210,1210,Where is the white motorbike?,['A'],"slightly behind the sign post, to the left of the bus and being ridden by a man","to the right of the bus, in front of the tree",directly in front of the bus in the foreground,in the background behind the building,order,000000210394.jpg
+304,order_336,336,Where is the kitchen roll located?,['A'],It is on the right of the tap that is located at the front of the central cooking station and a few cm back,There is no kitchen roll,It is on top of the central reservation in the chefs hands.,It is on top of the sink which is at the end of the central cooking station.,order,000000066231.jpg
+305,order_3713,3713,Where are the items that this man is having for his lunch?,['D'],He hasn't had any lunch.,He has had coffee which is shown in the picture balanced on top of the plant pot on the right hand side of the man.,"This man is having pizza which he is eating as he leans across the balcony, it is out of focus.",The man has had pizza and two coffees. One of the coffees is on the table on the right of the picture and the other is in his hand as he leans across the balcony.,order,000000488166.jpg
+306,order_946,946,Where are the telephones?,['C'],It is on the left hand side of the wooden desk next to the black monitor which is switched off.,There is one mobile phone and it is placed on top of the cd on the right hand side of the wooden desk.,There is one of the right end of the wooden desk which is behind a cd in a cd case and some keys.,It is balanced on top of the black chair which has been pushed under the wooden desk.,order,000000516916.jpg
+307,order_364,364,Where is the boat named Dusty?,['B'],"Dusty is next to the blue, yellow and red boat","On the right hand side of the yellow, red and green boat.",Dusty is in front of the train,Dusty is not on the moor,order,000000275791.jpg
+308,order_3247,3247,Where are the people using iPads located in this picture,['B'],The man using the iPad is five seats away from another man who is reading a book.,A man is on the front row on the seat furthest the right and is using his iPad.,The woman using an iPad is on the front row with a leopard print scarf,The man at the back in a blue jumper is using his iPad and is sat next to another man who is also using an iPad,order,000000089648.jpg
+309,order_3654,3654,Where is the red rope?,['B'],It is draped across the couch,It is behind the lamps.,It is wrapped around a man,There is no rope,order,000000546964.jpg
+310,order_237,237,Where is the yellow post located.,['A'],On top of some pebbles,On top of the blue roofed porch,On the right hand side of the road in front of a tree.,Behind the motorbike,order,000000433204.jpg
+311,order_243,243,Where is the giraffe located?,['D'],The giraffe is located to the right of the zebras.,The zebra is in the right hand side of the picture looking right.,The giraffe is behind the central zebra at the front of the picture.,It is behind the second zebra in from the left.,order,000000268729.jpg
+312,order_1062,1062,Where are the orange suitcases?,['D'],There are four orange suitcases,There is an orange suitcase third in from the right on the back row.,There is an orange suitcase located second in from the right on the front row,Directly behind the orange suitcase with a blue and yellow strap on it there is another orange suitcase with a blue tag and a think black zip going around it. ,order,000000475678.jpg
+313,order_2213,2213,Where is the blue bottle?,['D'],on the toilet bowl,in the blue bin,behind the door,to the right of the pipes,order,000000286907.jpg
+314,order_3393,3393,Where is the blue door?,['D'],underneath the table,on the grass,on the table,the front of the house,order,000000266768.jpg
+315,order_3333,3333,Where is the glass of water?,['B'],to the right of the plate of bread,on the chrome tabletop,behind the tabletop,behind the tin foil,order,000000025986.jpg
+316,order_3505,3505,Where are the black shoes?,['C'],on the sofa,on the table,to the left of the table,next to the red carpet,order,000000290771.jpg
+317,order_2291,2291,Where is the woman in the black coat?,['B'],to the left of the photo,in the centre of the photo,next to the circular sign,in the upstairs window,order,000000502336.jpg
+318,order_3825,3825,Where is the yellow handbag?,['B'],in front of the umpire stand,to the right of the umpire stand,in a persons hand,on the blue court,order,000000326248.jpg
+319,order_1921,1921,Where is the green cup?,['A'],behind the tray of meat,on a plate,behind a wine glass,next to the salad bowl,order,000000127394.jpg
+320,order_1802,1802,Where is the blue plastic bag?,['D'],on the other side of the water,on the boat,in a persons hand,in front of the water,order,000000511599.jpg
+321,order_1697,1697,Where is the bottle of baileys?,['D'],on top of the plate,next to the blue mat,in the salad bowl,to the left of the plate,order,000000463527.jpg
+322,order_283,283,Where are the stepladders?,['D'],on the table,on the wall,on the sofa,in front of the pink outside wall,order,000000128148.jpg
+323,order_3621,3621,Where is the lamppost located?,['D'],Behind the road,Behind the cars,To the right of the closest bench,Between the two benches,order,000000301135.jpg
+324,order_3031,3031,Where is the lady standing who is wearing the green shawl?,['D'],Behind the building,Behind the man with the hat,To the right of the three girls,In front of the buildings,order,000000530162.jpg
+325,order_1523,1523,Where is the big screen located?,['B'],Beneath the road,Above the McDonalds,Under McDonalds,To the right of the road,order,000000226802.jpg
+326,order_402,402,Where is the water bottle located?,['D'],To the left of the phone,Above the laptop,Below the book,Underneath the bag,order,000000035279.jpg
+327,order_3409,3409,Where is the Police Officer standing?,['B'],On top of the rocks,To the right of the sign,To the left of the sign,In front of the rocks,order,000000319369.jpg
+328,order_3855,3855,Where is the worker located?,['D'],In front of the counter,To the right of the till,To the left of the customers,Behind the counter,order,000000529122.jpg
+329,order_1121,1121,Where is the television loacated?,['D'],Below the signs,Below the units,To the right of the window,To the left of the signs,order,000000121586.jpg
+330,order_1227,1227,Where is the man holding the baby located?,['D'],Below the pink chairs,Behind the doors,To the left of the hairdresser,In front of the entrance,order,000000297562.jpg
+331,order_1035,1035,Where is the yellow taxi?,['D'],In front of the fence,In front of the flowers,Behind the buildings,Behind the fence,order,000000553669.jpg
+332,order_3608,3608,Where are the cornflakes?,['C'],The box of corn flakes is taking the photo.,They arent here.,They are ontop of this fridge. To the right hand side.,They are on the left hand side.,order,000000554838.jpg
+333,order_1636,1636,Where is the fishtank.,['A'],"In the background, up on a table behind the red sofa.",Ints on the floor.,Its inside the cake.,There isnt one.,order,000000214720.jpg
+334,order_3156,3156,Where is the green towel?,['A'],Folded neatly on the oven door.,Hung up on the right hand side cupboard,On the floor,With the cat.,order,000000445658.jpg
+335,order_759,759,Where is the cardboard box?,['B'],Its ontop of the table.,Its just above center in the image on the right hand side.,Its inside the cake.,The children are sitting on it.,order,000000334483.jpg
+336,order_3072,3072,Where is the sea?,['B'],You cannot see the sea.,It is covering the middle section of the image.,Its only on the left hand side.,Its right at the bottom of the image.,order,000000535608.jpg
+337,order_1200,1200,Where is the bag?,['B'],Its on the chair.,Its directly understand the laptop and desk.,Its not there,Its flying in the sky.,order,000000172595.jpg
+338,order_2670,2670,Where are the shoes?,['D'],By the washing machine.,Set on fire in the fireplace.,In another room.,Just beneath the white cable.,order,000000222299.jpg
+339,order_2404,2404,Where is the loaf of bread?,['B'],next to the dish,sat atop the grey baking tray,on the oven,on the kitchen side,order,000000138856.jpg
+340,order_1364,1364,Where is the laptop?,['A'],to the right of the green bushes sat atop the wooden table,on the right side of the image,in the top right corner,in the centre of the image,order,000000428280.jpg
+341,order_1414,1414,Where is the green bike,['A'],Right at the front,On the mans head,In the mans mouth,Inside the food crate,order,000000574702.jpg
+342,order_2532,2532,Where is the cow,['C'],Underneath the beach,Under the childs foot,In front of the children ,Underneath the beach,order,000000105264.jpg
+343,order_3162,3162,Where are the traffic lights?,['D'],on top of one of the bikes,In the middle of the street,In the pedestrians carrier bag,On the left and right of the bikes,order,000000226417.jpg
+344,order_3173,3173,Where are the iron girders,['B'],In the boat,In the foregound,In the sea on top of the boat,On top of the soliders hat,order,000000377670.jpg
+345,order_2641,2641,Where is the mouse,['C'],In the watering can,In the leaves of the trees,On the right handside of the desk,In the plant pots,order,000000086582.jpg
+346,order_2344,2344,Where are the bananas,['B'],On top of the womans head ,On the table,In the box,Underneath the America sign,order,000000331799.jpg
+347,order_976,976,Where is the bag,['A'],To the left of the person,On top of the building,In the sea,In the seagulls mouth,order,000000511076.jpg
+348,order_2334,2334,Where is the TV,['D'],In the mans mouth,On top of the lamp,On top of the pillar,In the middle of the lamps ,order,000000440475.jpg
+349,order_650,650,Where is the remote control,['A'],On the left of the picture,In the chest of drawers,On the cats head,In the cats mouth,order,000000520531.jpg
+350,order_3179,3179,Where is the parking meter,['C'],On top the cyclists head,Inside the cars,To the left of the picture,Behind the trees,order,000000135410.jpg
+351,order_1685,1685,Where are the post-it notes,['A'],On top of the board game,Inside the laptop,In the cupboard,On top of the laptop,order,000000178469.jpg
+352,order_209,209,Where is the backpack,['A'],Being carried by the person,On top of the mirror,On top of the person head,Under the seat,order,000000545594.jpg
+353,order_660,660,where is the pick up truck?,['B'],behind the boat,outside the garage,in front of the bike,inside the garage,order,000000007386.jpg
+354,order_3974,3974,where are the two blue lego figures in the picture?,['B'],on top of the keyboard,standing on the black and white squares,under the laptop,in the bottom left hand corner,order,000000541664.jpg
+355,order_3285,3285,where is the bottle of water?,['C'],to the right of the ring binder,behind the hole punch,to the left of the ring binder,in front of the laptops,order,000000570782.jpg
+356,order_1776,1776,Where is the cat?,['A'],beside the couch,on the couch,in front of the TV,on top of the small table,order,000000543581.jpg
+357,order_169,169,where is the vase of flowers?,['B'],under the wine rack,on top of the wine rack,in front of the human,to the left of the candles,order,000000357888.jpg
+358,order_432,432,Where is the whisk?,['A'],under the glass counter,on top of the doughnuts,on the floor,behind the glass jug,order,000000450399.jpg
+359,order_1648,1648,where is the cat?,['D'],sitting on the chair,in front of the fridge freezer,under the chair,under the window,order,000000491216.jpg
+360,order_1303,1303,where is the plate of blue and pink cupcakes?,['D'],at the front edge of the table,on the right hand side of the table,on the left hand side of the table,between the carrot cake and the cupcakes with white icing,order,000000318455.jpg
+361,order_2849,2849,Where is the young boy in a red jersey?,['A'],Below a man in the second row of the pews with a dark jacket and a light blue top on with blonde hair.,Directly underneath the basketball player holding the basketball and above the court.,"In the orange part of the court, behind the only man in the dark jersey, in the middle of the white lines.",Behind the referee but infront of a basket ball player with 8 on his jersey.,order,000000481390.jpg
+362,order_3711,3711,Where is the man in the red t-shirt.,['A'],"Directly to the right of a person with short, bleached blonde hair.",Behind and to the left of the purple balloon.,"Behind a woman on the stairs, sitting down with her hand on her face, central in the photograph.",Sitting on the steps behind the pink balloons to the right.,order,000000370486.jpg
+363,order_2591,2591,Where are the chestnuts?,['C'],Underneath the packaged red apples but left of the loose oranges.,Above the loose red apples but below the lemons on the green shelf.,To the right of the lemons that are vacuum sealed on a green tray.,"To the right of the oranges, wrapped in opaque black bags.",order,000000217753.jpg
+364,order_4037,4037,Where is the woman in the red coat?,['B'],"Just behind the child on the bike, in the distance.","To the far right of the image, far right of  group of three next to a white sign.","Next to the fallen over traffic cone, infront of the neon orange equiptment.","To the left of the picture, behind the neon orange equiptment.",order,000000563604.jpg
+365,order_3187,3187,Where is the blue cabinate.,['B'],To the left of the white table with a brown top.,Underneath the piece of paper with VISA on it.,To the right of the white table with a green top,Behind the bucket with a mop it in.,order,000000021465.jpg
+366,order_11,11,Where are the eggs?,['B'],Underneath the coca cola container but above the little girls hair.,Above the snack drawer which is above the little girl bending down.,"In-front of the little girl, on the lowest shelf in the fridge.",In the young girls left hand within the fridge.,order,000000231339.jpg
+367,order_651,651,Where are the horizontal traffic lights?,['C'],"In front of the green barriers in the forefront of the photograph, to the left of the woman standing holding umbrellas.",Below the blue stairs on the right of the photograph.,To the left of the set of six windows on the orange building on the right hand side of the photo.,Behind and above the black car in the distance.,order,000000413689.jpg
+368,order_1662,1662,Where is the fan?,['C'],Directly in front of the  window so it is blocking the light and left of the flower bouquet.,"On the chair next to the baby in the photo, below the window with bright light.
+","Directly behind the panelled wall, underneath two picture frames.","On the table behind the panelled wall, standing on the table.",order,000000356248.jpg
+369,order_654,654,Where are the bananas?,['D'],"To the right of the woman in blue, in front of the bike on the floor.",In a chrome basket in the  middle of the photo.,In a orange bag behind the woman in a yellow hat and jacket.,"To the front of the picture, just in front of the chopped up wood.",order,000000378515.jpg
+370,order_3774,3774,Where is the lamp?,['C'],In front of the male in a dark jumper but behind the three wine glasses.,.In front of the person in light coloured jumper and below the champagne cooler.,"Behind a person in a light coloured jumper, to the right of a woman covering her mouth with sunglasses on her head.",Directly in between the three wine glasses central to the photograph.,order,000000244750.jpg
+371,order_1461,1461,where are the people walking,['D'],on top of two cars,to the right of the boats,to the left of the buildings,in between two cars,order,000000463849.jpg
+372,order_844,844,where is the trailer,['B'],to the left of the pickup truck,to the left of the man,to the right of the man,parked on the grass,order,000000467848.jpg
+373,order_1688,1688,where is the lady on the bike?,['D'],to the right of the yellow sign,to the left of the parked bike,above the fish,to the left of the yellow sign,order,000000488592.jpg
+374,order_253,253,where is the beer?,['C'],under the table,to the left of the man,to the left of the microphone,to the left of the cigarettes,order,000000156643.jpg
+375,order_1548,1548,where is the kettle,['A'],in front of the desk seperator,behind the desk seperator,in front of the laptop,to the left of the mail,order,000000425361.jpg
+376,order_991,991,where is the black dog,['C'],to the left of the white dog,under the bed,on the bed,to the right of the cupboard,order,000000366884.jpg
+377,order_1861,1861,where is the wooden bucket,['C'],above the pot,to the left of the gas burner,below the pot,on top of the table,order,000000030213.jpg
+378,order_1716,1716,where is the litter?,['A'],to the right of the big tree,behind the two bushes,to the rtight of the stone,to the left of the big tree,order,000000551350.jpg
+379,order_3515,3515,where is the blackboard,['B'],to the right of the table,to the left of the table,to the right of the men,to the right of the beer bottles,order,000000563267.jpg
+380,order_3518,3518,where is the big birthday cake,['A'],to the left of the woman,to the left of the plates,to the left of the man,to the right of the woman,order,000000434459.jpg
+381,order_893,893,where is the red bag?,['D'],to the left of the first tree,to the right of the last tree on the left,behind the bicycle,to the right of the 2nd tree on the left,order,000000503855.jpg
+382,order_776,776,where are the green plants?,['B'],on to of the brown dresser,to the left of the brown dresser,to the left of the kettle,on top of the window,order,000000045229.jpg
+383,order_3895,3895,where is the light blue bike?,['D'],in the middle of the bikes,behind the lady with the umbrella,on top of the building,next to a silver bike,order,000000045596.jpg
+384,order_480,480,where is the spiderman ornament,['D'],under the tv,under the curtain,on the wall near the pictures on the wall,on top of the tv,order,000000296231.jpg
+385,order_3201,3201,where are the ninja turtles?,['D'],under the light switch,beside the laptop,to the left of bender figure,on the top shelf,order,000000246308.jpg
+386,order_1089,1089,where is the water bottle?,['C'],under the desk,to the left of the mouse,to the right of the mouse,to the left of the keyboard,order,000000026564.jpg
+387,order_2989,2989,where is the family photo?,['D'],on the dinner table,under the people at the back of the picture,to the left of the photo,it is to the right of the dinner table,order,000000018380.jpg
+388,order_1,1,where is the man hole cover?,['C'],on the road,beside the sign post,two pavement slabs before the sign,under the sign,order,000000335177.jpg
+389,order_857,857,where is the blue surf board?,['B'],behind the group of people,to the right of the group of people,to the left of the boy in green,in front of the building,order,000000274460.jpg
+390,order_2778,2778,Where is the child in the red wetsuit?,['D'],On a surfboard,in the sea,To the far right of the other people,To the left of the two people in white shirts,order,000000326174.jpg
+391,order_3757,3757,Where is the lemon?,['C'],In the banana holder,In the bottom right image,In the image that doesn't contain a banana holder,On the fence in the background,order,000000193926.jpg
+392,order_3922,3922,Where is the wall light?,['D'],On the floor,To the left of the cupboard,on the far back wall,To the left of the window,order,000000415194.jpg
+393,order_212,212,Where is the deer's head?,['A'],To the left of the TV,Next to the big wheel,To the right of the TV,On the floor,order,000000195754.jpg
+394,order_2776,2776,Where is the wooden hammer? ,['A'],To the left of the bear in the background,On the wooden table,To the right of the bear,Underneath the wooden table,order,000000570169.jpg
+395,order_118,118,Where is the blender?,['C'],Next to the red book,Underneath the hanging U sign,The furthest object on the left hand side,Underneath the hanging B sign,order,000000214224.jpg
+396,order_1165,1165,Where is the lamp?,['B'],On the chair,Behind the framed photo of the child,On the sofa,To the right of the girl,order,000000559543.jpg
+397,order_1040,1040,Where is the notepad?,['B'],On a chair,To the right of the ties on the table,Behind the man standing,In the man's hand,order,000000397303.jpg
+398,order_1323,1323,Where are the tongs?,['A'],In front of the jug of white liquid,On the floor,On a glass serving dish,Hanging from the table,order,000000470773.jpg
+399,order_2706,2706,Where is the child in the green jumper taking a photograph?,['D'],The child closest to the camera,On the table,To the left of all the other children,In between the child in blue and the child in red,order,000000122962.jpg
+400,order_830,830,Where is the USA flag?,['D'],In the centre of the image,On the cyclists back,The man is carrying it,To the right of the furthest right lamp post,order,000000138639.jpg
+401,order_388,388,Where is the blender?,['C'],In the hands of the person in grey,In front of the pile of fruit,In the very centre of the image,On the person's head,order,000000376307.jpg
+402,order_3359,3359,where is the packet of cigarettes?,['C'],on the floor under the table,in the woman's hand,to the left of the image in the foreground,in the woman's pocket,order,000000527427.jpg
+403,order_804,804,"where is the ""omnifest"" sign?",['C'],in the far right of the image,on the road,above the windows on a red brick building,on the roof of a car,order,000000039484.jpg
+404,order_1361,1361,where are the red cases?,['C'],on the green sofa,on the bookshelves,to the right of the basket with rubbish,beside the wooden chair,order,000000124659.jpg
+405,order_1103,1103,where is the notebook,['A'],at the front right of the image,underneath the cat,on top of the laptop,propped up against the lamp,order,000000278463.jpg
+406,order_3836,3836,where is the child in the white shirt?,['C'],seated on the grass,at the very left of the image,facing the child with the longer blonde hair,refereeing the match,order,000000398203.jpg
+407,order_181,181,where is the green vacuum cleaner?,['C'],in the man's hand,partially hidden in the box,standing against the wall,lying flat on the floor,order,000000408696.jpg
+408,order_872,872,where are the bananas?,['C'],at the rear of the image,in the hands of the shopkeeper,in front of the man in the blue t-shirt,on the floor,order,000000356428.jpg
+409,order_1906,1906,where is the red book?,['C'],beside the figure of the head,at the front of the image,against the wall,next to the vase of flowers,order,000000421923.jpg
+410,order_766,766,where is the blue bag?,['A'],in the rear of the image,hanging on the door handle,on the countertop,on the comfortable armchair,order,000000441247.jpg
+411,order_2402,2402,where is the spare wheel?,['A'],to the left of the image,lying flat on the ground,lying in the mud,on the trailer,order,000000515266.jpg
+412,order_710,710,"where is the woman with the large hat, green t-shirt and blue water bottle?",['C'],walking on the path,in the giraffe costume,diagonally behind the green bush,seated at the table,order,000000288584.jpg
+413,order_2859,2859,Where are the bananas?,['C'],beside the peaches,in the man's hands,to the left of the woman in the sari,in the yellow sack,order,000000069356.jpg
+414,order_1020,1020,where is the school bus,['B'],behind the silver car,to the right of the double yellow line,at the back of the line of cars,on the left hand side of the road,order,000000057149.jpg
+415,order_1828,1828,where is the kogi trucj,['C'],on the right,not in front of the building,behind the table and chairs,at the front of the picture,order,000000153011.jpg
+416,order_2739,2739,where is the whisk,['B'],on the floor,in front of the mixing bowl,not held by the lady,to the right on the picture,order,000000481386.jpg
+417,order_1984,1984,where is the brown dog,['B'],sitting,behind the bike,at the top of the step,by itself,order,000000432553.jpg
+418,order_117,117,Where is the phone,['C'],to the right of the coffee cup,in front of the scissors,to the left of the cup,on the floor,order,000000562843.jpg
+419,order_4250,4250,where is the green kayak,['B'],out at sea,to the left of the child and man,to the right of the red buoys,In the water,order,000000160728.jpg
+420,order_768,768,where is the black laptop,['C'],under the day 5 schedule,not near another computer,to the left of the two computers,on the floor,order,000000547144.jpg
+421,order_4536,4536,where is the cow,['C'],at the front of the picture,in the crow,inside the trailor,next to the boy in the red tshirt,order,000000114907.jpg
+422,order_4092,4092,Where is the Keyboard?,['B'],behind the pc monitor,Before the pc monitor,In front of the cat,directly left of the lamp,order,000000316015.jpg
+423,order_290,290,Where is the Giraffe?,['B'],behind the kids,left of the trees,under the fence,On top of the leaves,order,000000234526.jpg
+424,order_4468,4468,Where is the sink?,['D'],In front of the boys,Right of the table,Under the table,In the background,order,000000091500.jpg
+425,order_4731,4731,Where is the water bottle?,['A'],Opposite the saucepan,Inside the saucepan,under the table,Behind the pastry chef,order,000000322163.jpg
+426,order_331,331,Where are the trees?,['B'],In between the cows and the clothes line,Behind the cows,Left of the clothes line,Before the Cows,order,000000306582.jpg
+427,order_338,338,Where is the basketball hoop,['D'],on the floor,in the top left of the image,in the bottom left of the image,above the players,order,000000558114.jpg
+428,order_265,265,where is the mirror,['A'],next to the dog,on the ceiling,face down on the floor,behind the dog,order,000000289702.jpg
+429,order_1780,1780,Where are the sheep,['B'],in the middle of the building,in the pens,riding on the backs of the people,to the left of the image,order,000000395388.jpg
+430,order_360,360,Where are the takeaway boxes,['C'],On the grill,In the hands of the chefs,opposite the grill,In the bin,order,000000044279.jpg
+431,order_3441,3441,What direction is the standing cow facing?,['B'],towards the camera,Away from the camera,away from the pigeons,towards the cows lying down,order,000000060823.jpg
+432,order_3452,3452,Where are the plants and trees,['C'],on top of the benches,inside the building,around the sides of the building,"below the pavement
+",order,000000222458.jpg
+433,order_3859,3859,what direction is the red food truck facing,['A'],parallel to the road,away from the other truck,facing the line of people,to the left of the image,order,000000401862.jpg
+434,order_2463,2463,Where is the dog,['A'],In the bottom left of the image,In the fruit basket,In the plastic bags,In the shopping trolley,order,000000479155.jpg
+435,order_1135,1135,Where is the laptop,['A'],In front of the papers,Beneath the printer,Attached to the wall,Below the desk,order,000000063602.jpg
+436,order_1317,1317,Where is the fire hydrant,['B'],beneath the road,next to the woman,within the coffee cup,in front of the woman,order,000000547336.jpg
+437,order_4584,4584,what is written on the chalkboard,['A'],description of cake,opening times,staff working,breakfast menu,order,000000074200.jpg
+438,order_4729,4729,where is the man with the grey cap,['B'],behind the bush,behind the woman,in front of the two men ,behind the door,order,000000038829.jpg
+439,order_981,981,whats on top of the bridge,['A'],horse,house,sea,beach,order,000000166747.jpg
+440,order_516,516,where is the plate ,['B'],on the floor ,on the table,on top of the muffin ,on a ladies head ,order,000000059598.jpg
+441,order_101,101,where is the green bucket,['A'],next to the motorbike,behind a tree,in the air,on top of the motorbike,order,000000177934.jpg
+442,order_64,64,what is to the left of the laptop ,['D'],a man ,a child ,a woman,notepad,order,000000376264.jpg
+443,order_2053,2053,where is the spoon?,['B'],in the bowl,Near the bowl,in the glass,on the plate,order,000000231822.jpg
+444,order_366,366,what is on the left of the child in yellow,['A'],a man holding water,a green item on the floor,people sitting down,a clown,order,000000293200.jpg
+445,order_3865,3865,what is on top of the bed,['C'],the iron,a table,bed sheets ,the floor,order,000000046048.jpg
+446,order_4280,4280,what is in front of the office book,['C'],monk book,another book,a bear,a black bear,order,000000125062.jpg
+447,order_1434,1434,Where is the poster,['A'],right,on the laptop,opposite the door,Left,order,000000457078.jpg
+448,order_3428,3428,what is left of the big mug the striped one ,['A'],a large dining plate,a tea pot,a washing machine,a kettle,order,000000484978.jpg
+449,order_1876,1876,what is on the table,['A'],phone,painting,charger,drawers,order,000000016439.jpg
+450,order_3531,3531,where is the cup,['C'],in the bag,in the building ,in the mans right hand,in the mans left hand,order,000000063047.jpg
+451,order_1822,1822,what is on the table,['B'],hair,cake,apples,gifts,order,000000405249.jpg
+452,order_949,949,what is above the car in the middle ,['C'],a road,a human,the sky,signage ,order,000000017627.jpg
+453,order_345,345,Where is the bottle?,['A'],To the right of the chicken wings,On top of the pizza,On the left of the image,To the left of the chicken wings,order,000000292446.jpg
+454,order_910,910,Where it the phone?,['B'],Inside the white mug,In the man's hands,On the table,By the man's ears,order,000000157767.jpg
+455,order_3324,3324,Where is the blue glass?,['D'],In the woman's hands,On top of the counter,Behind the people,On the right side of the image,order,000000287347.jpg
+456,order_1193,1193,Where is the asparagus? ,['C'],In front of the carrots,Directly next to the strawberries,Within the string,In front of the potatoes,order,000000023781.jpg
+457,order_18,18,Where are the sandals?,['C'],To the right of the apples,To the right of the bananas,To the left of the apples,On the man's feet,order,000000272566.jpg
+458,order_1530,1530,Where is the grey car parked?,['D'],Next to the lampost,To the right of a tree,Behind a white car,On the white lines,order,000000067616.jpg
+459,order_1619,1619,Where is the white cable?,['A'],Underneath the laptop,To the left of the mouse,On top of the laptop,Behind the pink glass,order,000000372466.jpg
+460,order_2593,2593,Where is the love heart?,['A'],To the right of the woman,On top of the counter,On top of the cakes,Behind the woman,order,000000449312.jpg
+461,order_4758,4758,Where is the skateboard?,['A'],At the bottom of the image,At the top of the image,Underneath the woman,On the road,order,000000492362.jpg
+462,order_1909,1909,Where is the black rabbit?,['D'],On top of the shelves,To the left of the green rabbit,Behind the toilet brush,Underneath the dials,order,000000117914.jpg
+463,order_2604,2604,Where it the kettle?,['A'],Underneath the pan,Above the pan,On the floor,Next to the sieve,order,000000384661.jpg
+464,order_3989,3989,Where is the pizza?,['D'],On the floor,On the hob,Next to the pan,On the pizza tray,order,000000192191.jpg
+465,order_4134,4134,Where is the blue chair?,['B'],In front of the batter,Towards the back of the field,On the left of the black chair,Directly next to the blue tent,order,000000414673.jpg
+466,order_594,594,Where are the chips?,['D'],To the right of the drink,In front of the chilli,Behind the burger,To the left of the drink,order,000000558854.jpg
+467,order_1354,1354,Where is the spoon?,['B'],In the woman's hand,In the centre foreground,In the background,On the table,order,000000346703.jpg
+468,order_3772,3772,Where is the man in blue jeans?,['C'],On the ground,In the background,Sitting on the animal,In the car,order,000000382111.jpg
+469,order_1629,1629,Where is the large grey building?,['A'],Right of the yellow digger,In the sky,On the road,In the foreground,order,000000577976.jpg
+470,order_1735,1735,Where are the silver stools?,['D'],On the slope,In the water,In front of the Coca-Cola bench,Behind the Coca-Cola bench,order,000000453584.jpg
+471,order_4772,4772,Where is the tractor?,['D'],Behind the boats,In the sky,Under the sand,Right of the boats,order,000000465675.jpg
+472,order_1239,1239,Which plane is facing the other?,['D'],The one that is not surrounded by people,The one on the left,The one that says 'Q9' on it,The one under the 'BI7' sign,order,000000071711.jpg
+473,order_2855,2855,Where is the blue toilet?,['B'],On the grass,In front of the fence,In the puddle,Right of the white toilet,order,000000482100.jpg
+474,order_3282,3282,Where is the water bottle?,['B'],On the ledge,Behind the sign,In the person's lap,In the person's left hand,order,000000564091.jpg
+475,order_3183,3183,Where is the umbrella?,['A'],In the older man's right hand,On the floor,Above the tree,In the younger man's hand,order,000000510329.jpg
+476,order_1493,1493,Where is the food?,['B'],Behind the door,Under the spoon,On the table,On the floor,order,000000512929.jpg
+477,order_96,96,Where is the uppermost potato?,['A'],Right of the fish,Below the other potato,On the table,Under the egg,order,000000084664.jpg
+478,order_3729,3729,Where is the computer monitor?,['B'],Left of the bottle,Right of the bottle,Left of the cup,Under the keyboard,order,000000226171.jpg
+479,order_1326,1326,Where is the ceramic cat?,['C'],On the book,In the bowl,Above the umbrella,Left of the sign,order,000000096001.jpg
+480,order_2354,2354,Where is the lady in the red vest?,['D'],On the elephant,In the water,Left of the man in the white shirt,On the fence,order,000000414795.jpg
+481,vcr_1083,1083,Why does the boy look so scared?,['D'],he does not want to be on a path and wants to be in a field,he is allergic to horses,he is in a bad mood with his granda,It is his first time on a horse,vcr,000000050380.jpg
+482,vcr_1084,1084,Why does he look hesitant?,['D'],He isnt actually with that group of people    but wished he was,He 's wondering how long he will be standing in the hot sun for.,He's thinking of doing a runner,He is just curious has to what is going on.,vcr,000000449432.jpg
+483,vcr_11,11,Why has the girl opened the fridge?,['C'],She is looking for something she has lost,She is hungry,She wants to try and fit in the bottom shelf,She is too warm,vcr,000000231339.jpg
+484,vcr_1128,1128,Why are they attempting to ski on a hill with a low gradient?,['C'],They're exited to try their new ski's out.,They're borred,They just like being in the snow,I may be seeing the picture at of context.,vcr,000000515577.jpg
+485,vcr_1130,1130,What will the person do next?,['B'],Throw the phone,Hang up the phone,Lay back in to the bushes,Stand up and continue the conversation,vcr,000000117197.jpg
+486,vcr_1177,1177,what is x about to do next?,['D'],eat some food,order more food,tell a joke,take a drink from his cup,vcr,000000404678.jpg
+487,vcr_1372,1372,Why is the woman sitting down?,['C'],She is having a conversation with the person next to her,She is having a therapy session,She is enjoying the sunshine,She is meeting with a client,vcr,000000351530.jpg
+488,vcr_1451,1451,What will happen to the kite?,['B'],He will put the kite down once he has finished having his photo taken,The person will keep hold of it once it is the sky',He will aciddently let go and the kite will fly way.,The other person in the picture will come and grab hold of it.,vcr,000000407868.jpg
+489,vcr_1452,1452,What is this person doing,['A'],Speaking on the phone,ordering a pizza,locating a friend,doing her make up,vcr,000000006771.jpg
+490,vcr_1554,1554,Why is the person standing up?,['C'],He doesn't have a chair,To avoid getting hit by the kite,To get a good view of the game,To stretch his legs,vcr,000000014439.jpg
+491,vcr_1582,1582,What is x about to do next?,['D'],catch a train,walk down the stairs,make a phone call,Walk up the stairs,vcr,000000249180.jpg
+492,vcr_1621,1621,Why is that man walking on the road?,['C'],He doesnt care about the danger,It is 5 mins quicker than going up to the pavement,He thinks that he is perfectly safe,everybody does it why wouldnt he,vcr,000000463730.jpg
+493,vcr_1680,1680,Why is he leaning over?,['A'],To make friendly contact with his companion.,To push him of the horse.,T give his companion reassurance.,To be in on a photo.,vcr,000000007281.jpg
+494,vcr_1682,1682,Why is teh person looking at the dog,['B'],looking at a plane,Watching dog jump far,he has seen a friend,watching sports on a big screen,vcr,000000067213.jpg
+495,vcr_1746,1746,What song is he singing?,['A'],He is singing a popular song by the band.,They are playing a song by another popular artist.,"He isn't singing, just screaming into the microphone.",He is singing a new song they have written.,vcr,000000411953.jpg
+496,vcr_1907,1907,Which direction will she go in?,['B'],She will go upstairs to the business lounge,She will go to the doorway on the left,She will turn around and go back the way she came,She will stop and stand still,vcr,000000417249.jpg
+497,vcr_2147,2147,Who is the baby playing with?,['C'],Strangers,Their aunt and uncle,Their parents,Their siblings,vcr,000000482319.jpg
+498,vcr_2180,2180,who is this person,['B'],a spectator,An umpire,a security guard,a Fan,vcr,000000328430.jpg
+499,vcr_2200,2200,what is x about to do next?,['D'],take the tie off,unbutton the shirt,use the tie as a hairband,Fix the tie around the collar,vcr,000000450075.jpg
+500,vcr_2291,2291,What is x about to do next?,['D'],Go for some food,Take the underground,Catch up with her friend,Walk along the high street,vcr,000000502336.jpg
+501,vcr_2344,2344,Why is the woman giving out fruit?,['C'],She is selling it,She doesn't like fruit,She is giving food out to those in need,She had too much fruit and is giving it away,vcr,000000331799.jpg
+502,vcr_2700,2700,what is x about to do next?,['B'],take his jacket off,Play a game with friends,make a cup of tea,go for a walk,vcr,000000306139.jpg
+503,vcr_2706,2706,Why is the woman at the event?,['B'],To sing happy birthday,To watch her child,To babysit a child,She was the caterer ,vcr,000000122962.jpg
+504,vcr_2737,2737,What is this person doing,['D'],about to jump onto another bike,running behind the bike,about to jump of the back of the bike,Passenger on a bike,vcr,000000143556.jpg
+505,vcr_2851,2851,Why is the person running away?,['D'],To stretch his legs,To sabotage his team,To go get some water,To catch the frisbee,vcr,000000319184.jpg
+506,vcr_2971,2971,What will the man do next?,['C'],Throw the cake on the floor,Give the cake to someone else,Blow out the candles,Immediately start cutting slices,vcr,000000391722.jpg
+507,vcr_3139,3139,What will the man do next?,['B'],Crawl across the road,Cross the road,Walk the other way,Push the other person into the road,vcr,000000212573.jpg
+508,vcr_3359,3359,Who is this lady on the phone to?,['A'],She is answering a call,She is passing time,She's depressed and calling her friend,The IT department because her computor has broken.,vcr,000000527427.jpg
+509,vcr_3369,3369,what is x about to do next?,['D'],Kick the football,run down the street,Drive the car,jump over the pavement,vcr,000000566282.jpg
+510,vcr_3393,3393,What is this man's relationship to the people at the table in the front of the picture?,['C'],They are friends,They are coworkers,"None, they are two separate families",They live in the same community,vcr,000000266768.jpg
+511,vcr_3515,3515,What is X about to do next,['C'],go for a walk,talk to the other guy,Write on the blackboard,dance  on the floor,vcr,000000563267.jpg
+512,vcr_3533,3533,why does that girl have a blue hat and apron on?,['B'],her Dad made her pick blue,it is her favourite colour,she thought you wouldnt see as many stains on blue,she was late and got the only colour left,vcr,000000290163.jpg
+513,vcr_3555,3555,What will the person do next?,['A'],Turn the page of the book,Stop reading,Throw the book in the bin,Play on the apparatus,vcr,000000341921.jpg
+514,vcr_3638,3638,Who is this person,['B'],Airport ground staff,A passenger disembarking the aircraft,a magician,a baggage handler,vcr,000000524850.jpg
+515,vcr_3711,3711,what is this person doing,['A'],a tourist in the crowd,a tour guide,giving out directions,posing for a picture,vcr,000000370486.jpg
+516,vcr_3738,3738,What activity is the person engaging in?,['B'],A cooking class,Lunch service at a cafe,Catering an event,Dinner service at a Michelin star restaurant ,vcr,000000084241.jpg
+517,vcr_3774,3774,what is this person doing,['D'],serving wine,ordering a beer,getting drunk,attending a wine tasting,vcr,000000244750.jpg
+518,vcr_62,62,What is x about to do next?,['B'],talk to the girl,eat some food,cut the grass,feed the animal,vcr,000000137294.jpg
+519,vcr_766,766,whi is the man loading the dishwasher in the morning?,['C'],he has asked his wife to do it and she said no,His wife has asked him to do it,He is doing it after eating his breakfast,he has ignored his wife asking hjim to do it the night before,vcr,000000441247.jpg
+520,vcr_797,797,What is the cyclist going to do next?,['D'],Have a go at skateboarding,Fall off his bike,Stop and watch the skateboarders,Continue cycling along the beach,vcr,000000439854.jpg
+521,vcr_919,919,what is x about to do next?,['A'],make a phone call,write in the book,have some coffee,take off his hat,vcr,000000537270.jpg
+522,vcr_1012,1012,What is this child thinking?,['B'],The salt water hurts my eyes!,This is a lot harder than it looks,One day I can surf like Kelly Slater!,The water is cold!,vcr,000000274066.jpg
+523,vcr_1196,1196,What is the child thinking?,['C'],Is this helmet the right size?,I hope no one is taking a picture of me!,I can't see anything!,Where is the ball?,vcr,000000370375.jpg
+524,vcr_122,122,what is the man thinking,['C'],Im going to jump the fence and have a go ,she is brave,I wish i could do that it looks great fun,Im glad its not me I hate giraffes,vcr,000000302452.jpg
+525,vcr_1225,1225,why is he not talking to his friend,['D'],he doesnt like him,his friend is busy on his phone,he wants to finish his dinner first,he is too busy on his phone,vcr,000000345356.jpg
+526,vcr_1284,1284,what is the woman saying,['B'],I was before you let me in,does this bus to go XXX street,are you allowed food on this bus,I dont have money can you pay my bus fare,vcr,000000377723.jpg
+527,vcr_1312,1312,what is the woman saying on the phone,['C'],whats for dinner,mum can I get a new computer,do you want to go out for a drink,I hate computer games,vcr,000000160556.jpg
+528,vcr_1404,1404,what is the girl doing,['B'],she is going to bed,she has friends round and they are watching tv and eating snacks,she is watching tv on her own,she is studying,vcr,000000036936.jpg
+529,vcr_1406,1406,why is the boy alone,['B'],he has no friends,he prefers to practice on his own to concentrate more,it is 5 am and no one else is up,he has fallen out with his brother,vcr,000000013546.jpg
+530,vcr_1439,1439,Why is the man doing tricks there on his skateboard,['C'],he thinks he is cool,he is showing off to the man on the bench,he is being filmed for social media,he is on his lunch break,vcr,000000256868.jpg
+531,vcr_1516,1516,What is the skiier thinking about?,['A'],Focusing on not slipping on the ice,Thinking how beautiful the view is,watching out for his friend,Thinking of the cold,vcr,000000054592.jpg
+532,vcr_1541,1541,Why is the boy so happy,['B'],he likes playing on grass,he loves playing with frisbee ,it is sunny,he likes ice cream,vcr,000000261036.jpg
+533,vcr_1557,1557,what is he selling,['C'],drugs,perfume,street food,balloons,vcr,000000040083.jpg
+534,vcr_1668,1668,What is she thinking?,['A'],i hit it!,I hope there's no glass nearby!,"Oh no, where is this going?",Will we get caught?,vcr,000000370270.jpg
+535,vcr_1884,1884,what is the man doing,['B'],he is asking for a tip,he is asking the customers what they would like,he is begging for food,he is asking the customers to leave as they are smoking,vcr,000000229659.jpg
+536,vcr_1886,1886,What is this man trying to do?,['A'],He is trying to untangle the wire,he is getting the kite ready for flying,He is trying to fix the kite,He is about to throw the kite,vcr,000000514797.jpg
+537,vcr_2,2,What happens next?,['D'],he talks to his friend,he slips and falls off,He does a trick,He continues to push forward on the skateboard,vcr,000000278705.jpg
+538,vcr_2106,2106,why is the woman looking like that,['B'],she knows her husband is allergic to sweetcorn and he is taking it,she is so hungry and wants to eat next,she doesnt like BBQs,she has been pushed ot the side by her daughter,vcr,000000233238.jpg
+539,vcr_2131,2131,What is he thinking?,['B'],When will it be ready?,Where did you get this from?,This suckling pig is going to taste great,How do you prepare it?,vcr,000000263425.jpg
+540,vcr_2210,2210,What is about to happen next?,['D'],He's going to hit a home run,He will get caught,He's going to swing and miss!,he will hit a ball and run to first base,vcr,000000203931.jpg
+541,vcr_228,228,What is the rider thinking about?,['B'],Thinking about their next overtake,They are focusing on the road,How much their bottom hurts,Thinking about crossing the finish line,vcr,000000455624.jpg
+542,vcr_2282,2282,what is the lady doing,['B'],she is on tinder,she is on a break from her course and is letting her family know how it is going,he is sitting her driving test theory exam,she is cheating on an exam,vcr,000000326970.jpg
+543,vcr_2295,2295,What is this man talking about?,['D'],his worklife and hobbies.,His family life,His experience in horseriding,talking about the sea and the beach,vcr,000000456015.jpg
+544,vcr_2309,2309,Why does he have this expression?,['A'],They are watching one of their own self-shot videos from their travels/childhood,They are watching a comic clip reel,They are amazed at a sports event.,They are watching a funny comedy on the projector,vcr,000000023899.jpg
+545,vcr_2439,2439,What is the matador looking at?,['B'],The crowd,The falling bull,the cloud of dust,the commotion behind him,vcr,000000377486.jpg
+546,vcr_2473,2473,Why is she in this position?,['B'],She is asking if she looks good in the dress,She is posing for pictures at her wedding,She is just having a laugh,She is doing a dance,vcr,000000476514.jpg
+547,vcr_2479,2479,How is this man feeling?,['A'],He's feeling very drunk,he's feeling sick,he's not thinking much at all!,He's feeling like another drink,vcr,000000025393.jpg
+548,vcr_2519,2519,what isthe girl doing,['A'],she is taking a photo of the sheep,she is trying to scare the sheep,she is feeding the sheep,she is showing off,vcr,000000406997.jpg
+549,vcr_2614,2614,What is he thinking about?,['C'],How delicious that cake is,How great the couple look,getting the perfect shot,how many pictures he will have to share with guests,vcr,000000363207.jpg
+550,vcr_2624,2624,What is he thinking about?,['A'],"Wow, I'm really able to do this!",I've practiced years for this,I hope I don't fall,Don't I look cool!,vcr,000000071877.jpg
+551,vcr_269,269,why is he sitting alone,['A'],none of his friends or family like tennis,all his friends got fed up and left,the tickets are too expensive,he has Body Odour,vcr,000000098853.jpg
+552,vcr_2774,2774,what is the man doing,['B'],he is checking to see if he has packed his sun hat,he is loading his suitcase on to a trolley to go into the airport,he is stealing someones suitcase,he is trying to race the man next to him to see who can get all suitcases on the quickest,vcr,000000009891.jpg
+553,vcr_2778,2778,why does the man have a white t shirt on instead of yellow,['A'],he is the instructor,he couldnt find a yellow one in his size,yellow tops attract the sun more,he doesnt like the colour yellow,vcr,000000326174.jpg
+554,vcr_2896,2896,Why is she not under the umbrella?,['A'],She has just come out from under it herself,She won't fit under it with her friend,She doesn't want to be that close to her friend,She doesn't feel the need to shelter from the sun,vcr,000000301867.jpg
+555,vcr_2995,2995,what is the man in the black t shirt thinking,['C'],I love listening to him,I am hungry ,I cant be bothered with this,I need to get this job done as an exclusive but there are other journalists here asking questions,vcr,000000465822.jpg
+556,vcr_3,3,why does the woman look angry,['C'],she doesnt like birds,the bird is making loud noises,she doesnt want her photo taken,the baby has just soiled its nappy,vcr,000000463618.jpg
+557,vcr_3038,3038,What is he doing?,['A'],Discussing an issue with the station staff,Explaining the timetable ,Telling them when the next running service is.,Giving an excuse as to why the train is late,vcr,000000511999.jpg
+558,vcr_3074,3074,What is she thinking about?,['B'],Don't I look silly in this hat?,How windy it is,If the person has a treat for the dog,If the person has any change,vcr,000000534270.jpg
+559,vcr_3094,3094,why does he have no cake,['B'],he has been naughty and isnt getting a bit,he has his foot on the table,he has already eaten it,he fed it to the dog,vcr,000000345361.jpg
+560,vcr_3159,3159,why is she standing and not taking part,['C'],she hates video games,she is blind,she is waiting on her turn,she is chatting to her friend on the phone,vcr,000000467176.jpg
+561,vcr_3162,3162,why is the lady walking,['D'],she thinks bikes are bad for the environment,she does not have a licence,she likes to keep fit,she cant afford a bike,vcr,000000226417.jpg
+562,vcr_3183,3183,what is the man covering with the umbrella,['D'],it is a connection to the laptop so that they can record,his friends head,his lunch,the stone,vcr,000000510329.jpg
+563,vcr_3247,3247,what is she waiting on,['C'],her dog in the groomers,her take away,she is in a queue to see the next service adviser,a ticker for a concert,vcr,000000089648.jpg
+564,vcr_3320,3320,What is the adult thinking about?,['D'],How wet their feet are,How much they enjoy the job,That they wish they could go down the slide themselves,The safety of the child going down the slide,vcr,000000389197.jpg
+565,vcr_3324,3324,what is the man thinking,['D'],oh no pizza again,I am so hungry I cant wait for my pizza,I wanted a chinese,I dont like peppers,vcr,000000287347.jpg
+566,vcr_3327,3327,What's going to happen next?,['B'],The batter is going to hit a home run,The batter will hit and run,Someone will let go of their controller,He's going to get the batter out,vcr,000000257370.jpg
+567,vcr_3425,3425,what is he waiting for,['C'],his friend,his Mum,He is waiting for his favourite celebrity to get  their autograph,for a show to end,vcr,000000059044.jpg
+568,vcr_3437,3437,Why are his eyes closed?,['D'],He's bored on the call,He is taking a rest,He's been on hold for too long,He has fallen asleep,vcr,000000071938.jpg
+569,vcr_3451,3451,Where is the boy going,['D'],he is following the red car,He is chasing the man,He has run away from school and is trying to hide,he is crossing the road to get to the Bagel Bakery,vcr,000000142472.jpg
+570,vcr_3482,3482,why does she have an umbrella up ,['D'],she is keeping the sun off her,she is trying to poke her mums eye,it is raining,she is playing,vcr,000000443969.jpg
+571,vcr_3501,3501,What is this man thinking about?,['A'],How fun it is to be in the water,the couple further in the water,going back under the parasol,Diving under the surface,vcr,000000029984.jpg
+572,vcr_3512,3512,What is he thinking about?,['B'],If the wine is cold yet,What snack to have,Whether there's a ready meal,Where he put the milk,vcr,000000425226.jpg
+573,vcr_3574,3574,what is the man on the right doing,['A'],He is playing a computer game against his friend,He is dancing,He is fighting with his friend,He is in pain,vcr,000000463918.jpg
+574,vcr_3580,3580,Why is the man riding the horse?,['B'],This is his form of transport,He is taking them trekking across the beach,He is giving them horseriding lessons,he is taking it back to the stable,vcr,000000547886.jpg
+575,vcr_3581,3581,What is the woman thinking about,['D'],Getting something from the fridge,Having another drink,How cute the baby is,How well-behaved the baby is,vcr,000000397354.jpg
+576,vcr_3712,3712,Why is the child there?,['C'],The child has finished playing and doesn't want to any more,The child is about to have a nap,The child is playing,The child is waiting to eat,vcr,000000283268.jpg
+577,vcr_3724,3724,who is he playing,['B'],himself,his friend,the girl behind,the man walking away,vcr,000000551820.jpg
+578,vcr_3791,3791,Where was this woman before?,['A'],She was on the street,She has just come out of the toilet,She was at the wedding reception,She has just got off a bus,vcr,000000496854.jpg
+579,vcr_3825,3825,what is he saying,['A'],the ball was out,Ive told you my decision away you go,it is too sunny I cant see properly,the computer doesnt lie,vcr,000000326248.jpg
+580,vcr_3859,3859,Why is this man here?,['C'],He loves tacos,He is trying the food for the first time,He was very hungry at this was the place that was closest,He knows the food from the truck is excellent,vcr,000000401862.jpg
+581,vcr_3934,3934,What is she saying?,['A'],What have you been up to?,This dinner will be wonderful,What a lovely kitchen,This cake looks lovely,vcr,000000438774.jpg
+582,vcr_4,4,what is the boy doing,['B'],he is trying to find his friends,he is in a skateboard competition,he is going to take his helmet off,he is trying to hide from the photographer,vcr,000000568981.jpg
+583,vcr_424,424,What is the person thinking about?,['C'],What they will be doing after this,What is for dessert.,How good the baguette tastes,having the coffee,vcr,000000157601.jpg
+584,vcr_524,524,why is he on his computer at the railway station,['B'],he is bored,he has an urgent piece of work that needs finished,he is looking up holidays,he is on Tinder,vcr,000000076547.jpg
+585,vcr_757,757,What is he saying?,['A'],How he met his partner,What he likes most about the area they are in,How much he loves his partner,Talking about their favourite reality TV show,vcr,000000514508.jpg
+586,vcr_759,759,Why is the boy looking at his mum,['A'],he is not sure if he is allowed to eat all the cake,he doesnt like cake,he has stolen another boys cake and is seeing if he has been caught,he wants a knife to cut the cake,vcr,000000334483.jpg
+587,vcr_897,897,why is the man using a blow torch,['A'],he is an entertainer and he is practising,he thinks it is cool,he is trying to burn his friend,he is an arsonist,vcr,000000258388.jpg
+588,vcr_910,910,What was he doing before the break?,['D'],At a stand in the hallway,Checking his phone while bored at a speech,Delivering a talk,Watching a keynote speech,vcr,000000157767.jpg
+589,vcr_914,914,what is the boy thinking,['A'],oh yummy I love chocolate cake ,I hate cake,only one candle I am 2,I hope I dont need to share,vcr,000000117425.jpg
+590,vcr_967,967,where is this man,['D'],he is in a pub,he is at work,he is at the theatre,he is at an airport waiting on a flight,vcr,000000203629.jpg
+591,vcr_1040,1040,What will this man do next?,['C'],speak to his partner,Negotiate over the price,Show the customer the range of ties,Ask the customer a question,vcr,000000397303.jpg
+592,vcr_1097,1097,what sport was x playing?,['C'],basketball,paddleball,tennis,pickleball,vcr,000000177065.jpg
+593,vcr_1098,1098,What is X going to do next?,['D'],get the flying tent,scream,go for a swim,join the other kids in running after the tent,vcr,000000256775.jpg
+594,vcr_1299,1299,What is X function?,['D'],a vendor,a player,a spectator,an official,vcr,000000303713.jpg
+595,vcr_1414,1414,what is x doing?,['C'],waiting for food,watching the crowd,blocking the alley,leaning on the wall,vcr,000000574702.jpg
+596,vcr_1440,1440,What will X do next?,['D'],Eat all the food,Share the food with the people on the next table,Leave the restaurant,Wait for his friends,vcr,000000468505.jpg
+597,vcr_1480,1480,What did X do prior to this?,['C'],Train the horse over the jump to the right,Calm the horse before starting the obstacles.,Take the horse around the paddock,Saddle up and prepare the horse,vcr,000000454798.jpg
+598,vcr_1624,1624,What is this child doing here?,['D'],Looking after the younger children,She is awaiting her turn to play,She is bored and just watching the game,Watching the game on the Wii,vcr,000000578489.jpg
+599,vcr_1632,1632,where has X just come from?,['C'],A taxi has just dropped her off.,She has crossed the road with a heavy bag,She has come from the bus stop,She has come from the train station,vcr,000000168337.jpg
+600,vcr_1660,1660,What will X do next?,['D'],She will say something to the mahout,She will turn around to her partner behind her,She will shuffle around slightly,She will laugh and smile,vcr,000000384468.jpg
+601,vcr_1774,1774,what is he doing,['A'],waiting on his turn,working,trying to push to the front,playing football,vcr,000000187734.jpg
+602,vcr_1809,1809,What is X going to do next?,['B'],play with the girl,talk to the boy next to him,run to his parents,roll across the lawn,vcr,000000117492.jpg
+603,vcr_1822,1822,What is X thinking?,['B'],I wish it was my birthday,I want to blow out the candles,what a nice cake,I am hungry,vcr,000000405249.jpg
+604,vcr_1971,1971,what is he doing,['D'],he is watching TV,He is selling books,he is talking to his Mum,he is working,vcr,000000166478.jpg
+605,vcr_2005,2005,what is x doing?,['D'],ignoring the guests,measuring the glass,checking the weather,looking out of the window,vcr,000000115870.jpg
+606,vcr_2246,2246,what are x doing?,['B'],doing a wheelie,waiting at a junction,broken down,parking,vcr,000000206487.jpg
+607,vcr_2314,2314,what is x waiting for?,['C'],a slice of cake,to leave the celebration,the boy to blow out the candles,to sing happy birthday,vcr,000000180101.jpg
+608,vcr_2321,2321,what are they doing,['C'],they are discussing divorce,they are sheltering from the rain,they are on holiday and enjoying a break from walking,they are waiting on a bus,vcr,000000130826.jpg
+609,vcr_237,237,Where has this person just come from?,['A'],Visiting a friend's house,A long road trip,The mechanic,The gas station,vcr,000000433204.jpg
+610,vcr_253,253,where is x?,['C'],in a park,at a bar,at a restaurant,at his house,vcr,000000156643.jpg
+611,vcr_2588,2588,What is X thinking about?,['A'],Intercepting the frisbee that is heading to the other person,catching the frisbee,Just enjoying playing with friends,Making the next throw,vcr,000000440336.jpg
+612,vcr_2746,2746,what is happening with that woman,['A'],she is lost and waiting on someone,she is listening to the other women talking,she is late for work,she is sunbathing,vcr,000000281687.jpg
+613,vcr_2974,2974,What is X smiling at?,['B'],He is responding to a joke someone said,He is smiling for the photograph,he is welcoming someone who has just arrived in the group,he is enjoying the walk and the sunny day,vcr,000000329456.jpg
+614,vcr_3292,3292,what is he doing ,['C'],trying to wake her up,working,watching a tv show,singing,vcr,000000394677.jpg
+615,vcr_3330,3330,why does she have a blue hat on,['B'],she got the only one left,it is her favourite colour,there was no pink ones,she doesnt want to get sunburn,vcr,000000439180.jpg
+616,vcr_3378,3378,what is she thinking,['D'],I wish we had steak,the smell of this is awful,I hate fish,this is lovely food and company,vcr,000000301718.jpg
+617,vcr_3389,3389,What did X forget at home?,['D'],his sunscreen,his surfboard,water,his sunglasses,vcr,000000154004.jpg
+618,vcr_3531,3531,Why is X queueing?,['C'],she is just keeping a friend company,she wants a ticket,she is hungry,she needs a napkin,vcr,000000063047.jpg
+619,vcr_3621,3621,What will this person do next?,['D'],Go to sit on the bench,Walk away,continue to stand there and wait,have a conversation with the person on the bench,vcr,000000301135.jpg
+620,vcr_373,373,What is X going to do next?,['B'],hug the guy,spray a painting on the wall,run away,clean the wall,vcr,000000424975.jpg
+621,vcr_3770,3770,what is x looking for?,['A'],traffic,pedestrians,other bikes,birds,vcr,000000380706.jpg
+622,vcr_3855,3855,what id gthe boy looking to buy,['D'],orange juice,sweets,cigarettes,a cake or pastry,vcr,000000529122.jpg
+623,vcr_474,474,What did this man just do?,['A'],Laugh,Pick up the surfboard,Make the jaws music sound,take his top off,vcr,000000073946.jpg
+624,vcr_647,647,where is x?,['D'],in their garden,at the zoo,at a racecourse,at a stables,vcr,000000012748.jpg
+625,vcr_652,652,What will this person do next?,['A'],Sell a number of peppers,Pack up and leave as it is the end of the day,Engage the people in further conversation,Stand up to stretch her legs,vcr,000000323263.jpg
+626,vcr_693,693,what is x doing?,['D'],moving on the people,buying fish,waiting for a meal,haggling,vcr,000000540414.jpg
+627,vcr_742,742,What is X going to do next?,['D'],leave,clean the horse,ride one of the horses,ride a cariage,vcr,000000506656.What type of glasses is the man on the left wearing?jpg
+628,vcr_75,75,Why is X concentrating?,['B'],he is skating,he is judging,he does not understand the rules,he is anxious for the skater to succeed,vcr,000000523957.jpg
+629,vcr_763,763,why does he have sunglasses on when eating a meal,['B'],he is trying to look the best,the sun is shining in his eyes,he doesnt want anyone to see he is upset,he thinks he is cool,vcr,000000470924.jpg
+630,vcr_85,85,what is x doing?,['A'],using their laptop,sat down to rest,taking a nap,shading from the sun,vcr,000000455157.jpg
+631,vcr_991,991,what is the man doing,['A'],he is working from home,he is hoovering,he is watching tv,he is looking for a bigger house on internet,vcr,000000366884.jpg
+632,vcr_127_dev,127,X wonders how long this will take. ,['C'],X is very bored. ,X wonders what food they will have at the reception. ,X is very excited and happy for the couple. ,X hopes she can go home soon. ,vcr,000000473219.jpg
+633,vcr_141_dev,141,Where is X going?,['D'],To the airport,To a train station,To visit family,To work,vcr,000000114049.jpg
+634,vcr_1496_dev,1496,What will X do next?,['B'],Remove his glasses,Punch the air,Drop the controllers,Punch his friend,vcr,000000404839.jpg
+635,vcr_1548_dev,1548,What will X do next?,['A'],Finish his pizza and glass of wine ,Stumble to bed drunk ,Print out some photos. ,Do some coursework ,vcr,000000425361.jpg
+636,vcr_1662_dev,1662,Why is X smiling,['B'],X is enjoying the time at the restaurant ,X is enjoying spending time with family,X is excited for their food to arrive,X is smiling at the baby having fun,vcr,000000356248.jpg
+637,vcr_1802_dev,1802,Why is the man sitting in the boat?,['C'],He fell out of the boat.,He's waiting to take people across river.,He's delivering items for people.,A river taxi.,vcr,000000511599.jpg
+638,vcr_1839_dev,1839,What has X probably done before? ,['C'],Been running ,Had a word with the farmer ,Watched a sheep race,Been told some bad news. ,vcr,000000288685.jpg
+639,vcr_2144_dev,2144,What will this person do next?,['C'],Turn around and walk backwards,Ski down the road,Continue to walk,Fall over,vcr,000000096825.jpg
+640,vcr_2271_dev,2271,What is he doing (In the red square),['A'],Watching his friend play WII,ready to break dance in unison with the guy playing the WII,Coaching his friend to box using the wii for assistance,Ready to tackle his friend as he stole his turn on the wii,vcr,000000556000.jpg
+641,vcr_2490_dev,2490,What are they doing?,['A'],Using the nintendo WII,Making a wii sports advert,Attempting to break a wii record?,Checking his weight with a wii board,vcr,000000556193.jpg
+642,vcr_2527_dev,2527,What is X likely to do in the near future?,['D'],Go to the gym.,Have a business meeting.,Go hunting.,Take some photos with his camera.,vcr,000000150265.jpg
+643,vcr_2779_dev,2779,What is X trying to achieve?,['B'],To stop the wheel from working,To fix the wheel,To clean the wheel,To remove parts from the wheel,vcr,000000013177.jpg
+644,vcr_2859_dev,2859,What will X do next?,['C'],Stop to buy some fruit,Talk to the lady buying some fruit,Continue walking down the street,Get into one of the cars parked on the side of the road,vcr,000000069356.jpg
+645,vcr_3282_dev,3282,What is X trying to achieve?,['C'],X is trying to stop someone from selling jewellery,X is trying to buy jewellery,X is trying to sell jewellery ,X is trying to give jewellery to people for free,vcr,000000564091.jpg
+646,vcr_3316_dev,3316,Why is X staring at the pizza,['C'],X has never eaten pizza before,X is unsure of what type of pizza it is,X is interested in the pizza,X is waiting to be fed a piece of the pizza,vcr,000000018150.jpg
+647,vcr_3351_dev,3351,What will X do next,['C'],Stand up,Stand up and disembark from the cart,Remaining sitting on the cart,Swap places with the driver,vcr,000000227898.jpg
+648,vcr_3409_dev,3409,What is this person speaking to them about?,['C'],Complaining about a previous order.,Asking for directions to a nearby store.,Asking about what they offer.,"They know the people, and are just talking to them about random things.",vcr,000000319369.jpg
+649,vcr_3411_dev,3411,What are they doing,['A'],They are enjoying a nice summer day in the park with friends,They are observing a local baseball match from a hill,They are watching Wimbledon,They are part of the crowd for a outdoor random popup gig,vcr,000000143961.jpg
+650,vcr_3518_dev,3518,What is he doing,['C'],He is standing body guard for the cake,He is ready to fight with the cake knife any challengers,He is cutting the cake for his colleagues,He is going to lick all the icing off the knife,vcr,000000434459.jpg
+651,vcr_3582_dev,3582,Why will X stand up?,['C'],To offer the other lady a seat,To shout at the other lady,To get on the bus,To walk to the shops,vcr,000000517069.jpg
+652,vcr_3661_dev,3661,Why is he stood up on a moving train?,['D'],The train is approaching his stop.,Stretching their legs.,About to order some food/drink.,Waiting for the toilet.,vcr,000000038678.jpg
+653,vcr_3863_dev,3863,What is X thinking about?,['A'],How fun it would be to go kite surfing,That he wants an ice cream,Those are nice trunks,That it is a windy day,vcr,000000312489.jpg
+654,vcr_574_dev,574,What is X thinking?,['C'],My head is hot in this helmet,I wonder how fast this horse can run,I am quite nervous on this horse,I would prefer to ride a different horse,vcr,000000308545.jpg
+655,vcr_654_dev,654,Why is X squatting on the floor? ,['D'],To win a squatting race ,To help with her posture. ,To go to the toilet ,To help sort out food to sell. ,vcr,000000378515.jpg
+656,vcr_706_dev,706,What is X celebrating?,['C'],His child's birthday.,Baking his first cake.,His birthday.,A new job.,vcr,000000211825.jpg
+657,vcr_710_dev,710,Is X going to approach the person in the giraffe costume? ,['B'],X is scared of giraffes and is about to run away. ,X is curious as to why someone is dressed up as a giraffe. ,X wants to take a photo with the giraffe. ,X is going to ask the giraffe to coffee. ,vcr,000000288584.jpg
+658,vcr_794_dev,794,Why is X smiling so much? ,['B'],He was actually choking instead ,Smiling for the camera. ,Someone tickled his feet ,Because he was laughing at a joke told by friends round the table. ,vcr,000000009590.jpg
+659,vcr_857_dev,857,What is he there for?,['C'],To sell surfboards,To pose in pictures,He's there to instruct beginners how to surf,To encourage others,vcr,000000274460.jpg
+660,vcr_871_dev,871,What is the man doing?,['A'],Ordering some food/drink.,Wondering what time they shut.,Asking the woman for her phone number.,Talking about something that happened earlier in the day.,vcr,000000482436.jpg
+661,vcr_1199_dev,1199,What is X trying to do?,['B'],Scare the other person,Catch the frisbee,Stretch before exercising,Get a person's attention,vcr,000000442836.jpg
+662,vcr_1204_dev,1204,What is X going to do next ?,['D'],Looking down to get something ,Attempt to cover his true identity from the people in front.,Attempt to jump over and land succesfully,Taking steps down the stare,vcr,000000361551.jpg
+663,vcr_1214_dev,1214,Why is X in that position?,['D'],They are exercising,They are performing a dance,They have back problems,They are standing up from the chair,vcr,000000008211.jpg
+664,vcr_1227_dev,1227,What is X waiting for?,['C'],His friend,His sibling,A haircut,His parent,vcr,000000297562.jpg
+665,vcr_1241_dev,1241,why is the officer standing,['D'],because the officer is watching over the bicycles ,because the officer wants to stand,because the officer is waiting for someone,because the officer is looking at the bicycle ,vcr,000000570834.jpg
+666,vcr_125_dev,125,What is this man preparing for?,['C'],He is preparing to go to work,He is preparing for a job interview,He is preparing to go on a date,He is preparing for a formal event,vcr,000000229358.jpg
+667,vcr_1265_dev,1265,What has X been doing?,['C'],Testing their oven.,Cooking for lots of people.,Baking bread.,Getting ready for a mealtime.,vcr,000000017899.jpg
+668,vcr_1297_dev,1297,What is X doing with the remote control?,['C'],Pressing on it.,Happy to have it.,Showing off his remote control.,Demonstrating how to use it.,vcr,000000229111.jpg
+669,vcr_1530_dev,1530,Why is X sitting at the table?,['B'],To rest briefly,To have a meal with friends,To wait for a taxi,To have a nap,vcr,000000067616.jpg
+670,vcr_1623_dev,1623,What is X next line of action?,['C'],Throw the skate board away,Take off his pair of shoes.,Waiting to start his skate.,Waiting to copy his friend.,vcr,000000438907.jpg
+671,vcr_165_dev,165,where is X going,['A'],leaving the room ,walking backwards into the room,going to close the door,going to talk to the girl,vcr,000000123633.jpg
+672,vcr_186_dev,186,What is X sitting in the river?,['D'],To fetch water with the yellow bowl.,To wait for the lady.,To cool his body's temperature.,To brush his teeth.,vcr,000000372349.jpg
+673,vcr_1987_dev,1987,Why is the woman here?,['C'],She is there to chaperone the children,She is supervising the event,She is the teacher for the class,She works for the One Laptop per child Company,vcr,000000433103.jpg
+674,vcr_1995_dev,1995,Where is X going?,['A'],Following her friend,To speak to the men on the right,To go adjust the flags,To the trash can,vcr,000000294695.jpg
+675,vcr_19_dev,19,What is X participation in the field?,['B'],To bring back lost balls ,A substitutes player waiting to replace a team mate incase of an injury.,Learning how his teammate play,Watching others play,vcr,000000160864.jpg
+676,vcr_2013_dev,2013,What impression does X face give,['C'],He is crying,He is  disgusted at a comment someone said in the group,He is laughing,He is talking,vcr,000000498747.jpg
+677,vcr_2252_dev,2252,What is x trying to achieve?,['D'],Knocking someone down,Catching the ball,Being the fastest,Catching another player out,vcr,000000427160.jpg
+678,vcr_2361_dev,2361,Where has this man come from?,['A'],He has come from the campsite where he and his friend are staying,He has come from the car,He has come from home,He has come from visiting a friend,vcr,000000424642.jpg
+679,vcr_2468_dev,2468,What is X going to do next?,['C'],Strike the horse to move faster,Take off her helmet,Smile and pose for the camera,Climb down from the horse,vcr,000000396863.jpg
+680,vcr_2596_dev,2596,Why is X holding a plate?,['A'],Asking for a meal in front of her.,As a form of calling for attention,Playing with the plate.,Break the plate in smaller piece.,vcr,000000578871.jpg
+681,vcr_2728_dev,2728,What is X speaking about?,['A'],Speaking on how to think for a new partnership.,Move on to the next slide show.,Give a closing remarks and end the forum.,Ask questions from the audience.,vcr,000000313454.jpg
+682,vcr_2739_dev,2739,What has X been doing?,['C'],Making something to bake.,Talking to someone behind the camera.,Posing for a baking themed photo-shoot.,Procrastinating to avoid baking something.,vcr,000000481386.jpg
+683,vcr_27_dev,27,Why is X facing that direction in the water?,['B'],Swimming to where is safe and comfortable,To move out of the way of the surfers.,Swimming towards the shore,Swimming away from the wave.,vcr,000000295316.jpg
+684,vcr_2865_dev,2865,Why is X looking down at his phone,['C'],he is turning his phone off,ending a call on his phone,reading a message on his phone,Sat playing on his phone,vcr,000000442456.jpg
+685,vcr_2917_dev,2917,What does X hope to achieve ?,['B'],X is taking perfect picture of skaters.,X is trying to capture the moment with a camera.,X hopes he would skate someday,X is watching skating,vcr,000000572620.jpg
+686,vcr_309_dev,309,waht is the man doing,['C'],he is trying to calm down the animal,he is touching the animal,he is trying to feed the animal,he is playing with the animal,vcr,000000180011.jpg
+687,vcr_3441_dev,3441,Why is this man sitting here?,['B'],He is escaping the hot sun,He is selling bowls and plates,He is getting out of the way of the birds and animals,He works by the temple,vcr,000000060823.jpg
+688,vcr_3508_dev,3508,What is X doing?,['C'],Enjoying the outdoors.,Applying physical effort.,Skiing downhill.,Skiing with a friend.,vcr,000000414170.jpg
+689,vcr_3576_dev,3576,Why is X on a bike,['D'],cycling to the shops,cycling home,going on a leisure ride,on a group bike trip,vcr,000000492077.jpg
+690,vcr_3678_dev,3678,Why is this man here?,['D'],He owns the stall and sells food,He works alongside the stall owner,It is a family-run business and they all work there.,He is the chef who cooks the food,vcr,000000163640.jpg
+691,vcr_375_dev,375,Why is this person here?,['C'],He is in the frisbee team.,He is here to get some exercise,He is here to enjoy sport with some friends,He was in the park and just came along to play,vcr,000000521819.jpg
+692,vcr_3902_dev,3902,Why is x looking down,['D'],She is sat playing on her mobile phone,she is not listening or interacting with the group,She is looking at what she is eating,She is unwrapping some food item,vcr,000000145597.jpg
+693,vcr_4000_dev,4000,Why is X touching the RAM?,['C'],X is trying to keep the animal calm,X might have liked the animal,X hopes to pet the animal.,X might be inspecting the animal for purchase.,vcr,000000559956.jpg
+694,vcr_4134_dev,4134,What will the child do next?,['A'],Hit and run to the next base,Be run out,Hit a home run,Be caught,vcr,000000414673.jpg
+695,vcr_432_dev,432,Why is X standing in the server stand of a restaurant .?,['C'],To keep her engaged by talking to others,To buy something for herself,Attend to customer needs.,To get some snacks to eat.,vcr,000000450399.jpg
+696,vcr_4525_dev,4525,Where is X going next?,['D'],Down the street away from camera ,In front of the bus across the road,Back in the bus stop,Onto the bus,vcr,000000052007.jpg
+697,vcr_4853_dev,4853,Why is this child looking unhappy?,['D'],He is waiting for his parents,His parents have just told him off.,He is bored and doesn't want to be there,He is seeing the other child eat the pizza,vcr,000000201426.jpg
+698,vcr_623_dev,623,Why is x posing with a raised tennis racket?,['D'],because she wants to play sports,to laugh off a situation with her friend,To celebrate winning a tennis match,to be dramatic in the photo for humorous reasons,vcr,000000033221.jpg
+699,vcr_655_dev,655,why is x covering her face?,['C'],she is rubbing her eyes because she is tired,she has become bored of food preparation,to protect her eyes from food being thrown into them,x is frustrated by the other childs actions,vcr,000000146457.jpg
+700,vcr_686_dev,686,why is x sat on the bench?,['D'],to have a relaxing catch up with a friend,to have a rest,to listen to her friend,to watch her dogs playing,vcr,000000372819.jpg
+701,vcr_72_dev,72,why is x running,['C'],Because he wants to score a goal in the game,Because he wants to compete with the other sportsman,because he wants to win,because he wants to be active in the game,vcr,000000567640.jpg
+702,vcr_864_dev,864,What is the next action of X as Right-Side Hitter.?,['D'],Spread her body to accommodate the ball  ,To gain a point for the team.,Jump when a ball is in the other half of the field.,Position properly and create an opportunity for effective attack when the ball is lunched.,vcr,000000049759.jpg
+703,vcr_888_dev,888,Why is X looking at their phone?,['D'],To read historical facts,To learn a new dance,To learn a new recipe,To pass time during commute,vcr,000000380913.jpg
+704,vcr_101_dev,101,What does X want to achieve?,['A'],clean the motor bike,go for a walk,eat an ice cream,take a photo,vcr,000000177934.jpg
+705,vcr_1446_dev,1446,What will X do next?,['D'], talk to the guests,look around,dance,take a photo,vcr,000000259597.jpg
+706,vcr_1493_dev,1493,Why is X smiling?,['C'],Because she is remembering a happy memory,Because she is cooking with her little sister,Because she is posing for the photo,Because she is happy,vcr,000000512929.jpg
+707,vcr_1704_dev,1704,Why is X waiting there?,['C'],"He is standing there trying to work out what to say when he meets the person he's waiting for.
+
+",To enjoy the sunshine and absorb vitamin D.,To cross the road.,He is standing there pondering life.,vcr,000000184611.jpg
+708,vcr_1753_dev,1753,Why is X doing something?,['B'],leave the table,to enjoy a pizza,talk to a friend ,drink a drink,vcr,000000080932.jpg
+709,vcr_2096_dev,2096,Why does X have her arms crossed?,['D'],because she is stretching her arms,Because she is shivering ,Because she is tense and cold,Because she's laughing and showing bodily expression,vcr,000000437239.jpg
+710,vcr_2287_dev,2287,Why is X laughing?,['C'],She is crying in pain,Because she just remembered something funny that happened last week,Because someone near her made a funny joke,because she's reminiscing a funny surfing memory,vcr,000000416343.jpg
+711,vcr_2532_dev,2532,Why is X running?,['C'],He is running because there is bull next to him and hes in danger,he is running to practice fitness and improve health,X is running because he is playing football on the beach,He isn't running he's walking,vcr,000000105264.jpg
+712,vcr_2581_dev,2581,what does X want to achieve,['C'],start singing,Plug in the device,dance,tell a joke,vcr,000000234607.jpg
+713,vcr_2679_dev,2679,What will X probably do next?,['D'],chat to their friends,Feed the cat,walk away,stroke the cat,vcr,000000176857.jpg
+714,vcr_315_dev,315,Why is X doing something?,['B'],he enjoys it,its his job,his family asked him to do it,he has nothing better to do,vcr,000000002006.jpg
+715,vcr_3188_dev,3188,Why is X looking at the camera?,['A'],Because she is posing for a photo at dinner.,Because she was not ready for the photo to be taken.,Because her parents are forcing her to take a photo at dinner.,Because she wants a photo of the meal she enjoyed,vcr,000000025603.jpg
+716,vcr_3428_dev,3428,Why is X looking over like that?,['B'],Because she is posing for a photo,Because something has caugh her attention,Because she is concerned with something going on to her right.,Because she is not present in the moment and is distracted by something else,vcr,000000484978.jpg
+717,vcr_4049_dev,4049,Why is X doing something?,['D'],She is looking for her keys in the compartment,She is stretching her back by leaning over,She is inspecting her new moped,She is loading up the storage part of her moped. ,vcr,000000146667.jpg
+718,vcr_1417_dev,1417,Why is X holding the cow,['C'],To take it to the milking parlour,To stop the cow running away,Because the cow is being shown at a fair,Because the cow needs to go home,vcr,000000399764.jpg
+719,vcr_1603_dev,1603,What is happening to X,['A'],X is having their hair dried,X is talking to her friend,X is watching a TV show,X is having a hearing test,vcr,000000569976.jpg
+720,vcr_1866_dev,1866,What is X doing,['A'],She is paddling a boat,She is fishing,She is transporting produce to market,She is modelling a hat,vcr,000000116439.jpg
+721,vcr_1991_dev,1991,What is X going to do next,['A'],Swing at a softball toss,Swat a fly,Hammer a nail,Stand as still as possible,vcr,000000158227.jpg
+722,vcr_2269_dev,2269,What is X doing in this room,['C'],Listening to music,Playing a group role playing game,Studying,Writing a novel,vcr,000000450303.jpg
+723,vcr_2460_dev,2460,Why is X wearing the sun visor,['D'],Because she is going to play golf,As a fashion statement,Because she is holding the visor for a friend,To shade her eyes from the sun,vcr,000000262048.jpg
+724,vcr_2775_dev,2775,Why is X walking beside the man,['A'],Because they are having a conversation,Because he is a celebrity,Because he has kidnapped her,Because their clothes match,vcr,000000549930.jpg
+725,vcr_3012_dev,3012,Why is X standing like that,['A'],Because he is controlling a kite,Because he is signalling to a friend,Because he likes dancing,Because he has wet armpits,vcr,000000007511.jpg
+726,vcr_3349_dev,3349,What is X doing on the train,['B'],He is bending the corners of the laptop,He is watching something on his laptop,He is closing the laptop,He is using the laptop screen as a mirror,vcr,000000014226.jpg
+727,vcr_4536_dev,4536,What is X doing,['D'],Watering the garden,Talking about the crowd,Plugging in electrical equipment,Doing a demonstration of milking a cow,vcr,000000114907.jpg
+728,vcr_56_dev,56,What is X going to do next,['D'],Fly a kite,Do a somersault,Dive into the sea,Walk across the beach,vcr,000000334719.jpg
+729,vcr_607_dev,607,What is X trying to do,['D'],Jump as high as he can,Point at the frisbee,Flatten the crop,Catch the frisbee,vcr,000000259097.jpg
+730,vcr_976_dev,976,What is X doing,['C'],He is watching the birds fighting,He is throwing stones at birds,He is feeding the birds,He is trying to scare the birds away,vcr,000000511076.jpg
+731,trick_345,345,"What is the man, who is the focus of the photo resting his head on?",['C'],The woman behind him,Chicken wings,A cardboard pizza box,A computer,trick,000000292446.jpg
+732,trick_1317,1317,What is the woman sitting on?,['B'],On top of a notepad,The ground,A tiled floor,On her wallet,trick,000000547336.jpg
+733,trick_3989,3989,What is on top of the stove?,['B'],A pot without a handle and a pineapple pizza,A pot with a black handle and pepperoni pizza wrapping, A pizza,A yellow pot with wrapping that has a tombstone on the front,trick,000000192191.jpg
+734,trick_4468,4468,What are the two male individuals holding?,['B'],A bottle,A remote control,A rug,A stainless steel sink,trick,000000091500.jpg
+735,trick_2053,2053,What is in front of the glass cups on the table?,['D'],The table,Salt,Pepper,Food,trick,000000231822.jpg
+736,trick_2463,2463,What are the adults in the forefront of the picture doing?,['B'],pushing their trollies,Holding their dog next to them,Talking to one another,Playing with their children,trick,000000479155.jpg
+737,trick_2282,2282,How are each of the three people holding their phones?,['D'],In only their right hand,In only their left hand,there are no phones in the image,"while resting on their laps, they are being held in both hands",trick,000000326970.jpg
+738,trick_1135,1135,What is the laptop resting on top of?,['B'],The printer,A desk,Paper,A glass,trick,000000063602.jpg
+739,trick_3652,3652,What is the dump truck sitting on top of?,['B'],on top of the spatula ,On a table,on top of the mixing bowl,On the floor,trick,000000095707.jpg
+740,trick_1780,1780,does the barn have a visible hayloft,['C'],yes there is one,there are two,not visible,yes,trick,000000395388.jpg
+741,trick_1020,1020,what does the blue sign on the left of the picture say,['C'],handicapped parking,directions,it's too small,parking information,trick,000000057149.jpg
+742,trick_3831,3831,are the cans above or below the bottles,['D'],cans are above,there are no cans,cans are not in sight,underneath the bottles,trick,000000340697.jpg
+743,trick_4307,4307,do the trees have leaves or are they bare,['C'],there are no leaves,only bare branches,there are green leaves on the trees,bare,trick,000000277005.jpg
+744,trick_4280,4280,how many stuffed toys are sat on the shelf,['C'],five,five teddies,four of them,six,trick,000000125062.jpg
+745,trick_1312,1312,how many people can be seen in the picture,['C'],several people,two people,one person,three people,trick,000000160556.jpg
+746,trick_1241,1241,how are the bikes parked - in racks or in another way,['C'],in racks,parked in racks,leaning in heaps,arranged in racks,trick,000000570834.jpg
+747,trick_1828,1828,what is the twitter address given on the green truck,['B'],green zone,@greentruck,kogi,twitter,trick,000000153011.jpg
+748,trick_3403,3403,what clothes is the person wearing in this picture,['D'],we can see the clothes,outdoor clothes,blue jeans,we can't see the person or their clothes,trick,000000500477.jpg
+749,trick_3825,3825,What is the tennis player holding?,['A'],A tennis racquet in his right hand ,tennis balls in his left hand ,a tennis racquet in his left hand,nothing in his right hand,trick,000000326248.jpg
+750,trick_1097,1097,What is the coach wearing?,['B'],red hat ,black shorts ,green shorts ,blue shorts,trick,000000177065.jpg
+751,trick_3724,3724,What sport is being played?,['D'],Squash ,Football,Volleyball ,Tennis,trick,000000551820.jpg
+752,trick_3902,3902,What is in the background of this picture?,['B'],bushes,a hole in the ground ,trees,children,trick,000000145597.jpg
+753,trick_28,28,who is the player arguing with,['D'],a fan,a man in black shorts with the number four,his team mate,an opponent,trick,000000162732.jpg
+754,trick_3774,3774,What is blocking the view from outside?,['B'],Man,Woman,Blind,Table,trick,000000244750.jpg
+755,trick_1809,1809,What is is the background?,['A'],Wooded area,Petrol Station,Mosque,Buildings,trick,000000117492.jpg
+756,trick_3247,3247,What is the person in the bottom right of the image wearing?,['A'],Shirt,dress,pajamas,tee shirt,trick,000000089648.jpg
+757,trick_654,654,What is the person in blue doing?,['A'],Standing,Buying,Interacting,At a table,trick,000000378515.jpg
+758,trick_4,4,What color is the shirt of the person riding the skateboard,['B'],yellow,aquamarine,pink,orange,trick,000000568981.jpg
+759,trick_746,746,,['C'],3D  ,"virtual reality,",reading,no glasses,trick,000000416451.jpg
+760,trick_3451,3451,How many cars are visible?,['B'],There is a yellow car which resembles a taxi,Three parked cars and one moving car,There are no cars,Six cars,trick,000000142472.jpg
+761,trick_3327,3327,What video game are they playing?,['C'],It's not clear what they're playing,They're playing Xbox,They're playing Wii sports,They're playing golf,trick,000000257370.jpg
+762,trick_1735,1735,What brand is visible in the image?,['C'],There's no visible brand,Apple,Coca Cola is shown on the bench and advertising board,McDonalds,trick,000000453584.jpg
+763,trick_2634,2634,What are the bears holding?,['C'],The middle bear is holding a cup,The right bear is holding a basket,The middle bear is holding a can,A basket and cup,trick,000000211120.jpg
+764,trick_336,336,Who is visible in the image?,['A'],Chefs with various roles,Bartenders,Several waiters and waitresses,Waitresses,trick,000000066231.jpg
+765,trick_373,373,What words are visible in the image?,['B'],Tienda,Random,Home decor,Gifts,trick,000000424975.jpg
+766,trick_206,206,What is on the table beside the woman?,['D'],Gloves,Cardboard boxes,A pair of gloves,A large amount of carrots,trick,000000313562.jpg
+767,trick_3634,3634,How is the tennis player wearing her hair?,['A'],In a round bun,In a bob,In a ponytail,In curls,trick,000000229849.jpg
+768,trick_3671,3671,What is the elephant doing with its trunk?,['A'],Reaching to something out of picture,Touching the floor,Wrapping it round a wooden pole,Letting it hang,trick,000000356125.jpg
+769,trick_3804,3804,What color is the toilet seat?,['D'],Gold,Blue,Rose,White,trick,000000551304.jpg
+770,trick_2473,2473,Who is holding the parasol?,['B'],The bride is holding it in her left hand,The groom,The bride,Both the bride and groom ,trick,000000476514.jpg
+771,trick_1538,1538,What is on the canal front?,['B'],human,Cars,bush,Bird,trick,000000228436.jpg
+772,trick_3269,3269,What colours are visible in this image?,['A'],Pink,Green,Purple,Blue,trick,000000437392.jpg
+773,trick_666,666,What can you see in this image?,['C'],Chair,Till,Pastries,Table,trick,000000526197.jpg
+774,trick_2859,2859,What fruits do you see in this photo?,['B'],Grapes,Banana,Mango,Strawberries,trick,000000069356.jpg
+775,trick_2406,2406,What can you see in this image?,['B'],Fridge,Tiles,Oven Gloves,Human,trick,000000410487.jpg
+776,trick_2271,2271,What can you see in this image?,['C'],Wires,Console,Window,Television,trick,000000556000.jpg
+777,trick_2005,2005,What objects are in the room?,['C'],Radiator,Photos,Sofa,Flowers,trick,000000115870.jpg
+778,trick_3866,3866,What objects can you see in this image?,['C'],Batter,Oil,Doughnuts,Chef Hat,trick,000000535523.jpg
+779,trick_2344,2344,What fruits can you see?,['C'],Mango,Lime,Banana,Lemon,trick,000000331799.jpg
+780,trick_3518,3518,What colours are on the uniform?,['A'],Navy blue,Red,Orange,Yellow,trick,000000434459.jpg
+781,trick_1661,1661,What can you see on the desk?,['C'],Paper,Plant,wires,Fan,trick,000000367095.jpg
+782,trick_2998,2998,How many cars collided with the traffic light pole,['B'],17,The one with a person standing near by,None of the cars,The black SUV on the left,trick,000000292997.jpg
+783,trick_3522,3522,How many windows are shown in the picture,['D'],Thirty two,Three,One,Two and they are white,trick,000000471893.jpg
+784,trick_3324,3324,Is the woman using a pizza cutter,['A'],"No, there is no pizza cutter in the picture","Yes, she is showing the man how to use it","Yes, she has cut the pizza into two peices",Yes,trick,000000287347.jpg
+785,trick_3393,3393,Is there a large tree next to the picnic table,['B'],No,"Yes, it is on the left",There is no tree in the picture,"No, all the trees are in the background",trick,000000266768.jpg
+786,trick_1461,1461,Are there lots of boats out of the water,['D'],There are no boats in the picture,Yes,They are in between the cars,"No, they are all in the water",trick,000000463849.jpg
+787,trick_2577,2577,How many people are cutting the cake,['A'],Two,Nobody is cutting the cake,One….a woman in a dress,There is no cake in the picture,trick,000000276434.jpg
+788,trick_3187,3187,Does the cabinet have blue doors,['A'],The open shelves are blue with no doors,"No, they are black","No, they are red","Yes, they are blue",trick,000000021465.jpg
+789,trick_3368,3368,What is the doll wearing on her feet,['A'],It is not clear from the picture,A shoe bag,A white toel,Black Leather shoes,trick,000000180296.jpg
+790,trick_1554,1554,How many people are flying the kite,['A'],Two,10,There is no kite in the picture,100,trick,000000014439.jpg
+791,trick_2439,2439,Is the bull in front of the man on the horse with his arm raised,['B'],No horse is in the picture,The man on the horse is riding away from the bull,There is no bull in the picture,The bull is in front of the horse,trick,000000377486.jpg
+792,trick_3176,3176,What is the women wearing?,['A'],A white blouse,A frown,A raincoat,A hat,trick,000000106757.jpg
+793,trick_3078,3078,What is the man wearing?,['C'],A raincoat,He is naked,A dark suite with dinosaurs on it,A helmet,trick,000000336628.jpg
+794,trick_3735,3735,What is on the kitchen counter,['A'],A food processor,A small child,The dog's food bowl,A bag of groceries,trick,000000329219.jpg
+795,trick_3656,3656,From what angle are we looking at the skateboarder?,['D'],From his right side,From behind,From above,Straight onto the oncoming skateboarder,trick,000000476119.jpg
+796,trick_2706,2706,How would you describe the rooms decoration?,['C'],Red walls,Decorated with balloons,The walls are not decorated for a party,Decorated with streamers,trick,000000122962.jpg
+797,trick_3079,3079,What facial hair does the man have?,['A'],"None, he is clean shaven",He has designer stubble,He has a moustache,He has a full face of facial hair,trick,000000064868.jpg
+798,trick_3505,3505,What does the rug look like,['D'],It is circular,It is very thick and fluffy,It is black,It is not circular,trick,000000290771.jpg
+799,trick_1323,1323,What food can you see,['C'],French Toast,Eggs,Croissants,Bacon,trick,000000470773.jpg
+800,trick_1480,1480,What is the horse walking on?,['B'],The grass,A small seesaw like plank,Water,The road,trick,000000454798.jpg
+801,trick_1336,1336,What does the sky look like?,['A'],It is mostly blue,It is dark and looking like rain,There are no clouds around,It is clear,trick,000000441586.jpg
+802,trick_3995,3995,Where is the person in the purple top walking?,['C'],Passed the tomatoes,Through the empty street,In the direction of the camera,Away from the camera,trick,000000136633.jpg
+803,trick_181,181,Is there a mop in the picture?,['D'],"Yes, it is green.","Yes, there is a green mop.","Yes, a green mop is visible.",You can not see a mop in the picture.,trick,000000408696.jpg
+804,trick_1845,1845,On what side of the image is the real cat placed?,['A'],The real cat is on the left side of the image.,You can see the real cat on the right side of the image.,Right side.,The real cat is on the right hand side of the image.,trick,000000131131.jpg
+805,trick_1455,1455,How many cats are visible in the image?,['A'],There are two cats in the picture.,You can clearly see one black and white cat in the picture.,There is one cat in the picture.,One black and white cat is visible.,trick,000000333772.jpg
+806,trick_2378,2378,What word is written on the back of the man's blue jacket in the background?,['B'],The word Fresh is emblazoned on the back of the man's blue jacket.,FedEx is printed on the back of the man's jacket in the background.,You can see the word Fresh on the back of the man's jacket.,The man's jacket has the word Fresh written on the back of it.,trick,000000388903.jpg
+807,trick_271,271,What colour is the car roof rack?,['B'],It is black.,You can see that the car roof rack is grey.,The roof rack on the car is coloured black.,It is black in colour.,trick,000000312278.jpg
+808,trick_3863,3863,What is the brand name on the kiteboard?,['B'],The logo and brand name is Cabrinha.,It's not easy to see what the logo or the brand name on the kiteboard is.,You can see the brand name Cabrinha clearly on the kite board.,The brand name reads Cabrinha on the kite board.,trick,000000312489.jpg
+809,trick_1450,1450,Which fist does the man have raised towards the giraffe?,['D'],He is raising his right hand towards the giraffe.,The man is clenching his right fist towards the giraffe statue.,The man has his right hand raised in a clenched fist.,The man is using his left hand to playfully punch out at the giraffe statue.,trick,000000130599.jpg
+810,trick_23,23,Are there any words written on the parking meter?,['A'],There is some graffiti on the parking meter but it is very difficult to decipher exactly what it says.,The words '15 minutes per nickel' are visible on the parking meter.,"Yes, the words '60 minutes per quarter' are printed on the parking meter.","Yes, you can see the words '60 minutes per quarter'.",trick,000000328683.jpg
+811,trick_3162,3162,Are all the riders wearing helmets?,['B'],"Yes, you can see all of the riders are wearing helmets.",Nobody in the image appears to be wearing a helmet.,"Yes, the riders are wearing helmets for their own safety.",It appears that all the riders are wearing helmets.,trick,000000226417.jpg
+812,trick_1096,1096,What is holding up the mirror to the cats face?,['A'],It appears to be a free standing mirror.,A hand is holding the mirror up towards the cat.,The cats owner is holding the mirror up for the cat.,A human's hand is holding the mirror up for the cat.,trick,000000411665.jpg
+813,trick_1822,1822,How many candles are on the round chocolate cake?,['C'],You can see four candles lit up on the round chocolate cake.,There are four candles visible on the round chocolate cake.,"It is hard to tell exactly, but there are definitely more than four.",Four lit candles are visible on the round chocolate cake.,trick,000000405249.jpg
+814,trick_2392,2392,What are the children sat on?,['B'],The grass,Concrete, The rock wall,A tree,trick,000000303893.jpg
+815,trick_3542,3542,What are the donuts celebrating?,['C'],Halloween,Summertime,Christmas,Spring,trick,000000459662.jpg
+816,trick_3622,3622,What is the man sitting on?,['B'],The Table,Plastic seat,The Floor,A Tree,trick,000000180487.jpg
+817,trick_3690,3690,What shape is the display?,['C'],Rectangle,Straight,A semi circle,Square,trick,000000279887.jpg
+818,trick_400,400,What is the laptop resting on?,['C'],A Wooden Table,The Window Sill,The table next to the chairs,A Chair,trick,000000174231.jpg
+819,trick_3282,3282,Which ear is she holding her phone to?,['C'],Her right ear,Both ears,Her left ear,The ear opposite her left ear,trick,000000564091.jpg
+820,trick_1510,1510,What are the horses looking at?,['D'],A River,The Queen,A Muddy Path,Each other,trick,000000303499.jpg
+821,trick_3864,3864,Has the bus broken down?,['D'],The engine has failed,No,It has all its wheels,Its back wheel has fallen off,trick,000000017207.jpg
+822,trick_3719,3719,What is the participant holding?,['C'],A wii golf club extension,A golf club,A piece of plastic,An extension,trick,000000357978.jpg
+823,trick_840,840,What is in the background?,['A'],Trees,People,Animals,Cars,trick,000000235399.jpg
+824,trick_2855,2855,What is the price of the white toilet,['B'],Unknown,50,25,25 Dollars,trick,000000482100.jpg
+825,trick_3291,3291,Who are the attendees listening/interacting with,['A'],Employee,The woman,Nobody,The man in the white suit,trick,000000002685.jpg
+826,trick_1866,1866,What colour is her shirt,['D'],Colourful,Vibrant,Multi-Coloured,Dark Brown,trick,000000116439.jpg
+827,trick_1113,1113,What animal head is on the flashlight,['D'],A lifelike animal,A red animal,A bear,Potentially a deer,trick,000000163951.jpg
+828,trick_3533,3533,What can you see in the background?,['B'],lights,coat,man,cheese,trick,000000290163.jpg
+829,trick_3738,3738,What is on top of the fridge?,['B'],shelf,bottle,tiles,plate,trick,000000084241.jpg
+830,trick_1028,1028,What can you see in the background behind the carriage,['C'],Horse,Road,Windows,Stirrup,trick,000000265816.jpg
+831,trick_3047,3047,What can you see in the background,['C'],car park,animals,shops,cars,trick,000000024243.jpg
+832,trick_434,434,What is the customer service operator in the background wearing,['D'],jumper,hood,glasses,pink t-shirt,trick,000000034417.jpg
+833,trick_159,159,What can you see in the far background,['B'],animals,forest,horses,waves,trick,000000121031.jpg
+834,trick_3770,3770,What can you see on the sidewalk,['D'],bus,cyclists,light,signage,trick,000000380706.jpg
+835,trick_524,524,what can you see in the background behind the man,['B'],bicycle,train,benches,seating,trick,000000076547.jpg
+836,trick_423,423,What can you see on the nearest house,['A'],windows,lighting,car,road,trick,000000009769.jpg
+837,trick_710,710,What things are people carrying?,['D'],flag,suitcase,wine bottle,handbag,trick,000000288584.jpg
+838,trick_1860,1860,What can you see at the front of the house,['A'],Windows,Lamp,burgular alarm,Chimney,trick,000000261796.jpg
+839,trick_2700,2700,Can you describe the image and what they are looking at? ,['C'],The room appears to be the football stadium. ,There are 24 people sitting around the table.,Seven of them are sitting around the table. While the last person standing behind them.,Additional ten people standing behind the 24 people. ,trick,000000306139.jpg
+840,trick_1077,1077,What type of animal can see in the image?,['C'],A white and black bird in a glass window.,An animal called cos sitting on a red cushioned chair.,A breed of dog that is always temperamental. ,Animal that lives in the water.,trick,000000355240.jpg
+841,trick_444,444,How many clock can you see on the wall and what other item can you see in the image?,['A'],There is an individual wear blue colour clothing in front of the building.,There are 12 clocks mounted on the building.,There are people fighting in front of the building.,People are walking around in swimming suits from what I can see in the image.,trick,000000156292.jpg
+842,trick_2614,2614,What can you see in the image?,['A'],The bride and groom standing beg=hind the cake.,What looks like a funeral.,A dancing competition.,Students in a classroom receiving lectures.,trick,000000363207.jpg
+843,trick_3718,3718,What item can you see in the picture?,['A'],A wall clock surrounded with iron rod.,Microwave ,A bus and a car,A mouse and a cat,trick,000000036494.jpg
+844,trick_1662,1662,Can you see anybody in the image?,['C'],I can see ten people in the image.,Five female sitting on each other.,"Yes, I can see four individual in the image.",The place appear to be a football stadium. ,trick,000000356248.jpg
+845,trick_365,365,Tell me what you can see in the image you are looking at.,['D'],There are five dogs in the image.,The floor is dry as it is sunny day.,Some people are wearing red and pink clothing.,People are also walking around with umbrellas. ,trick,000000253742.jpg
+846,trick_2556,2556,Where are these people standing?,['C'],In front of the dog,Outside the house.,Beside the Christmas tree.,In the park,trick,000000554579.jpg
+847,trick_2670,2670,Where is the phone?,['B'],Under the bed.,On the bed.,Inside the shoe.,In the living room.,trick,000000222299.jpg
+848,trick_937,937,What is the animal in the picture?,['D'],Animal with three horns.,Goat,Animal with wings,An elephant,trick,000000415748.jpg
+849,trick_1704,1704,how are the men riding the bikes?,['C'],Both men are riding the bikes,One man is standing on his bike seat,One man is riding his bike ,Both men are walking ,trick,000000184611.jpg
+850,trick_1136,1136,Does the frying station look to be working,['A'],"Yes, the donuts look to be hot",No the donuts stay the same colour,"No, the machine looks broken","No, the donuts do not look crispy",trick,000000254016.jpg
+851,trick_1863,1863,Does the room look desolate? ,['C'],The room looks well looked after,"No, the room looks full of life","Yes, the room looks dusty",The room looks colourful ,trick,000000190648.jpg
+852,trick_3179,3179,Does the street look busy,['A'],"Yes, the street is full of cars","No, no buildings are in the background ","No, no cars seem to show","No, no one is on the road",trick,000000135410.jpg
+853,trick_3354,3354,Are people testing the games?,['C'],"No, no one is in the store","no, no one are playing the games","Yes, the store looks busy","No, one are is currently playing a game",trick,000000411817.jpg
+854,trick_3242,3242,The advert draws your attention,['D'],"No, as it is not bright enough","No, as it is not on a busy road","No, as it is not large enough","Yes, the large building attracts ` eye",trick,000000191013.jpg
+855,trick_269,269,is the tennis player serving? ,['A'],Looking at his position the player looks to be serving ,"No, the player is currently returning the ball","No, the player is not hitting the ball","No, the player is currently resting",trick,000000098853.jpg
+856,trick_61,61,The oranges look fresh,['B'],"No, the oranges are no longer orange","Yes, the oranges looks juicy",No the oranges look infected,"No, the oranges look dull",trick,000000366711.jpg
+857,trick_1364,1364,Does the garden look full of life? ,['A'],"Yes, the garden is very colourful ","No, the plants are not green","No, there are no plants in the garden","No, the plants look very dry",trick,000000428280.jpg
+858,trick_1178,1178,Both kids are in the bath,['D'],Both kids are standing in the bath,Both kids are getting out the bath,Both kids are sitting in the bath ,Both kids are in seats,trick,000000508730.jpg
+859,trick_135,135,What colour is the top part of the pointed nose cone at the front of the aircraft?,['B'],Light grey,Dark blue,Green,Bare metal,trick,000000139871.jpg
+860,trick_554,554,Where is the photo credit written? ,['C'],On the left,At the top,Below the image,In the middle,trick,000000255483.jpg
+861,trick_1,1,"What is in the garden of the house at the front, next to the white pick up truck?",['B'],People,The American flag,A tree,Children playing,trick,000000335177.jpg
+862,trick_1511,1511,Where in the image is the silver car?,['C'],Next to the building,Next to the red car,Next to the flowers,On the right,trick,000000372260.jpg
+863,trick_897,897,What colour is the grind box?,['D'],yellow,white,Brightly coloured,Mostly red with blue on top,trick,000000258388.jpg
+864,trick_3784,3784,Do all three people have an umbrella?,['A'],The person on the left in the blue tshirt doesn't have an umbrella.,Yes,Everyone has an umbrella,All 3 have an umbrella,trick,000000177861.jpg
+865,trick_3482,3482,What is the young child in the shopping trolley holding?,['B'],A toy fruit,A small umbrella,A teddy,A toy phone,trick,000000443969.jpg
+866,trick_3504,3504,What colour is the mudguard on the tractor (above the wheels)?,['D'],Orange,Blue,Pink,Green,trick,000000137576.jpg
+867,trick_2263,2263,what is around the cats neck,['C'],white collar,no collar,dark blue with gold accents collar,red collar,trick,000000014007.jpg
+868,trick_1917,1917,where is the smiley face baloon,['B'],on the refrifgerator,next to the wall on the left,on the couch,in the bedroom,trick,000000014038.jpg
+869,trick_2865,2865,what trousers is the man wearing ,['A'],full length black trousers,jean shorts ,white jeans,cropped shorts,trick,000000442456.jpg
+870,trick_3999,3999,what is toy wearing on his head ,['D'],a yellow mask,a white helmet,a mask,glasses on his eyes,trick,000000309484.jpg
+871,trick_1633,1633,what is the cat touching with its left paw,['D'],the table,a flip phone,the wire,butterfly knife,trick,000000116825.jpg
+872,trick_729,729,what is food is wrapped with the black ziptie,['D'],beef,chicken,fish,vegetarian food,trick,000000125245.jpg
+873,trick_3741,3741,what is the cat wearing,['C'],cat mask,lion mask,elephant mask,no mask,trick,000000545826.jpg
+874,trick_3581,3581,how many women in the kitchen ,['A'],four women,five women,two women,6 women,trick,000000397354.jpg
+875,trick_1847,1847,which area is the train in,['D'],busy city,in a populated village,on a bridge,in the countryside,trick,000000519338.jpg
+876,trick_2253,2253,What is the balloon attached to?,['C'],The flipflop,The umbrella,The orange bag,The suitcase,trick,000000265108.jpg
+877,trick_3701,3701,What is on the table?,['A'],Yellow flower,A stuffed toy,Blue fabric,A mattress,trick,000000020553.jpg
+878,trick_3757,3757,What fruit is in the fruit bowl in picture 1?,['A'],Banana,Plum,Orange,Kiwi,trick,000000193926.jpg
+879,trick_3409,3409,Where is the man looking?,['A'],Straight ahead,Behind him,To the side,At the ground,trick,000000319369.jpg
+880,trick_3661,3661,Who else can be seen in the image?,['B'],A female child,Man with red shirt,Nobody else can be seen,The woman is alone,trick,000000038678.jpg
+881,trick_565,565,What is on the rug?,['B'],A rocking horse,An ottoman,A blue shirt,A chair,trick,000000060899.jpg
+882,trick_3921,3921,What is the girl wearing?,['C'],A blue backpack,A pink bow in her hair,A backpack,A blue jumper,trick,000000057150.jpg
+883,trick_1391,1391,What is the stuffed teddy bear at the front doing?,['D'],sitting under the small Christmas tree,looking festive,sat on a sheet of ice,Dressed in hockey gear,trick,000000328030.jpg
+884,trick_3478,3478,Where is the open suitcase?,['C'],On top of five suitcases,On the ground,Near the woman wearing light-coloured trousers,On top of four suitcases,trick,000000329041.jpg
+885,trick_1152,1152,Who is the in picture?,['B'],A wall,Two men,One man,A man and his reflection,trick,000000100428.jpg
+886,trick_4052,4052,Which parts of the dog are in the reflection?,['C'],"Its head, tail and chest",Its head and tail,Its head and upper torso,Its whole body,trick,000000263463.jpg
+887,trick_1427,1427,Where is the glass?,['B'],in the other hand of the donut holder,in someone's hand,floating in mid air,on a shelf,trick,000000502737.jpg
+888,trick_3204,3204,What is the toaster face's expression?,['B'],serious,worried,angry,concentrated,trick,000000066841.jpg
+889,trick_4046,4046,What notable object or person is next to the hot dog stand?,['A'],a purple-lit grate,a man with a white apron,the pedestrians,a man,trick,000000289938.jpg
+890,trick_2759,2759,What is the image on the right monitor?,['C'],a box,just text,the same image as on the left monitor but smaller,a window,trick,000000255165.jpg
+891,trick_3531,3531,How many people are standing in front of the store?,['B'],two,4,two women,six,trick,000000063047.jpg
+892,trick_1774,1774,What are the stylized silhouettes doing?,['D'],doing sports,moving,playing tennis,smiling,trick,000000187734.jpg
+893,trick_688,688,"What is obscuring the title of the Ben Elton book, if anything?",['A'],it's not obscured,the other books,the photo grain,the suitcase,trick,000000389315.jpg
+894,trick_1668,1668,What is the woman in the middle holding?,['C'],only a ball,a white and red ball,"a ball, held in a paper napkin",a sports ball,trick,000000370270.jpg
+895,trick_100,100,Where on the road is the brown horse with the white stripe on its face?,['C'],in the middle of the road,"to the left of the other horse, from the camera's point of view","to the right of the black horse, from the camera's point of view",on the same lane as the cyclist,trick,000000261888.jpg
+896,trick_2489,2489,What's at the bottom of the street sign and the lamppost?,['D'],markers,plastic delineators,plastic barriers,blocks,trick,000000385190.jpg
+897,trick_635,635,Which vehicle belongs to the man,['A'],Motorbike,Green car,Red car,Grey car,trick,000000357737.jpg
+898,trick_3623,3623,What is the main focus of the image?,['B'],Roof,Motorcycle with bikes,Lantern,Basket,trick,000000070774.jpg
+899,trick_3151,3151,What is unusual about the scene in this image?,['D'],chairs,Employees uniform,Food counters in a food court,A large bird inside,trick,000000082696.jpg
+900,trick_3638,3638,What are the passengers doing in the image?,['C'],Boarding the plane,Retrieving luggage,Going to the terminal,Leaving the bus,trick,000000524850.jpg
+901,trick_3704,3704,What other items are in the window with the elephant?,['D'],trunk,balcony,tusks,ornament,trick,000000105923.jpg
+902,trick_8,8,Where is the woman in the white top sitting?,['D'],fence,bush,patio,Next to grass,trick,000000479126.jpg
+903,trick_1520,1520,What is the main object in the centre of the room?,['C'],tree,Mat,Table,Doors,trick,000000398652.jpg
+904,trick_3608,3608,What material is the wall made of?,['C'],Cardboard,Chipboard,Breeze blocks,Polystyrene,trick,000000554838.jpg
+905,trick_2591,2591,What is the main subject of the image?,['A'],Produce,Customers,Packaging,Table,trick,000000217753.jpg
+906,trick_3188,3188,What liquid is in the glass in front of the girl?,['A'],Still Water,Sprite,Petrol,Vodka,trick,000000025603.jpg
+907,trick_2990,2990,What is on the grave?,['B'],Letters,Vase,Clothes,bracelet,trick,000000314264.jpg
+908,trick_3803,3803,What is the man wearing?,['A'],Blue tie,No tie,Pinky ring,Pink shirt,trick,000000460683.jpg
+909,trick_1682,1682,What features does the dog have?,['B'],Brown fur,Black and white fur,Droopy ears,Bushy tail,trick,000000067213.jpg
+910,trick_3515,3515,What is on the table?,['A'],2 bottles of wine,laptop bag,TV,controller,trick,000000563267.jpg
+911,trick_2519,2519,What is in the background of this image?,['D'],Tractor,Buildings,Trees,Rubber tyre,trick,000000406997.jpg
+912,trick_2711,2711,What is in the background of the image?,['D'],Blue wall,Peeling white paint wall,Photo,Red toy truck,trick,000000289393.jpg
+913,trick_3678,3678,What are the people in the photo doing?,['B'],Looking at the man holding the doughnut,Posing for the photo,Frowning,Doing a handstand,trick,000000163640.jpg
+914,trick_3859,3859,What colour are the accents on the red truck?,['C'],Blue,Pink,Yellow,Purple,trick,000000401862.jpg
+915,trick_2739,2739,What activity is the woman seeming to do in the photo?,['A'],Preparing food,Skating,Karaoke,Dancing,trick,000000481386.jpg
+916,trick_3612,3612,WHat are they wearing,['A'],Hoody,Prom dress,Wedding dress,Swimming costume,trick,000000309964.jpg
+917,trick_4729,4729,Transport seen in photo,['D'],Car,Train,Bus,Bicycle,trick,000000038829.jpg
+918,trick_2428,2428,What is the boy wearing?,['A'],Hat,Dress,Swimming costume,Nothing,trick,000000145665.jpg
+919,trick_1493,1493,What is the girl on the right holding?,['A'],Spoon,Fork,Tongs,Metal spoon,trick,000000512929.jpg
+920,trick_2532,2532,What animal is this,['C'],Cat,Lizard,Bovine,Fish,trick,000000105264.jpg
+921,trick_1439,1439,What is the man seeming to film?,['A'],SKateboard tricks,Dancing,Man sitting on bench,Prom,trick,000000256868.jpg
+922,trick_2593,2593,What is shown on the cake stand?,['D'],sausage roll,flapjacks,sandwiches,Sweet treats,trick,000000449312.jpg
+923,trick_1705,1705,What is shown resting on the phone?,['A'],Banana,Phone,Meat,Phone handset,trick,000000012667.jpg
+924,trick_1204,1204,What is sitting on the floor neat the passangers,['A'],Suitcases,Parcels,Deliveries,Letters,trick,000000361551.jpg
+925,trick_64,64,Technology shows in picture,['B'],Box of chcoclates,USB stick attached to laptop,Teapot,Cheese,trick,000000376264.jpg
+926,trick_3945,3945,What is the dog holding in its mouth?,['C'],A bone,A stick,A Guinness Draught bottle,A toy,trick,000000145781.jpg
+927,trick_3013,3013, What is the person pretending to do?,['A'],being silly on a motorbike,drive a car,fly a plane,rocket launching,trick,000000546976.jpg
+928,trick_0,0,What is the person wearing on their head?,['B'],casual cap,a smart black hat,a black cap,baseball cap,trick,000000182611.jpg
+929,trick_3595,3595,What are the labels above the urinals for?,['A'],Labelling each urinal for humorous effect,Warning about restroom cleaning schedules,Providing directions to the nearest bathroom,Listing the ingredients of drinks,trick,000000348045.jpg
+930,trick_3855,3855,What kind of decor does the bakery have?,['D'],Modern glass,minimalistic,bright neon,Wood paneling,trick,000000529122.jpg
+931,trick_534,534,What colour are the stripes on the man's socks?,['D'],Black,Green,Yellow,Blue stripes,trick,000000342128.jpg
+932,trick_4416,4416,how many people are skiing up and down the mountain?,['A'],none,1,10,8,trick,000000411530.jpg
+933,trick_3318,3318,which cows are looking at the Border Collie?,['C'],the middle brown cow,none of the cows,the white cow,the dark brown cow cut off the image,trick,000000329447.jpg
+934,trick_1983,1983,What expression does the man in the car have?,['C'],angry,frustrated,amazed,sad,trick,000000341094.jpg
+935,trick_2937,2937,What are the plush ducks doing?,['C'],each one is resting next to a bear,flying,positioned next to eachother,swimming,trick,000000335081.jpg
+936,trick_3411,3411,What is the dog doing?,['A'],Lying on the grass,begging for treats,running around,sleeping,trick,000000143961.jpg
+937,trick_3201,3201,What is on top of the desk?,['C'],keys,mouse,figurine on top of monitor,loose cables,trick,000000246308.jpg
+938,trick_265,265,What can be seen in the mirror?,['C'],empty tub,DODGERS sign,a white barrel,painting,trick,000000289702.jpg
+939,trick_9,9,What is the yellow cat looking at?,['A'],the treat,the grey cat,the clogs,the boxes,trick,000000570664.jpg
+940,trick_3336,3336,What can be seen inside the fridge?,['C'],beans,cake,glass jars,cheese,trick,000000117908.jpg
+941,trick_3933,3933,What is behind the plate?,['B'],cutlery,pepper,sugar pot,a bowl,trick,000000513283.jpg
+942,trick_186,186,Where is the woman standing?,['C'],on the river bank,on the grass,near the man,on the rocks,trick,000000372349.jpg
+943,trick_1688,1688,What can be seen on the left hand side of the alley?,['C'],lady on a bike,big tuna,blue canopy,sign with 550 yen,trick,000000488592.jpg
+944,trick_1984,1984,What are dogs looking at?,['B'],the back of the bus,towards the front to the bus,the seated person with the shorts,each other,trick,000000432553.jpg
+945,trick_4853,4853,What is behind the boys?,['B'],pizza,A stereo,pepsi,napkins,trick,000000201426.jpg
+946,trick_857,857,who is on the ground with surfboards,['C'],a mix of adults,onlookers,"3 girls, 1 boy and a man",a building with blue walls,trick,000000274460.jpg
+947,trick_3441,3441,where is the man sitting,['C'],on a plastic crate,on top of pigeons,on a step,on a red crate,trick,000000060823.jpg
+948,trick_72,72,what colour shorts are the white team wearing?,['A'],blue,white,yellow,black,trick,000000567640.jpg
+949,trick_3712,3712,what is the child doing,['A'],sitting on the floor,having a bath,running around,moving fast,trick,000000283268.jpg
+950,trick_976,976,what is the man wearing,['B'],stilettos,baseball cap,gray shirt,black jacket,trick,000000511076.jpg
+951,trick_942,942,what is the man wearing,['B'],white shirt,white helmet,an elephant,black pants,trick,000000267191.jpg
+952,trick_696,696,what items are in or stuck to the fridge door?,['A'],condiments,curtain,wooden cabinet,EnerGuide label,trick,000000215114.jpg
+953,trick_4436,4436,What is visible in the background?,['B'],another person,scissors,glue,laptop,trick,000000251824.jpg
+954,trick_3156,3156,what is above the sink?,['B'],fridge,wooden cabinets,natural light,window,trick,000000445658.jpg
+955,trick_1613,1613,where is the napkin holder?,['C'],in the donut,on the mug,next to the mug handle,on the plate,trick,000000378605.jpg
+956,trick_3406,3406,which direction are the elephants walking in?,['C'],towards their handlers,away from the forest,towards the setting sun,towards the camera,trick,000000107851.jpg
+957,trick_1467,1467,how many dogs are there?,['C'],1,4,3,2,trick,000000209613.jpg
+958,trick_165,165,What is the boy sitting in the chair holding?,['D'],An orange toy,coloring,Short hair ,Scissors,trick,000000123633.jpg
+959,trick_516,516,What is the man doing in the background of the photo?,['D'],Talking on the phone,Talking on the phone,Talking on the phone,Sitting down with his hand near his mouth,trick,000000059598.jpg
+960,trick_1878,1878,What brand is listen on the yellow billboard on the back of the image ,['C'],Magnum is listed on the pink advertising board ,Amazon is listed on the yellow advertisement ,The yellow billboard is an advertisement for Magnum,Argos is listed on the yello advertisement ,trick,000000029187.jpg
+961,trick_910,910,How many people are holding drinks in their hand.,['B'],No-one,Only the man with the beige bag.,Only the man with the blue folder.,Everyone,trick,000000157767.jpg
+962,trick_4906,4906,What is on the floor?,['D'],paint,posters,glass jars,a sheet of paper,trick,000000506310.jpg
