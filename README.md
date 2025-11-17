@@ -19,25 +19,22 @@
     ·
     <strong>Md Hamjajul Ashmafee</strong>
 </p>
-<p align="center"><sup>*</sup>Equal Contribution</p>
-
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat)](https://github.com/farhanishmam/VLMDenoising)
+[![Paper](https://img.shields.io/badge/WACV_2026-68448b?style=flat&logoColor=white&color=68448b&labelColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iMTYwIj48cGF0aCBmaWxsPSIjNzJBMENFIiBkPSJNMTA4IDI3aDUydjE1aC0zM3YxOGgxOGwuMDYzIDcuNDM4LjAyNyAyLjM0NWMuMDA3IDEuNzQtLjA0IDMuNDc4LS4wOSA1LjIxNy0xIDEtMSAxLTQuODE2IDEuMDk4YTcwNSA3MDUgMCAwIDEtNC43NDYtLjAzNUwxMjcgNzZ2MzNoLTE5bC0xLTQzYy03LjMyMyAxNS42OTEtMTQuNTggMzEuMzk3LTIxLjU5NiA0Ny4yMjctMi45NzIgNi42OC02LjA2MSAxMy4yNy05LjQwNCAxOS43NzMtMy0xLTMtMS00LjI5NC0zLjAxOGwtMS4zMDYtMi42OTEtMS40OTktMy4wNDktMS42LTMuMzM2LTEuNjc5LTMuNDM4YTIzNjYgMjM2NiAwIDAgMS00LjQxNC05LjExNWMtMS40NjItMy4wMjYtMi45MzYtNi4wNDctNC40MS05LjA2OEE0MjExIDQyMTEgMCAwIDEgNDcgNzlsLTEuMzYtMi44MjdxLTEuNzQzLTMuNjMtMy40NzItNy4yNjdsLTEuMDAxLTIuMDg2QzM5IDYyLjIzMyAzOSA2Mi4yMzMgMzkgNjBoMTljMTYgMzAuMjMgMTYgMzAuMjMgMTYgMzNoMmwxLjE0NS0zLjcxNWMyLjA1Mi02LjE1OCA0Ljc5OC0xMS45NzMgNy41NDMtMTcuODQ3LjUxLTEuMTA1IDEuMDIyLTIuMjA5IDEuNTQ4LTMuMzQ2UTg4LjExMyA2NC4wNDMgOTAgNjBoMTh6Ii8+PHBhdGggZmlsbD0iIzZCOUJDQyIgZD0iTTYwLjYyNSAzMy4yNSA2MyAzNWMtMS41MzIgMy41ODQtMy42NjcgNi4wMjktNi4zNzUgOC44MTNsLTIuMzM2IDIuNDU3QzUyIDQ4IDUyIDQ4IDQ5Ljg4NyA0Ny44MjhMNDggNDdjLTYuNzA0LTIuNTMzLTEyLjQyNi0yLjg2LTE5LjA3OC0uMTAyLTUuMzAxIDMuMDM5LTguNjA3IDguMjE2LTEwLjQ1IDEzLjk0MkMxNi43MzkgNjguNzY4IDE3Ljg5IDc1Ljk5IDIyIDgzYzMuODQ2IDQuNjA4IDguMDEzIDcuMTE3IDE0IDggNC4wMjYtLjE0NyA4LjAwMS0uNTE0IDEyLTFxMS43NTcgMy40MzUgMy41IDYuODc1bDEuMDEyIDEuOTczQzU1IDEwMy43NzMgNTUgMTAzLjc3MyA1NSAxMDZjLTguNjMyIDQuNDA4LTE5LjA5OCA0LjM5Ni0yOC40MTggMi4xOTEtMTAuNDMyLTMuOS0xNy45MDEtMTEuMDk2LTIzLjQyNi0yMC42MzZDLTEuNzE1IDc2Ljc5LTIuMjYyIDYxLjUgMS44NzUgNTAuMzc1YzUuNTI5LTEwLjg3MSAxNC4zOTEtMTguOTk3IDI1LjkzOC0yMy4wMDQgMTEuODkzLTIuMDE4IDIyLjY1Mi0uNjkxIDMyLjgxMiA1Ljg3OSIvPjxwYXRoIGZpbGw9IiM2Mjk1Q0EiIGQ9Ik0xMDkgMjhoNTB2MTNoLTMzdjIwaDE5djE0aC0xOXYzM2gtMTd6Ii8+PHBhdGggZmlsbD0iIzk1QjhEQSIgZD0iTTM5IDYwaDE5djNsLTMtMWMtMi4zOTUtLjA3LTQuNzkyLS4wODQtNy4xODctLjA2MmwtMy44NTYuMDI3TDQxIDYybC0xIDJ6Ii8+PC9zdmc+&style=flat&logoWidth=15)](https://github.com/farhanishmam/VLMDenoising/blob/main/paper/Enhancing%20VL%20Corruption%20Robustness.pdf)
 [![Code](https://img.shields.io/badge/Code-farhanishmam/VLMDenoising-blue?logo=GitHub)](https://github.com/farhanishmam/VLMDenoising)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 </div>
 
 ---
 
 <p style="text-align: justify;">
-While Vision Language Models (VLMs) excel in ideal conditions, their performance drops significantly when exposed to realistic multimodal corruptions like blurry images and grammatically incorrect text. This work introduces a novel framework to enhance VLM robustness by using plug-and-play denoisers. We propose: (i) **cross-distribution visual denoisers (VDN)** inspired by the Mixture of Experts (MoE) architecture, and (ii) a **prompted zero-shot textual denoiser (TDN)** using a frozen LLM. We also establish a new benchmark, **VLSRB**, featuring 18 visual and 18 textual corruption functions to evaluate system robustness. Our approach demonstrates an overall accuracy gain of up to 5.5%.
+<strong>tldr.</strong> We improved the multimodal corruption robustness of VLMs using Mixture of Experts (MOE) style visual denoisers and LLMs as textual denoisers. 
 </p>
 
-## Overview of the Denoising Framework
-
-![Overview of the denoising framework showing how corruptions cause VLM failure and how VDN and TDN modules clean the input to produce a correct answer.](./assets/overview.png)
+<p align="center">
+  <img src="./assets/overview.png" alt="Overview of the denoising framework showing how corruptions cause VLM failure and how VDN and TDN modules clean the input to produce a correct answer." width="720" />
+</p>
 
 ## Methodology
 
@@ -55,27 +52,14 @@ The VCRN routes the corrupted image to the appropriate CSVD expert(s) to produce
 ### 2. Textual DeNoiser (TDN)
 
 The TDN is a generative language model that is prompted to denoise text in a zero-shot setting.
-
-- **Model:** We use a frozen LLM (Gemini 2.0 Flash).
-- [cite_start]**Prompting:** The model is given a specific prompt that instructs it to _only_ return the denoised version of the question and to _not_ answer it or alter its intent [cite: 166-173].
-
-This simple, training-free approach is highly effective at correcting textual corruptions like typos, word swaps, and grammatical errors.
-
-## Vision Language System Robustness Benchmark (VLSRB)
-
-We establish VLSRB, a new benchmark to evaluate the _system robustness_ of VLMs (i.e., the end-to-end performance including pre-processing). The benchmark includes a rich suite of 36 multimodal corruption effects:
-
-- **Visual Corruptions (18 types):** Expands on existing benchmarks by adding new corruptions. These are categorized into 6 classes: Additive Noise, Digital, Image Attribute Transformation, Weather, Blur, and Physical.
-- **Textual Corruptions (18 types):** Replicates realistic character, word, and sentence-level perturbations, including typos, synonym replacement, OCR errors, and paraphrasing.
+We use a frozen Gemini 2.0 Flash.
 
 ## Quick Start & Installation
-
-The repository is designed to be run on GPUs (experiments conducted on NVIDIA RTX 3090 24GB).
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/farhanishmam/VLMDenoising.git](https://github.com/farhanishmam/VLMDenoising.git)
+    git clone https://github.com/farhanishmam/VLMDenoising.git
     cd VLMDenoising
     ```
 
@@ -84,7 +68,7 @@ The repository is designed to be run on GPUs (experiments conducted on NVIDIA RT
     ```bash
     # We recommend using Python 3.8+
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    source venv/bin/activate
     pip install -r requirements.txt
     ```
 
@@ -96,18 +80,13 @@ The repository is designed to be run on GPUs (experiments conducted on NVIDIA RT
     # Edit config.json with your actual API keys and paths
     ```
 
-    **Important:** Never commit `config.json` with your actual API keys. The file is already in `.gitignore`.
-
 4.  **Set up models:**
     - **VDN:** The VDN modules (ResNet-50 router, DRUNet denoisers) are trained using the generalized training script (see below).
     - **TDN:** Requires API access for the frozen LLM (e.g., Gemini 2.0 Flash).
 
 ## Datasets
 
-Our experiments use Visual Question Answering (VQA) as the core evaluation task.
-
-- **Source Distribution (for VDN Training):** We use **VQAv2**. We create an augmented dataset of **270,000 images** (3,000 base images $\times$ 18 visual corruptions $\times$ 5 severity levels) to train the VDN modules.
-- **Target Distribution (for Evaluation):** We use the **DARE** dataset for evaluation, as it provides a variety of VQA sub-tasks and a different visual distribution from VQAv2.
+Our VDNs are trained on the VQAv2 dataset (source distribution) and evaluated on the DARE dataset (target distribution). However, any VQA dataset can be used and needs to be placed appropriately in the data folder. You can also experimetn on non-VQA tasks but the models and prompts need to changed.
 
 ## Usage Guide
 
@@ -149,14 +128,9 @@ dataset/
     └── ... (same 18 corruption types)
 ```
 
-**Output:**
-
-- Trained classifier: `corruption_classifier_resnet50.pt`
-- Per-class and overall accuracy metrics
-
 ### Training Visual Denoisers (VDN)
 
-The repository provides a **generalized training script** that replaces 54+ redundant notebooks. Train any denoiser (BRDNet, DnCNN, DRUNet) on any corruption type:
+Train any denoiser (BRDNet, DnCNN, DRUNet) on any corruption type using the command:
 
 ```bash
 python scripts/csvd_training.py \
@@ -180,12 +154,6 @@ python scripts/csvd_training.py \
 - `--learning_rate`: Learning rate (default: 0.0001)
 - `--early_stop_patience`: Early stopping patience (default: 10)
 
-**Output:**
-
-- Trained model: `{corruption}_{model}.pt`
-- Loss plot: `{corruption}_{model}_loss.png`
-- Test metrics: PSNR, SSIM, and loss printed to console
-
 **Example - Train all BRDNet denoisers:**
 
 ```bash
@@ -200,9 +168,7 @@ for corruption in Brightness Contrast Defocus-blur Elastic Fog Frost Gaussian \
 done
 ```
 
-### Running VLM Inference
-
-The repository provides a **unified inference script** that handles all VLM models and image/text configurations:
+### VLM Inference
 
 ```bash
 python scripts/vlm_inference.py \
@@ -229,7 +195,7 @@ python scripts/vlm_inference.py \
 
 **Configurations:**
 
-The script supports **9 different configurations** by combining image and text types:
+The script supports **9 configurations** by combining the corruption states of images and texts:
 
 | Image Type | Text Type | Description                     |
 | ---------- | --------- | ------------------------------- |
@@ -278,26 +244,4 @@ python scripts/vlm_inference.py \
     --image_type clean --text_type noisy
 ```
 
-## Repository Structure
-
-```
-VLMDenoising/
-├── scripts/
-│   ├── vcrn_training.py                      # VCRN training (corruption classifier)
-│   ├── csvd_training.py                      # CSVD training (denoisers)
-│   ├── vlm_inference.py                      # VLM inference script
-│   ├── textual_corruptions.py                # Textual corruption functions
-│   └── visual/                               # Visual corruption utilities
-│       ├── common/                           # Shared utilities (consolidated)
-│       │   ├── dataset.py                   # VQA dataset loader
-│       │   ├── generator.py                 # 18 corruption types × 5 levels
-│       │   └── utils.py                     # Image I/O and logging
-│       ├── training/                        # Training dataset generation
-│       └── inference/                       # Inference-time corruptions
-├── data/
-│   └── raw/                                  # Raw datasets
-├── config.template.json                      # Configuration template
-└── README.md
-```
-
-**Note:** All 193+ redundant notebooks have been removed and replaced with 3 generalized, production-ready Python scripts. Additionally, over 1,100 lines of duplicate code in the augmentation utilities have been consolidated into a shared `common/` directory. The codebase is now significantly cleaner and more maintainable.
+**Acknowledgements:** If you find our work useful, feel free to star our repo and cite the work when the proceedings are available.
