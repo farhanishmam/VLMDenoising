@@ -244,4 +244,28 @@ python scripts/vlm_inference.py \
     --image_type clean --text_type noisy
 ```
 
+<<<<<<< HEAD
 **Acknowledgements:** If you find our work useful, feel free to star our repo and cite the work when the proceedings are available.
+=======
+## Repository Structure
+
+```
+VLMDenoising/
+├── scripts/
+│   ├── vcrn_training.py                      # VCRN training (corruption classifier)
+│   ├── csvd_training.py                      # CSVD training (denoisers)
+│   ├── vlm_inference.py                      # VLM inference script
+│   ├── textual_corruptions.py                # Textual corruption functions
+│   └── visual/                               # Visual corruption utilities
+│       ├── common/                           # Shared utilities (consolidated)
+│       │   ├── dataset.py                   # VQA dataset loader
+│       │   ├── generator.py                 # 18 corruption types × 5 levels
+│       │   └── utils.py                     # Image I/O and logging
+│       ├── training/                        # Training dataset generation
+│       └── inference/                       # Inference-time corruptions
+├── data/
+│   └── raw/                                  # Raw datasets
+├── config.template.json                      # Configuration template
+└── README.md
+```
+>>>>>>> 19db3fab24085eeaaa09a41a89049653e7cc831a
