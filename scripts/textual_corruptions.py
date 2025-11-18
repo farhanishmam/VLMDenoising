@@ -525,8 +525,8 @@ def process_dataframe(input_csv, output_csv='FinalNoisyText.csv'):
 
 
 # Example usage:
-# if __name__ == "__main__":
-#     process_dataframe('your_input.csv', 'output_noisy.csv')
+if __name__ == "__main__":
+    process_dataframe('[without images]1_correct_validation.csv', 'Noisy-Denoised_QuestionPairs[new].csv')
 
 
 # substituteCharacterByKeyboard("The quick brown fox jumps over the lazy dog .")
