@@ -5,19 +5,19 @@
 </div>
 
 <p align="center">
-  <strong>Sameer Shafayet Latif*</strong>
-    ·
-    <strong>Sadab Shiper*</strong>
-    ·
-    <strong>K. M. Rahiduzzaman Kiran*</strong>
-    ·
-     <strong>Md Farhan Ishmam*</strong>
-    ·
-    <strong>Md Azam Hossain</strong>
-    ·
-    <strong>Abu Raihan Mostofa Kamal</strong>
-    ·
-    <strong>Md Hamjajul Ashmafee</strong>
+  <a href="https://www.linkedin.com/in/sameer-shafayet-latif/"><strong>Sameer Shafayet Latif*</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/sadabshiper04/"><strong>Sadab Shiper*</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/k-m-rahiduzzaman-kiran-02a953287/"><strong>K. M. Rahiduzzaman Kiran*</strong></a>
+  ·
+  <a href="https://farhanishmam.github.io/"><strong>Md Farhan Ishmam*</strong></a>
+  ·
+  <a href="https://cse.iutoic-dhaka.edu/profile/azam/education"><strong>Md Azam Hossain</strong></a>
+  ·
+  <a href="https://cse.iutoic-dhaka.edu/profile/raihan-kamal/education"><strong>Abu Raihan Mostofa Kamal</strong></a>
+  ·
+  <a href="https://cse.iutoic-dhaka.edu/profile/ashmafee/education"><strong>Md Hamjajul Ashmafee</strong></a>
 </p>
 <div align="center">
 
