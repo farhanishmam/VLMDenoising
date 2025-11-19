@@ -241,7 +241,7 @@ python scripts/vlm_inference.py \
     --model gemini --api_key $API_KEY \
     --data_path data.csv \
     --checkpoint checkpoint_gemini_count_clean_noisy.json \
-    --image_type clean --text_type noise
+    --image_type clean --text_type noisy
 ```
 
 **Acknowledgements:** If you find our work useful, feel free to star our repo and cite the work when the proceedings are available.
