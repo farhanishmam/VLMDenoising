@@ -1,3 +1,5 @@
+# Textual Noise and Denoising Workflow for the Dataset
+
 The dataset we are using is <a href="https://huggingface.co/datasets/cambridgeltl/DARE"> DARE Dataset </a> (Sterz et al)
 
 1.  <b> Download the Dataset </b>
