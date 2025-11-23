@@ -1,15 +1,27 @@
-"""
-Apply random noise/corruptions to a dataset of images.
-Iterates through images and applies various corruption types at random severity levels.
-"""
-
 import os
 import random
 import torch
-from .noise_generator import apply_noise
-from ..common.utils import saveImage, set_random_seed
-from ..common.dataset import VQADataset
-from ..common.generator import Generator
+import cv2
+from noise_generator import apply_noise
+from utils_new import set_random_seed
+
+from logging import exception
+import errno
+from tqdm import tqdm
+import numpy as np
+from imageio import imread
+import skimage as sk
+from skimage.filters import gaussian
+from io import BytesIO
+from PIL import Image as PILImage
+from scipy.ndimage import zoom as scizoom
+from scipy.ndimage.interpolation import map_coordinates
+import os
+from wand.image import Image as WandImage
+from wand.api import library as wandlibrary
+from utils import saveImage
+from dataset import VQADataset
+from generator import Generator
 
 # Set the random seed for reproducibility
 SEED = 42
@@ -21,7 +33,8 @@ print(f"Using device: {device}")
 
 # Define paths
 # CLEAN_IMAGES_FOLDER = "50 TEST IMAGES"
-CLEAN_IMAGES_FOLDER = "DARE Dataset/DARE Main Dataset/1_correct_validation_images"
+# CLEAN_IMAGES_FOLDER = "DARE Dataset/DARE Main Dataset/1_correct_validation_images"
+CLEAN_IMAGES_FOLDER = "1_correct_validation_images"
 NOISY_IMAGES_FOLDER = "Noisy DARE TEST"
 
 # NOISY_IMAGES_FOLDER = "Noisy 50 TEST"
@@ -86,7 +99,7 @@ for image_file in clean_image_filenames:
         severity_level = random.randint(1, 5)  # Random severity between 1 and 5
         print(f'Noise type: {noise_type} Severity level: {severity_level}')
         
-        noisy_image = apply_noise(generator, dataset, image_path, noise_type, severity_level, image_file)
+        noisy_image = apply_noise(dataset,image_path, noise_type, severity_level, image_file)
         
         # Use the saveImage function to save the noisy image
         saveImage(noisy_image, os.path.join(NOISY_IMAGES_FOLDER, noise_type), image_file)
