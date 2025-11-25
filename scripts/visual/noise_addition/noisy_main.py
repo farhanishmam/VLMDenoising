@@ -31,24 +31,16 @@ set_random_seed(SEED)
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(f"Using device: {device}")
 
-# Define paths
-# CLEAN_IMAGES_FOLDER = "50 TEST IMAGES"
-# CLEAN_IMAGES_FOLDER = "DARE Dataset/DARE Main Dataset/1_correct_validation_images"
+
 CLEAN_IMAGES_FOLDER = "1_correct_validation_images"
 NOISY_IMAGES_FOLDER = "Noisy DARE TEST"
 
-# NOISY_IMAGES_FOLDER = "Noisy 50 TEST"
 
 name = "val"
 annotationsJSON = "annotations/filtered_answers.json"
 questionsJSON = "questions/filtered_questions.json"
 imagePrefix = None
-# imageDirectory = "Data/val3K"
-# imageDirectory = "50 TEST IMAGES"
-# outputPath = "Noisy 50 TEST"
-# outputPath = "Data/test_save/"
-# logPath = "Data/"
-# reportPath = "Data/Reports/"
+
 
 # Assuming the dataset and logger are already initialized
 logger = None  # Replace this with actual logger initialization
@@ -77,13 +69,11 @@ NOISE_TYPES = [
     "Motion-blur"
 ]
 
-# NOISE_TYPES = ["Motion-blur"]
 
 # Create folders for noisy images
 for noise in NOISE_TYPES:
     os.makedirs(os.path.join(NOISY_IMAGES_FOLDER, noise), exist_ok=True)
-    
-# print("Corrupted image folder created")
+
 
 # Process clean images
 clean_image_filenames = os.listdir(CLEAN_IMAGES_FOLDER)
@@ -92,7 +82,6 @@ clean_image_filenames = os.listdir(CLEAN_IMAGES_FOLDER)
 for image_file in clean_image_filenames:
     image_path = os.path.join(CLEAN_IMAGES_FOLDER, image_file)
     print(f'Image name: {image_file}')
-    # print(image_path)
     
     # For each noise type, choose a random severity and apply noise
     for noise_type in NOISE_TYPES:
