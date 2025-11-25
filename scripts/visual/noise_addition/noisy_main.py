@@ -76,12 +76,11 @@ for noise in NOISE_TYPES:
 
 
 # Process clean images
-clean_image_filenames = os.listdir(CLEAN_IMAGES_FOLDER)
+clean_images = os.listdir(CLEAN_IMAGES_FOLDER)
 
 # Apply random noise with random severity to each image
-for image_file in clean_image_filenames:
+for image_file in tqdm(clean_images, desc="Processing images"):
     image_path = os.path.join(CLEAN_IMAGES_FOLDER, image_file)
-    print(f'Image name: {image_file}')
     
     # For each noise type, choose a random severity and apply noise
     for noise_type in NOISE_TYPES:
