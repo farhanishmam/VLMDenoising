@@ -1,6 +1,6 @@
-from ..common.generator import Generator
-from ..common.dataset import VQADataset
-from ..common.utils import Logger
+from ..noise_addition.generator import Generator
+from ..noise_addition.dataset import VQADataset
+from ..noise_addition.utils import Logger
 from .report import VQAReporter
 from tqdm import tqdm
 import os
