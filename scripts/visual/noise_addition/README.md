@@ -81,11 +81,3 @@ Then execute:
 ```bash
 python vqav2.py
 ```
-
-
-
-
-
-
-
-
