@@ -41,8 +41,8 @@ Shot, Gaussian, Brightness, Speckle, Contrast, Snow, Defocus-blur, Pixelate, Spa
 
 - `noise_addition/generator.py` - Noise transformation pipeline
 - `noise_addition/dataset.py` - VQA dataset loader
-- `visual/training/report.py` - Experiment reporting
 - `noise_addition/utils.py` - Logging and file operations
+- `visual/training/report.py` - Experiment reporting (used by `training/main.py`)
 
 #### `visual/vdn/`
 
