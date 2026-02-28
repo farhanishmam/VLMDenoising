@@ -217,7 +217,7 @@ class Generator():
                     else:
                         transformedImage = transformationMethod(idx)
                 
-                except exception as e:
+                except Exception as e:
                     self.logger.error(f"{e} occured when using {transformation} on image number: {idx}.")
                     continue
                 
@@ -226,7 +226,7 @@ class Generator():
                     try:
                         saveImage(transformedImage, os.path.join(outputPath, transformation), self.dataset.imageNames[imageId])
                         savedCounter += 1
-                    except exception as e:
+                    except Exception as e:
                         self.logger.error(f"Failed to save image number: {idx} because {e} occured.")
                         continue
             
