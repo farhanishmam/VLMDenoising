@@ -73,15 +73,13 @@ python noisy_main.py
 
 To generate augmented images for the DARE dataset:
 
-- Open `noisy_main.py`
-- Uncomment lines 51, 52, and 53
-- Comment out everything after those lines
+- Open `vqav2.py`
 - Adjust folder paths accordingly
 
 Then execute:
 
 ```bash
-python noisy_main.py
+python vqav2.py
 ```
 
 
