@@ -3,7 +3,7 @@ import torch
 from torchvision import transforms
 import torch.nn.functional as F
 from vcrn import classifier_transform, resnet50
-from ..common.utils import Logger
+from ..noise_addition.utils import Logger
 from csvd import denoisers, denoiser_transform, device, class_names
 from PIL import Image
 from pathlib import Path
