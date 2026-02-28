@@ -1,6 +1,6 @@
 - Download the DARE Dataset's 1_correct subset's validation split images using the <a href="https://huggingface.co/datasets/cambridgeltl/DARE"> link </a> or you can use the <a href= "https://drive.google.com/drive/folders/1n32Cu6d2hEFt-ZSJgorlm7X2t4juQwSe?usp=sharing"> drive link </a>
 
-- Download the VQA-v2 dataset from: https://visualqa.org/
+- Download the VQA-v2 dataset from: https://visualqa.org/. Take a subset of 3000 images from the vqav2 dataset
 
 - Organzize the directories accordingly.
 - CLEAN_IMAGES_FOLDER will contain clean images (VQav2 subset of 3000 images otr DARE dataset - 657 images)
