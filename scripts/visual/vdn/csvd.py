@@ -4,7 +4,7 @@ from deepinv.models import DRUNet
 from torchvision import transforms
 from PIL import Image
 import torchvision.transforms as T
-from ..common.utils import Logger
+from ..noise_addition.utils import Logger
 
 logger = Logger(logPath='Logger')
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
