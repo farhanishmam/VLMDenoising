@@ -74,5 +74,7 @@ def apply_noise(dataset,image_path, noise_type, severity, imageName):
         noisy_image = generator.transformToFog(idx, severity)
     elif noise_type == "Motion-blur":
         noisy_image = generator.transformToMotionBlur(idx, severity)
+    else:
+        raise ValueError(f"Unknown noise_type: '{noise_type}'. Must be one of: {list(generator.validTransformations.keys())}")
 
     return noisy_image
