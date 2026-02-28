@@ -18,8 +18,10 @@ Text augmentation and adversarial perturbations using the nlpaug library.
 **Usage:**
 
 ```bash
-# Applies 18 perturbation methods to each question in the dataset
-python textual/noise_addition.py
+cd textual
+python download_dataset.py   # Step 1: download dataset
+python noise_addition.py     # Step 2: apply 18 perturbation methods
+python denoise_script.py     # Step 3: denoise with Gemini 2.0 Flash
 ```
 
 ### `visual/`
