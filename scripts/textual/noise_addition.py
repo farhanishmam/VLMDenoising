@@ -12,9 +12,7 @@ import torch
 import random
 import nltk
 
-import nltk
 from nltk.corpus import words
-import random
 
 # Ensure NLTK words corpus is downloaded
 nltk.download('words')
