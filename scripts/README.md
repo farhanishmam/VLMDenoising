@@ -32,16 +32,10 @@ Image corruption generation for VQA datasets.
 
 Apply individual noise types to images with random severity levels.
 
-**Main Script:** `noisy_main.py`
+**Main Script:** `noisy_main.py`, `vqav2.py`
 
 **Noise Types (18):**
 Shot, Gaussian, Brightness, Speckle, Contrast, Snow, Defocus-blur, Pixelate, Spatter, Elastic, Impulse, Saturation, Zoom-Blur, JPEG-compression, Fog, Frost, Rain, Motion-blur
-
-#### `visual/training/`
-
-Batch generation of noisy VQA datasets with structured logging and reporting.
-
-**Main Script:** `main.py`
 
 **Components:**
 
