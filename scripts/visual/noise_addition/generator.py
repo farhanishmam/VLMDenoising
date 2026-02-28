@@ -8,7 +8,6 @@ implemented here.
 ================================================
 """
 
-from logging import exception
 import cv2
 import errno
 from tqdm import tqdm
