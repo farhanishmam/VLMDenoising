@@ -109,25 +109,6 @@ class VQADataset(Dataset):
             questionTypes.append(self.answersDictionary[questionId][1])
 
         return image, questions, answers, imageId, questionIds, questionTypes
-
-
-    # def getImageIdsAndNames(self):
-    #     '''
-    #     Returns a the image IDs and names.
-
-    #         Returns:
-    #             imageIds (list): List of the image IDs.
-    #             imageNames (dictionary): Dictionary containing image names such as {imageId: imageName}.
-    #     '''
-    #     imageIds = list()
-    #     imageNames = dict()
-        
-    #     for imageName in os.listdir(self.imageDirectory):
-    #         id = imageName.split(".")[0].rpartition(self.imagePrefix)[-1]  # image name: COCO_train2014_000000000123.jpg
-    #         imageIds.append(int(id))
-    #         imageNames[int(id)] = imageName
-
-    #     return imageIds, imageNames
     
     
     # # FOR clevr Dataset
