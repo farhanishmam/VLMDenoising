@@ -5,7 +5,6 @@ import cv2
 from noise_generator import apply_noise
 from utils_new import set_random_seed
 
-from logging import exception
 import errno
 from tqdm import tqdm
 import numpy as np
