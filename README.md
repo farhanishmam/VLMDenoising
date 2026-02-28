@@ -246,6 +246,7 @@ python scripts/vlm_inference.py \
 
 **Acknowledgements:** If you find our work useful, feel free to star our repo and cite the work when the proceedings are available.
 
+```bibtex
 @InProceedings{Latif_2026_WACV,
     author    = {Latif, Sameer Shafayet and Shiper, Sadab and Kiran, K. M. Rahiduzzaman and Ishmam, Md Farhan and Hossain, Md Azam and Kamal, Abu Raihan Mostofa and Ashmafee, Md Hamjajul},
     title     = {Enhancing Vision Language Corruption Robustness using Cross-Distribution \& Prompted Denoisers},
@@ -254,3 +255,4 @@ python scripts/vlm_inference.py \
     year      = {2026},
     pages     = {5754-5765}
 }
+```
