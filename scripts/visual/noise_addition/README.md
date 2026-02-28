@@ -69,9 +69,9 @@ Then execute:
 python noisy_main.py
 ```
 
-## 🔹 1. VQAv2 Image Augmentation (Inference Dataset)
+## 🔹 2. VQAv2 Image Augmentation (Training Dataset)
 
-To generate augmented images for the DARE dataset:
+To generate augmented images for the VQAv2 dataset:
 
 - Open `vqav2.py`
 - Adjust folder paths accordingly
