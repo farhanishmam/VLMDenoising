@@ -14,9 +14,6 @@ visual/
 │   ├── utils_new.py     # Random seed utilities
 │   ├── noise_generator.py  # apply_noise() entry point
 │   └── noisy_main.py    # Script for applying random corruptions to images
-├── training/            # Scripts for generating training datasets
-│   ├── main.py          # Main script for batch corruption generation
-│   └── report.py        # Reporting utilities
 └── vdn/                 # Visual Denoising Network pipeline
     ├── pipeline.py      # End-to-end denoising pipeline (top-K weighted avg)
     ├── csvd.py          # Corruption-Specific Visual Denoisers
