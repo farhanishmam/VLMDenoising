@@ -109,7 +109,7 @@ def get_drunet_model():
     """Get DRUNet model from deepinv"""
     try:
         from deepinv.models import DRUNet
-        return DRUNet(in_channels=3, out_channels=3, pretrained=None, device='cuda')
+        return DRUNet(in_channels=3, out_channels=3, pretrained=None, device=str(torch.device("cuda" if torch.cuda.is_available() else "cpu")))
     except ImportError:
         print("deepinv not installed. Install with: pip install deepinv")
         return None
