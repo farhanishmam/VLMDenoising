@@ -1,103 +1,89 @@
-# Dataset Preparation & Augmented Dataset Generation
+# Textual Noise and Denoising Workflow
 
-## Dataset Download Instructions
-
-### 1. DARE Dataset (1_correct – Validation Split)
-
-Download the **1_correct subset – validation split images** from:
-
-- Hugging Face: https://huggingface.co/datasets/cambridgeltl/DARE
-- Google Drive (direct images): https://drive.google.com/drive/folders/1n32Cu6d2hEFt-ZSJgorlm7X2t4juQwSe?usp=sharing
-
-### 2. VQA-v2 Dataset
-
-Download the VQA-v2 dataset from:
-
-- https://visualqa.org/
-
-From the full VQAv2 dataset, select a subset of **3000 images** for experimentation.
+The dataset used is the [DARE Dataset](https://huggingface.co/datasets/cambridgeltl/DARE) (Sterz et al.).
 
 ---
 
-## Directory Organization
+## Step 1: Download the Dataset
 
-Organize the directories as follows:
-
-```
-project_root/
-├── CLEAN_IMAGES_FOLDER/
-│   ├── image_1.jpg
-│   ├── image_2.jpg
-│   └── ...
-└── NOISY_IMAGES_FOLDER/
-    └── (augmented images will be saved here)
-```
-
-### Folder Description
-
-- **CLEAN_IMAGES_FOLDER** — Contains clean input images. Either:
-  - VQAv2 subset (3000 images), or
-  - DARE dataset (657 validation images)
-
-- **NOISY_IMAGES_FOLDER** — Output directory where augmented (corrupted) images will be generated, organized by noise type.
-
----
-
-## Augmented Dataset Generation Procedure
-
-### 1. DARE Image Augmentation (Inference Dataset)
-
-To generate augmented images for the DARE dataset:
-
-1. Open `noisy_main.py`
-2. Set `CLEAN_IMAGES_FOLDER` and `NOISY_IMAGES_FOLDER` to your actual paths
-3. Run the script as-is (no other modifications needed)
+To download the dataset (without the heavy image column for faster processing), run:
 
 ```bash
-cd scripts/visual/noise_addition
-python noisy_main.py
+python download_dataset.py
 ```
 
-### 2. VQAv2 Image Augmentation (Training Dataset)
+This generates:
 
-To generate augmented images for the VQAv2 dataset:
-
-1. Open `noisy_main.py`
-2. Uncomment lines 51, 52, and 53
-3. Comment out everything after those lines
-4. Set `CLEAN_IMAGES_FOLDER` and `NOISY_IMAGES_FOLDER` to your actual paths
-
-```bash
-cd scripts/visual/noise_addition
-python noisy_main.py
+```
+data/[without images]1_correct_validation.csv
 ```
 
 ---
 
-## Output Structure
+## Step 2: Add Noise to Questions
 
-After running, `NOISY_IMAGES_FOLDER` will be organized by noise type:
+To introduce noise into the `question` column, run:
 
-```
-NOISY_IMAGES_FOLDER/
-├── Gaussian-noise/
-├── Shot-noise/
-├── Brightness/
-├── Contrast/
-├── Snow/
-├── Fog/
-├── Frost/
-├── Rain/
-├── Spatter/
-├── Defocus-blur/
-├── Motion-blur/
-├── Zoom-Blur/
-├── Elastic/
-├── Pixelate/
-├── JPEG-compression/
-├── Impulse-noise/
-├── Speckle-noise/
-└── Saturation/
+```bash
+python noise_addition.py
 ```
 
-Each subfolder contains corrupted versions of all input images at a randomly chosen severity level (1–5).
+This produces:
+
+```
+data/NoisyQuestionPairs.csv
+```
+
+Two new columns are added:
+
+| Column | Description |
+|--------|-------------|
+| `modified_question` | The corrupted version of the original question |
+| `modified_question_function_name` | The name of the perturbation function applied |
+
+---
+
+## Step 3: Add Denoised Questions
+
+To create denoised versions of the noisy questions in `modified_question`, run:
+
+```bash
+python denoise_script.py
+```
+
+This produces the **final CSV**:
+
+```
+data/Noisy-Denoised_QuestionPairs.csv
+```
+
+One new column is added:
+
+| Column | Description |
+|--------|-------------|
+| `denoised_question` | Gemini 2.0 Flash zero-shot denoised version of `modified_question` |
+
+### Example Output Row
+
+```
+id,instance_id,question,answer,A,B,C,D,category,path,modified_question,modified_question_function_name,denoised_question
+vcr_2321,2321,what are they doing,C,they are discussing divorce,...,vcr,000000130826.jpg,what are they doiÉ´g,substitute_with_homoglyphs,What are they doing?
+```
+
+---
+
+## Perturbation Types
+
+The `noise_addition.py` script applies 18 perturbation methods:
+
+### Character-level
+- OCR errors, keyboard errors, character insertions, deletions, swaps
+
+### Word-level
+- Synonym replacement, misspelling, abbreviation, word swapping
+
+### Stylistic
+- Leet speak, homoglyphs, case randomization, character repetition
+
+### Semantic
+- Back-translation, paraphrasing
