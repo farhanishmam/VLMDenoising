@@ -56,6 +56,70 @@ class InstructBLIPVLM(HuggingFaceVLM):
         from transformers import InstructBlipProcessor, InstructBlipForConditionalGeneration
         super().__init__(InstructBlipForConditionalGeneration, InstructBlipProcessor, model_name)
 
+class LLaVAVLM:
+    def __init__(self, model_name="llava-hf/llava-1.5-7b-hf"):
+        import torch
+        from transformers import LlavaForConditionalGeneration, AutoProcessor
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.processor = AutoProcessor.from_pretrained(model_name)
+        self.model = LlavaForConditionalGeneration.from_pretrained(
+            model_name, torch_dtype=torch.float16
+        ).to(self.device)
+
+    def generate_content(self, prompt, image):
+        import torch
+        # LLaVA-1.5 uses a simple USER/ASSISTANT template with <image> token
+        formatted = f"USER: <image>\n{prompt}\nASSISTANT:"
+        inputs = self.processor(
+            text=formatted, images=image, return_tensors="pt"
+        ).to(self.device)
+        with torch.no_grad():
+            outputs = self.model.generate(**inputs, max_new_tokens=10)
+        # Decode only the newly generated tokens (skip the prompt)
+        input_len = inputs["input_ids"].shape[1]
+        generated = outputs[0][input_len:]
+        return self.processor.decode(generated, skip_special_tokens=True).strip()
+
+
+class JanusVLM:
+    def __init__(self, model_name="deepseek-ai/Janus-Pro-7B"):
+        import torch
+        from transformers import AutoModelForCausalLM, AutoProcessor
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.processor = AutoProcessor.from_pretrained(model_name, trust_remote_code=True)
+        self.model = AutoModelForCausalLM.from_pretrained(
+            model_name, torch_dtype=torch.float16, trust_remote_code=True
+        ).to(self.device)
+
+    def generate_content(self, prompt, image):
+        import torch
+        # Janus uses a multi-turn SFT template with an image placeholder
+        conversation = [
+            {
+                "role": "User",
+                "content": f"<image_placeholder>\n{prompt}",
+                "images": [image],
+            },
+            {"role": "Assistant", "content": ""},
+        ]
+        formatted = self.processor.apply_sft_template_for_multi_turn_prompts(
+            conversations=conversation,
+            sft_format=self.processor.sft_format,
+            system_prompt="",
+        )
+        inputs = self.processor(
+            text=formatted, images=[image], return_tensors="pt", force_batchify=True
+        ).to(self.device)
+        with torch.no_grad():
+            outputs = self.model.generate(
+                **inputs,
+                max_new_tokens=10,
+                pad_token_id=self.processor.tokenizer.eos_token_id,
+            )
+        # Decode only newly generated tokens
+        input_len = inputs["input_ids"].shape[1]
+        generated = outputs[0][input_len:]
+        return self.processor.tokenizer.decode(generated, skip_special_tokens=True).strip()
 
 class TextualDenoiser:
     def __init__(self, api_key):
@@ -75,6 +139,8 @@ def get_vlm_model(model_name, api_key=None):
         'gemini': lambda: GeminiVLM(api_key),
         'idefics2': lambda: Idefics2VLM(),
         'instructblip': lambda: InstructBLIPVLM(),
+        'llava': lambda: LLaVAVLM(),
+        'janus': lambda: JanusVLM(),
     }
     if model_name.lower() not in model_map:
         raise ValueError(f"Unsupported model: {model_name}")
