@@ -105,6 +105,8 @@ corrupted_image = apply_noise(
 )
 ```
 
+Further instructions about running the pipeline is given in the specific folders - Noise Addition and VDN
+
 ## Dependencies
 
 Required packages (see `requirements.txt`):
