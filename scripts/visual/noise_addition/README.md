@@ -25,6 +25,7 @@ From the full VQAv2 dataset:
 ## 📂 Directory Organization
 
 Organize the directories as follows:
+```
 project_root/
 │
 ├── CLEAN_IMAGES_FOLDER/
@@ -36,6 +37,7 @@ project_root/
 │ ├── (augmented images will be saved here)
 │
 ├── noisy_main.py
+```
 
 ### Folder Description
 
@@ -47,7 +49,7 @@ project_root/
 
 - **NOISY_IMAGES_FOLDER**
   - Output directory.
-  - Augmented (corrupted) images will be generated here.
+  - Augmented (corrupted) images will be generated here folder by folder (Visual Corruption Wise).
 
 ---
 
