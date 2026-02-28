@@ -95,7 +95,7 @@ Our VDNs are trained on the VQAv2 dataset (source distribution) and evaluated on
 The VCRN is a ResNet50-based classifier that routes corrupted images to the appropriate corruption-specific denoiser. Train it using:
 
 ```bash
-python scripts/vcrn_training.py \
+python scripts/training/vcrn_training.py \
     --data_dir dataset/ \
     --batch_size 30 \
     --num_epochs 40 \
@@ -133,7 +133,7 @@ dataset/
 Train any denoiser (BRDNet, DnCNN, DRUNet) on any corruption type using the command:
 
 ```bash
-python scripts/csvd_training.py \
+python scripts/training/csvd_training.py \
     --model BRDNet \
     --corruption Brightness \
     --clean_dir data/clean_images/ \
@@ -160,7 +160,7 @@ python scripts/csvd_training.py \
 for corruption in Brightness Contrast Defocus-blur Elastic Fog Frost Gaussian \
                   Impulse JPEG-compression Motion-blur Pixelate Rain \
                   Saturation Shot Snow Spatter Speckle Zoom-Blur; do
-    python scripts/csvd_training.py \
+    python scripts/training/csvd_training.py \
         --model BRDNet \
         --corruption $corruption \
         --clean_dir data/clean/ \
@@ -171,7 +171,7 @@ done
 ### VLM Inference
 
 ```bash
-python scripts/vlm_inference.py \
+python scripts/inference/vlm_inference.py \
     --model gemini \
     --api_key YOUR_GEMINI_API_KEY \
     --data_path data/raw/Noisy-Denoised_QuestionPairs[new].csv \
@@ -213,19 +213,19 @@ The script supports **9 configurations** by combining the corruption states of i
 
 ```bash
 # Baseline: clean image + clean text
-python scripts/vlm_inference.py \
+python scripts/inference/vlm_inference.py \
     --model gemini --api_key $API_KEY \
     --data_path data.csv --image_dir images/ \
     --category count --image_type clean --text_type clean
 
 # Test visual denoiser: noisy image + clean text
-python scripts/vlm_inference.py \
+python scripts/inference/vlm_inference.py \
     --model gemini --api_key $API_KEY \
     --data_path data.csv --image_dir images/ \
     --category count --image_type noisy --text_type clean
 
 # Test both denoisers: denoised image + denoised text
-python scripts/vlm_inference.py \
+python scripts/inference/vlm_inference.py \
     --model gemini --api_key $API_KEY \
     --data_path data.csv --image_dir images/ \
     --category all --image_type denoised --text_type denoised
@@ -237,7 +237,7 @@ The script automatically saves progress to checkpoint files and can resume from 
 
 ```bash
 # Resume from previous run
-python scripts/vlm_inference.py \
+python scripts/inference/vlm_inference.py \
     --model gemini --api_key $API_KEY \
     --data_path data.csv \
     --checkpoint checkpoint_gemini_count_clean_noisy.json \
