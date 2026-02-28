@@ -77,7 +77,7 @@ class VQADataset(Dataset):
         Returns the length of the VQA2.0 dataset.
 
             Returns:
-                datasetLenght (int): Length of the dataset.
+                datasetLength (int): Length of the dataset.
         '''
         return len(self.imageIds)
 
@@ -87,7 +87,7 @@ class VQADataset(Dataset):
         Returns an item from the VQA2.0 dataset given an index.
 
             Parameters:
-                index (int): Index of the itam from the VQA2.0 dataset.
+                index (int): Index of the item from the VQA2.0 dataset.
             Returns:
                 item (tuple): Tuple containing the image, questions and annotations for the given index such as (image, [questions], [answers], imageId, [questionIds], [questionTypes])
         '''
