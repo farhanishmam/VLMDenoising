@@ -3,7 +3,7 @@ from torchvision import models, transforms
 import torch.nn as nn
 import torchvision.models as models
 from PIL import Image
-from ..common.utils import Logger 
+from ..noise_addition.utils import Logger 
 
 # Initialize logger
 logger = Logger(logPath='Logger')
