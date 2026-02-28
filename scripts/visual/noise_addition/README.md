@@ -1,16 +1,91 @@
-- Download the DARE Dataset's 1_correct subset's validation split images using the <a href="https://huggingface.co/datasets/cambridgeltl/DARE"> link </a> or you can use the <a href= "https://drive.google.com/drive/folders/1n32Cu6d2hEFt-ZSJgorlm7X2t4juQwSe?usp=sharing"> drive link </a>
+# Dataset Preparation & Augmented Dataset Generation
 
-- Download the VQA-v2 dataset from: https://visualqa.org/. Take a subset of 3000 images from the vqav2 dataset
+## 📥 Dataset Download Instructions
 
-- Organzize the directories accordingly.
-- CLEAN_IMAGES_FOLDER will contain clean images (VQav2 subset of 3000 images otr DARE dataset - 657 images)
-- NOISY_IMAGES_FOLDER will contain output augmented images (this is the output folder)
+### 1️⃣ DARE Dataset (1_correct – Validation Split)
+
+Download the **1_correct subset – validation split images** from:
+
+- 🤗 Hugging Face: https://huggingface.co/datasets/cambridgeltl/DARE  
+- 📂 Google Drive (direct images): https://drive.google.com/drive/folders/1n32Cu6d2hEFt-ZSJgorlm7X2t4juQwSe?usp=sharing  
+
+---
+
+### 2️⃣ VQA-v2 Dataset
+
+Download the VQA-v2 dataset from:
+
+- 🌐 https://visualqa.org/
+
+From the full VQAv2 dataset:
+- Select a subset of **3000 images** for experimentation.
+
+---
+
+## 📂 Directory Organization
+
+Organize the directories as follows:
+project_root/
+│
+├── CLEAN_IMAGES_FOLDER/
+│ ├── image_1.jpg
+│ ├── image_2.jpg
+│ └── ...
+│
+├── NOISY_IMAGES_FOLDER/
+│ ├── (augmented images will be saved here)
+│
+├── noisy_main.py
+
+### Folder Description
+
+- **CLEAN_IMAGES_FOLDER**
+  - Contains clean images.
+  - Either:
+    - VQAv2 subset (3000 images), or
+    - DARE dataset (657 validation images)
+
+- **NOISY_IMAGES_FOLDER**
+  - Output directory.
+  - Augmented (corrupted) images will be generated here.
+
+---
+
+# 🧪 Augmented Dataset Generation Procedure
+
+## 🔹 1. DARE Image Augmentation (Inference Dataset)
+
+To generate augmented images for the DARE dataset:
+
+- Open `noisy_main.py`
+- Adjust folder paths accordingly
+- Run the script **without modifying any lines**
+
+Then execute:
+
+```bash
+python noisy_main.py
+```
+
+## 🔹 1. VQAv2 Image Augmentation (Inference Dataset)
+
+To generate augmented images for the DARE dataset:
+
+- Open `noisy_main.py`
+- Uncomment lines 51, 52, and 53
+- Comment out everything after those lines
+- Adjust folder paths accordingly
+
+Then execute:
+
+```bash
+python noisy_main.py
+```
 
 
-Augmented Dataset Generation Procedure:
-------------------------------------------
-1. For DARE image augmented dataset generation (Inference Dataset), run the noisy_main.py file as it is. Remember to adjust the folders accordingly.
 
-2. For VQAv2 image augmented dataset generation, in the noisy_main.py file, uncomment the lines 51, 52, 53 and comment everything afterwards. Remember to adjust the folders accordingly.
 
-3. Run the command: python noisy_main.py
+
+
+
+
