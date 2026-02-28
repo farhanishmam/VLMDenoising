@@ -41,4 +41,4 @@ dataset = VQADataset(name, questionsJSON, annotationsJSON, CLEAN_IMAGES_FOLDER, 
 generator = Generator(dataset, logger)
 # transformationsList = ["Defocus-blur_L1"] ## test
 transformationsList = list(generator.validTransformations.keys())
-generator.transform(transformationsList, outputPath=outputPath)
+generator.transform(transformationsList, outputPath=NOISY_IMAGES_FOLDER)
