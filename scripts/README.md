@@ -54,6 +54,8 @@ Visual Denoising Network inference pipeline.
 - `vcrn.py` - Visual Corruption Routing Network (ResNet50 classifier)
 - `csvd.py` - Corruption-Specific Visual Denoisers
 
+**Main Script:** `pipeline.py` 
+
 ## Notes
 
 - All scripts use `SEED=42` for reproducibility
