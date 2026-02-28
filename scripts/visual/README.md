@@ -13,7 +13,8 @@ visual/
 │   ├── utils.py         # Image I/O utilities and Logger class
 │   ├── utils_new.py     # Random seed utilities
 │   ├── noise_generator.py  # apply_noise() entry point
-│   └── noisy_main.py    # Script for applying random corruptions to images
+│   ├── noisy_main.py    # Script for applying DARE image corruptions
+│   └── vqav2.py         # Script for applying VQAv2 image corruptions
 └── vdn/                 # Visual Denoising Network pipeline
     ├── pipeline.py      # End-to-end denoising pipeline (top-K weighted avg)
     ├── csvd.py          # Corruption-Specific Visual Denoisers
