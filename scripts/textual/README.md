@@ -1,54 +1,103 @@
-# Textual Noise and Denoising Workflow for the Dataset
+# Dataset Preparation & Augmented Dataset Generation
 
-The dataset we are using is <a href="https://huggingface.co/datasets/cambridgeltl/DARE"> DARE Dataset </a> (Sterz et al)
+## Dataset Download Instructions
 
-1.  <b> Download the Dataset </b>
-To download the dataset (without the heavy img column for faster processing), run:
+### 1. DARE Dataset (1_correct – Validation Split)
 
-    ```
-    python download_dataset.py
-    ```
-    
-    This will generate the file:
-    ```
-    data/[without images]1_correct_validation.csv 
-    ```
-2. <b> Add Noise to Questions </b>
-To introduce noise into the `question` column of the `data/[without images]1_correct_validation.csv` CSV, just run the below command: 
+Download the **1_correct subset – validation split images** from:
 
-    ```
-    python noise_addition.py
-    ```
-    
-    This will produce:
-    ```
-    data/NoisyQuestionPairs.csv
-    ```
+- Hugging Face: https://huggingface.co/datasets/cambridgeltl/DARE
+- Google Drive (direct images): https://drive.google.com/drive/folders/1n32Cu6d2hEFt-ZSJgorlm7X2t4juQwSe?usp=sharing
 
-    The new file will include two additional columns:
+### 2. VQA-v2 Dataset
 
-    - `modified_question`
+Download the VQA-v2 dataset from:
 
-    - `modified_question_function_name`
+- https://visualqa.org/
 
-3. <b> Add Denoised Questions </b>
-To create denoised versions of the noisy questions stored in the `modified_question` column of `data/NoisyQuestionPairs.csv`, run:
+From the full VQAv2 dataset, select a subset of **3000 images** for experimentation.
 
-    ```
-    python denoise_script.py
-    ```
-    
-    This will produce the <b>final CSV</b>:
-    ```
-    data/Noisy-Denoised_QuestionPairs.csv
-    ```
-    The new file will include another additional columns:
+---
 
-    - `denoised_question`
+## Directory Organization
 
-    the first row can be looked like below:
+Organize the directories as follows:
 
-    ```csv
-    id,instance_id,question,answer,A,B,C,D,category,path,modified_question,modified_question_function_name,denoised_question
-    vcr_2321,2321,what are they doing,what are they doiÉ´g,What are they doing?,substitute_with_homoglyphs,['C'],they are discussing divorce,they are sheltering from the rain,they are on holiday and enjoying a break from walking,they are waiting on a bus,vcr,000000130826.jpg
-    ```
+```
+project_root/
+├── CLEAN_IMAGES_FOLDER/
+│   ├── image_1.jpg
+│   ├── image_2.jpg
+│   └── ...
+└── NOISY_IMAGES_FOLDER/
+    └── (augmented images will be saved here)
+```
+
+### Folder Description
+
+- **CLEAN_IMAGES_FOLDER** — Contains clean input images. Either:
+  - VQAv2 subset (3000 images), or
+  - DARE dataset (657 validation images)
+
+- **NOISY_IMAGES_FOLDER** — Output directory where augmented (corrupted) images will be generated, organized by noise type.
+
+---
+
+## Augmented Dataset Generation Procedure
+
+### 1. DARE Image Augmentation (Inference Dataset)
+
+To generate augmented images for the DARE dataset:
+
+1. Open `noisy_main.py`
+2. Set `CLEAN_IMAGES_FOLDER` and `NOISY_IMAGES_FOLDER` to your actual paths
+3. Run the script as-is (no other modifications needed)
+
+```bash
+cd scripts/visual/noise_addition
+python noisy_main.py
+```
+
+### 2. VQAv2 Image Augmentation (Training Dataset)
+
+To generate augmented images for the VQAv2 dataset:
+
+1. Open `noisy_main.py`
+2. Uncomment lines 51, 52, and 53
+3. Comment out everything after those lines
+4. Set `CLEAN_IMAGES_FOLDER` and `NOISY_IMAGES_FOLDER` to your actual paths
+
+```bash
+cd scripts/visual/noise_addition
+python noisy_main.py
+```
+
+---
+
+## Output Structure
+
+After running, `NOISY_IMAGES_FOLDER` will be organized by noise type:
+
+```
+NOISY_IMAGES_FOLDER/
+├── Gaussian-noise/
+├── Shot-noise/
+├── Brightness/
+├── Contrast/
+├── Snow/
+├── Fog/
+├── Frost/
+├── Rain/
+├── Spatter/
+├── Defocus-blur/
+├── Motion-blur/
+├── Zoom-Blur/
+├── Elastic/
+├── Pixelate/
+├── JPEG-compression/
+├── Impulse-noise/
+├── Speckle-noise/
+└── Saturation/
+```
+
+Each subfolder contains corrupted versions of all input images at a randomly chosen severity level (1–5).
