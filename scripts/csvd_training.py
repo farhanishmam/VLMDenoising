@@ -210,7 +210,7 @@ def train_model(model, train_loader, val_loader, args, device):
 
 
 def evaluate_model(model, test_loader, args, device):
-    model.load_state_dict(torch.load(f'{args.corruption}_{args.model}.pt'))
+    model.load_state_dict(torch.load(f'{args.corruption}_{args.model}.pt', weights_only=True))
     model.eval()
     test_loss, psnr_sum, ssim_sum, criterion = 0.0, 0.0, 0.0, nn.MSELoss()
 
