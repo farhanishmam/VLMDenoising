@@ -34,7 +34,7 @@ project_root/
 │ └── ...
 │
 ├── NOISY_IMAGES_FOLDER/
-│ ├── (augmented images will be saved here)
+│ ├── (augmented images will be saved here folder by folder (visual corruption wise))
 │
 ├── noisy_main.py
 ```
