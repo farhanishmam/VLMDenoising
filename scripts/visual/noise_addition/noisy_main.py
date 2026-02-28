@@ -23,6 +23,7 @@ from utils import saveImage
 from dataset import VQADataset
 from generator import Generator
 
+
 # Set the random seed for reproducibility
 SEED = 42
 set_random_seed(SEED)
@@ -47,6 +48,9 @@ logger = None  # Replace this with actual logger initialization
 dataset = VQADataset(name, questionsJSON, annotationsJSON, CLEAN_IMAGES_FOLDER, imagePrefix, logger)
 
 generator = Generator(dataset, logger)
+# transformationsList = ["Defocus-blur_L1"]
+# transformationsList = list(generator.validTransformations.keys())[23:]
+# generator.transform(transformationsList, outputPath=outputPath)
 
 NOISE_TYPES = [
     "Shot-noise",
