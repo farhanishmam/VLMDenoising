@@ -99,7 +99,7 @@ def get_dncnn_model():
     """Get DnCNN model from deepinv"""
     try:
         from deepinv.models import DnCNN
-        return DnCNN(in_channels=3, out_channels=3, depth=20, pretrained=None, device='cuda')
+        return DnCNN(in_channels=3, out_channels=3, depth=20, pretrained=None, device=str(torch.device("cuda" if torch.cuda.is_available() else "cpu")))
     except ImportError:
         print("deepinv not installed. Install with: pip install deepinv")
         return None
