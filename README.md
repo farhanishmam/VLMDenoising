@@ -246,6 +246,7 @@ python scripts/vlm_inference.py \
 
 **Acknowledgements:** If you find our work useful, feel free to star our repo and cite the work when the proceedings are available.
 
+## 📖 Citation
 ```bibtex
 @InProceedings{Latif_2026_WACV,
     author    = {Latif, Sameer Shafayet and Shiper, Sadab and Kiran, K. M. Rahiduzzaman and Ishmam, Md Farhan and Hossain, Md Azam and Kamal, Abu Raihan Mostofa and Ashmafee, Md Hamjajul},
