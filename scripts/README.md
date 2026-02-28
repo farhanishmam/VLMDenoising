@@ -4,9 +4,9 @@ Utilities for generating noisy/augmented data for VLM denoising experiments.
 
 ## Structure
 
-### `text/`
+### `textual/`
 
-Text augmentation and adversarial perturbations using nlpaug library.
+Text augmentation and adversarial perturbations using the nlpaug library.
 
 **Key Functions:**
 
@@ -17,25 +17,25 @@ Text augmentation and adversarial perturbations using nlpaug library.
 
 **Usage:**
 
-```python
+```bash
 # Applies 18 perturbation methods to each question in the dataset
-python "text/augmentation/Adversarial Attack Using Libraries.py"
+python textual/noise_addition.py
 ```
 
-### `vision/`
+### `visual/`
 
 Image corruption generation for VQA datasets.
 
-#### `vision/augmentation/inference/`
+#### `visual/noise_addition/`
 
 Apply individual noise types to images with random severity levels.
 
 **Main Script:** `noisy_main.py`
 
 **Noise Types (18):**
-Shot, Gaussian, Brightness, Speckle, Contrast, Snow, Defocus-blur, Pixelate, Spatter, Elastic, Impulse, Saturation, Zoom-blur, JPEG-compression, Fog, Frost, Rain, Motion-blur
+Shot, Gaussian, Brightness, Speckle, Contrast, Snow, Defocus-blur, Pixelate, Spatter, Elastic, Impulse, Saturation, Zoom-Blur, JPEG-compression, Fog, Frost, Rain, Motion-blur
 
-#### `vision/augmentation/training/`
+#### `visual/training/`
 
 Batch generation of noisy VQA datasets with structured logging and reporting.
 
@@ -43,12 +43,20 @@ Batch generation of noisy VQA datasets with structured logging and reporting.
 
 **Components:**
 
-- `generator.py` - Noise transformation pipeline
-- `dataset.py` - VQA dataset loader
-- `report.py` - Experiment reporting
-- `utils.py` - Logging and file operations
+- `noise_addition/generator.py` - Noise transformation pipeline
+- `noise_addition/dataset.py` - VQA dataset loader
+- `training/report.py` - Experiment reporting
+- `noise_addition/utils.py` - Logging and file operations
 
-**Requirements:** See `vision/augmentation/training/requirements.txt`
+#### `visual/vdn/`
+
+Visual Denoising Network inference pipeline.
+
+**Components:**
+
+- `pipeline.py` - End-to-end top-K weighted average denoising
+- `vcrn.py` - Visual Corruption Routing Network (ResNet50 classifier)
+- `csvd.py` - Corruption-Specific Visual Denoisers
 
 ## Notes
 
