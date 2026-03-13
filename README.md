@@ -244,9 +244,9 @@ python scripts/inference/vlm_inference.py \
     --image_type clean --text_type noisy
 ```
 
-**Acknowledgements:** If you find our work useful, feel free to star our repo and cite the work when the proceedings are available.
-
 ## Citation
+If you find our work useful, feel free to star our repo and cite our work:
+
 ```bibtex
 @InProceedings{Latif_2026_WACV,
     author    = {Latif, Sameer Shafayet and Shiper, Sadab and Kiran, K. M. Rahiduzzaman and Ishmam, Md Farhan and Hossain, Md Azam and Kamal, Abu Raihan Mostofa and Ashmafee, Md Hamjajul},
