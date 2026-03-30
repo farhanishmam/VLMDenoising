@@ -30,7 +30,7 @@
 ---
 
 <p style="text-align: justify;">
-<strong>tldr.</strong> We improved the multimodal corruption robustness of VLMs using Mixture of Experts (MOE) style visual denoisers and LLMs as textual denoisers. 
+<strong>tldr.</strong> We improved the multimodal corruption robustness of VLMs using Mixture of Experts (MoE) style visual denoisers and LLMs as textual denoisers. 
 </p>
 
 <p align="center">
